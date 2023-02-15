@@ -127,6 +127,17 @@ mean(hol_tbl$HOLIDAY) * 365.25 # 10 holidays in Quebec
 mean(hol_tbl$WEEKEND) * 365.25 # 104 week-ends days ~ 2/7
 mean(hol_tbl$HOLIDAY_WE) * 365 # 114 days.
 
+# Replace NA by empty values.
+hol_tbl[is.na(HOLIDAY_CHR), HOLIDAY_CHR := ""]
+
+
+# Reorganize the columns -------------------------------------------------------
+
+
+hol_tbl <- hol_tbl[, .(
+    DATE, YEAR, MONTH, DAY, WEEKDAY, WEEKDAY_CHR, WEEKEND, HOLIDAY, HOLIDAY_CHR, HOLIDAY_WE
+)]
+
 
 # Export table -----------------------------------------------------------------
 
