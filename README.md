@@ -14,7 +14,7 @@ Voici les colonnes du fichier :
 | `MONTH`            | Mois en format `MM`                                         |
 | `DAY`              | Jour du mois en format `DD`                                 |
 | `WEEKDAY`          | Jour de la semaine de `1` (lundi) à `7` (dimanche)          |
-| `WEEKDAY_CHR`      | Abréviation en trois lettres des jours de la semaine        |
+| `WEEKDAY_CHR`      | Abréviation de trois lettres du jour de la semaine (en anglais) |
 | `WEEKEND`          | Indicateur `1`/`0`de fin de semaine                         |
 | `HOLIDAY`          | Indicateur `1`/`0` d'une jour férié                         |
 | `HOLIDAY_CHR`      | Nom du jour férié                                           |
@@ -26,4 +26,4 @@ Voici les colonnes du fichier :
 
 **Améliorations possible :** 
 
-+ Revoir le calcul pour Noël, le Journal de l'an, la Saint-Jean-Bapstiste et le jour du Canada
++ Revoir l'attribution des jours pour Noël, le Jour de l'An, la Saint-Jean-Bapstiste et le Jour du Canada. Ceux-ci sont attribués de la manière "officielle", mais le comportement "habituel" des gens pourrait être différent.
