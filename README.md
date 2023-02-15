@@ -1,4 +1,4 @@
-Fichier des jours fériés réel au Québec de 1980 à 2022
+Jours fériés au Québec 📆
 ================================================================================
 
 Voici un fichier prêt à l'emploit des jours fériés réels au Québec de 1980 à 2022. Les jours fériés ne tombent jamais la fin de semaine, et sont reporté respectivement au lundi suivant ou au vendredi précédent. Le but de ce fichier est de reproduire lorsque les gens sont en congé.
