@@ -7,18 +7,18 @@ Le fichier est storé dans `out/quebec_holidays_version.csv`.
 
 Voici les colonnes du fichier : 
 
-| Variable           | Description                                                 |
-|--------------------|-------------------------------------------------------------|
-| `DATE`             | Date dans le format `YYYYMMDD`                              |
-| `YEAR`             | Année en format `YYYY`                                      |
-| `MONTH`            | Mois en format `MM`                                         |
-| `DAY`              | Jour du mois en format `DD`                                 |
-| `WEEKDAY`          | Jour de la semaine de `1` (lundi) à `7` (dimanche)          |
+| Colonne            | Description                                                     |
+|--------------------|-----------------------------------------------------------------|
+| `DATE`             | Date dans le format `YYYYMMDD`                                  |
+| `YEAR`             | Année en format `YYYY`                                          |
+| `MONTH`            | Mois en format `MM`                                             |
+| `DAY`              | Jour du mois en format `DD`                                     |
+| `WEEKDAY`          | Jour de la semaine de `1` (lundi) à `7` (dimanche)              |
 | `WEEKDAY_CHR`      | Abréviation de trois lettres du jour de la semaine (en anglais) |
-| `WEEKEND`          | Indicateur `1`/`0`de fin de semaine                         |
-| `HOLIDAY`          | Indicateur `1`/`0` d'une jour férié                         |
-| `HOLIDAY_CHR`      | Nom du jour férié                                           |
-| `HOLIDAY_WE`       | Indicateur `1`/`0` d'une fin de semaine ou d'un jour férié  |
+| `WEEKEND`          | Indicateur `1`/`0`de fin de semaine                             |
+| `HOLIDAY`          | Indicateur `1`/`0` d'un jour férié                              |
+| `HOLIDAY_CHR`      | Nom du jour férié                                               |
+| `HOLIDAY_WE`       | Indicateur `1`/`0` d'une fin de semaine ou d'un jour férié      |
 
 *Enjoy !* 
 
@@ -26,4 +26,4 @@ Voici les colonnes du fichier :
 
 **Améliorations possible :** 
 
-+ Revoir l'attribution des jours pour Noël, le Jour de l'An, la Saint-Jean-Bapstiste et le Jour du Canada. Ceux-ci sont attribués de la manière "officielle", mais le comportement "habituel" des gens pourrait être différent.
++ Revoir l'attribution des jours fériés pour Noël, le Jour de l'An, la Saint-Jean-Bapstiste et le Jour du Canada. Ceux-ci sont attribués d'une manière plus "officielle" (i.e. le jour suivant ou précédent un week-end), mais le comportement "habituel" pourrait être différent (i.e. une préférence pour les congés avant l'événement).
