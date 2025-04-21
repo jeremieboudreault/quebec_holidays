@@ -1,0 +1,4096 @@
+Date,Holiday,Province,Year
+1990-01-01,New Year's Day,AB,1990
+1990-01-01,New Year's Day,BC,1990
+1990-01-01,New Year's Day,MB,1990
+1990-01-01,New Year's Day,NB,1990
+1990-01-01,New Year's Day,NL,1990
+1990-01-01,New Year's Day,NS,1990
+1990-01-01,New Year's Day,NT,1990
+1990-01-01,New Year's Day,NU,1990
+1990-01-01,New Year's Day,ON,1990
+1990-01-01,New Year's Day,PE,1990
+1990-01-01,New Year's Day,QC,1990
+1990-01-01,New Year's Day,SK,1990
+1990-01-01,New Year's Day,YT,1990
+1990-02-19,Family Day,AB,1990
+1990-04-13,Good Friday,AB,1990
+1990-04-13,Good Friday,BC,1990
+1990-04-13,Good Friday,MB,1990
+1990-04-13,Good Friday,NB,1990
+1990-04-13,Good Friday,NL,1990
+1990-04-13,Good Friday,NS,1990
+1990-04-13,Good Friday,NT,1990
+1990-04-13,Good Friday,NU,1990
+1990-04-13,Good Friday,ON,1990
+1990-04-13,Good Friday,PE,1990
+1990-04-13,Good Friday,QC,1990
+1990-04-13,Good Friday,SK,1990
+1990-04-13,Good Friday,YT,1990
+1990-05-21,Victoria Day,AB,1990
+1990-05-21,Victoria Day,BC,1990
+1990-05-21,Victoria Day,MB,1990
+1990-05-21,Victoria Day,NT,1990
+1990-05-21,Victoria Day,NU,1990
+1990-05-21,Victoria Day,ON,1990
+1990-05-21,Victoria Day,SK,1990
+1990-05-21,Victoria Day,YT,1990
+1990-06-24,Saint John the Baptist Day,QC,1990
+1990-06-25,Saint John the Baptist Day (observed),QC,1990
+1990-07-01,Canada Day,AB,1990
+1990-07-01,Canada Day,BC,1990
+1990-07-01,Canada Day,MB,1990
+1990-07-01,Canada Day,NB,1990
+1990-07-01,Canada Day; Memorial Day,NL,1990
+1990-07-01,Canada Day,NS,1990
+1990-07-01,Canada Day,NT,1990
+1990-07-01,Canada Day,NU,1990
+1990-07-01,Canada Day,ON,1990
+1990-07-01,Canada Day,PE,1990
+1990-07-01,Canada Day,QC,1990
+1990-07-01,Canada Day,SK,1990
+1990-07-01,Canada Day,YT,1990
+1990-07-02,Canada Day (observed),AB,1990
+1990-07-02,Canada Day (observed),BC,1990
+1990-07-02,Canada Day (observed); Memorial Day (observed),NL,1990
+1990-07-02,Canada Day (observed),PE,1990
+1990-07-02,Canada Day (observed),QC,1990
+1990-07-02,Canada Day (observed),SK,1990
+1990-07-02,Canada Day (observed),YT,1990
+1990-08-06,British Columbia Day,BC,1990
+1990-08-06,New Brunswick Day,NB,1990
+1990-08-06,Civic Holiday,NT,1990
+1990-08-06,Civic Holiday,NU,1990
+1990-08-06,Saskatchewan Day,SK,1990
+1990-08-20,Discovery Day,YT,1990
+1990-09-03,Labor Day,AB,1990
+1990-09-03,Labor Day,BC,1990
+1990-09-03,Labor Day,MB,1990
+1990-09-03,Labor Day,NB,1990
+1990-09-03,Labor Day,NL,1990
+1990-09-03,Labor Day,NS,1990
+1990-09-03,Labor Day,NT,1990
+1990-09-03,Labor Day,NU,1990
+1990-09-03,Labor Day,ON,1990
+1990-09-03,Labor Day,PE,1990
+1990-09-03,Labor Day,QC,1990
+1990-09-03,Labor Day,SK,1990
+1990-09-03,Labor Day,YT,1990
+1990-10-08,Thanksgiving Day,AB,1990
+1990-10-08,Thanksgiving Day,BC,1990
+1990-10-08,Thanksgiving Day,MB,1990
+1990-10-08,Thanksgiving Day,NT,1990
+1990-10-08,Thanksgiving Day,NU,1990
+1990-10-08,Thanksgiving Day,ON,1990
+1990-10-08,Thanksgiving Day,QC,1990
+1990-10-08,Thanksgiving Day,SK,1990
+1990-10-08,Thanksgiving Day,YT,1990
+1990-11-11,Remembrance Day,AB,1990
+1990-11-11,Remembrance Day,BC,1990
+1990-11-11,Remembrance Day,NB,1990
+1990-11-11,Remembrance Day,NL,1990
+1990-11-11,Remembrance Day,NS,1990
+1990-11-11,Remembrance Day,NT,1990
+1990-11-11,Remembrance Day,NU,1990
+1990-11-11,Remembrance Day,PE,1990
+1990-11-11,Remembrance Day,SK,1990
+1990-11-11,Remembrance Day,YT,1990
+1990-11-12,Remembrance Day (observed),AB,1990
+1990-11-12,Remembrance Day (observed),NL,1990
+1990-11-12,Remembrance Day (observed),NS,1990
+1990-11-12,Remembrance Day (observed),PE,1990
+1990-11-12,Remembrance Day (observed),SK,1990
+1990-11-12,Remembrance Day (observed),YT,1990
+1990-12-25,Christmas Day,AB,1990
+1990-12-25,Christmas Day,BC,1990
+1990-12-25,Christmas Day,MB,1990
+1990-12-25,Christmas Day,NB,1990
+1990-12-25,Christmas Day,NL,1990
+1990-12-25,Christmas Day,NS,1990
+1990-12-25,Christmas Day,NT,1990
+1990-12-25,Christmas Day,NU,1990
+1990-12-25,Christmas Day,ON,1990
+1990-12-25,Christmas Day,PE,1990
+1990-12-25,Christmas Day,QC,1990
+1990-12-25,Christmas Day,SK,1990
+1990-12-25,Christmas Day,YT,1990
+1990-12-26,Boxing Day,ON,1990
+1991-01-01,New Year's Day,AB,1991
+1991-01-01,New Year's Day,BC,1991
+1991-01-01,New Year's Day,MB,1991
+1991-01-01,New Year's Day,NB,1991
+1991-01-01,New Year's Day,NL,1991
+1991-01-01,New Year's Day,NS,1991
+1991-01-01,New Year's Day,NT,1991
+1991-01-01,New Year's Day,NU,1991
+1991-01-01,New Year's Day,ON,1991
+1991-01-01,New Year's Day,PE,1991
+1991-01-01,New Year's Day,QC,1991
+1991-01-01,New Year's Day,SK,1991
+1991-01-01,New Year's Day,YT,1991
+1991-02-18,Family Day,AB,1991
+1991-03-29,Good Friday,AB,1991
+1991-03-29,Good Friday,BC,1991
+1991-03-29,Good Friday,MB,1991
+1991-03-29,Good Friday,NB,1991
+1991-03-29,Good Friday,NL,1991
+1991-03-29,Good Friday,NS,1991
+1991-03-29,Good Friday,NT,1991
+1991-03-29,Good Friday,NU,1991
+1991-03-29,Good Friday,ON,1991
+1991-03-29,Good Friday,PE,1991
+1991-03-29,Good Friday,QC,1991
+1991-03-29,Good Friday,SK,1991
+1991-03-29,Good Friday,YT,1991
+1991-05-20,Victoria Day,AB,1991
+1991-05-20,Victoria Day,BC,1991
+1991-05-20,Victoria Day,MB,1991
+1991-05-20,Victoria Day,NT,1991
+1991-05-20,Victoria Day,NU,1991
+1991-05-20,Victoria Day,ON,1991
+1991-05-20,Victoria Day,SK,1991
+1991-05-20,Victoria Day,YT,1991
+1991-06-24,Saint John the Baptist Day,QC,1991
+1991-07-01,Canada Day,AB,1991
+1991-07-01,Canada Day,BC,1991
+1991-07-01,Canada Day,MB,1991
+1991-07-01,Canada Day,NB,1991
+1991-07-01,Canada Day; Memorial Day,NL,1991
+1991-07-01,Canada Day,NS,1991
+1991-07-01,Canada Day,NT,1991
+1991-07-01,Canada Day,NU,1991
+1991-07-01,Canada Day,ON,1991
+1991-07-01,Canada Day,PE,1991
+1991-07-01,Canada Day,QC,1991
+1991-07-01,Canada Day,SK,1991
+1991-07-01,Canada Day,YT,1991
+1991-08-05,British Columbia Day,BC,1991
+1991-08-05,New Brunswick Day,NB,1991
+1991-08-05,Civic Holiday,NT,1991
+1991-08-05,Civic Holiday,NU,1991
+1991-08-05,Saskatchewan Day,SK,1991
+1991-08-19,Discovery Day,YT,1991
+1991-09-02,Labor Day,AB,1991
+1991-09-02,Labor Day,BC,1991
+1991-09-02,Labor Day,MB,1991
+1991-09-02,Labor Day,NB,1991
+1991-09-02,Labor Day,NL,1991
+1991-09-02,Labor Day,NS,1991
+1991-09-02,Labor Day,NT,1991
+1991-09-02,Labor Day,NU,1991
+1991-09-02,Labor Day,ON,1991
+1991-09-02,Labor Day,PE,1991
+1991-09-02,Labor Day,QC,1991
+1991-09-02,Labor Day,SK,1991
+1991-09-02,Labor Day,YT,1991
+1991-10-14,Thanksgiving Day,AB,1991
+1991-10-14,Thanksgiving Day,BC,1991
+1991-10-14,Thanksgiving Day,MB,1991
+1991-10-14,Thanksgiving Day,NT,1991
+1991-10-14,Thanksgiving Day,NU,1991
+1991-10-14,Thanksgiving Day,ON,1991
+1991-10-14,Thanksgiving Day,QC,1991
+1991-10-14,Thanksgiving Day,SK,1991
+1991-10-14,Thanksgiving Day,YT,1991
+1991-11-11,Remembrance Day,AB,1991
+1991-11-11,Remembrance Day,BC,1991
+1991-11-11,Remembrance Day,NB,1991
+1991-11-11,Remembrance Day,NL,1991
+1991-11-11,Remembrance Day,NS,1991
+1991-11-11,Remembrance Day,NT,1991
+1991-11-11,Remembrance Day,NU,1991
+1991-11-11,Remembrance Day,PE,1991
+1991-11-11,Remembrance Day,SK,1991
+1991-11-11,Remembrance Day,YT,1991
+1991-12-25,Christmas Day,AB,1991
+1991-12-25,Christmas Day,BC,1991
+1991-12-25,Christmas Day,MB,1991
+1991-12-25,Christmas Day,NB,1991
+1991-12-25,Christmas Day,NL,1991
+1991-12-25,Christmas Day,NS,1991
+1991-12-25,Christmas Day,NT,1991
+1991-12-25,Christmas Day,NU,1991
+1991-12-25,Christmas Day,ON,1991
+1991-12-25,Christmas Day,PE,1991
+1991-12-25,Christmas Day,QC,1991
+1991-12-25,Christmas Day,SK,1991
+1991-12-25,Christmas Day,YT,1991
+1991-12-26,Boxing Day,ON,1991
+1992-01-01,New Year's Day,AB,1992
+1992-01-01,New Year's Day,BC,1992
+1992-01-01,New Year's Day,MB,1992
+1992-01-01,New Year's Day,NB,1992
+1992-01-01,New Year's Day,NL,1992
+1992-01-01,New Year's Day,NS,1992
+1992-01-01,New Year's Day,NT,1992
+1992-01-01,New Year's Day,NU,1992
+1992-01-01,New Year's Day,ON,1992
+1992-01-01,New Year's Day,PE,1992
+1992-01-01,New Year's Day,QC,1992
+1992-01-01,New Year's Day,SK,1992
+1992-01-01,New Year's Day,YT,1992
+1992-02-17,Family Day,AB,1992
+1992-04-17,Good Friday,AB,1992
+1992-04-17,Good Friday,BC,1992
+1992-04-17,Good Friday,MB,1992
+1992-04-17,Good Friday,NB,1992
+1992-04-17,Good Friday,NL,1992
+1992-04-17,Good Friday,NS,1992
+1992-04-17,Good Friday,NT,1992
+1992-04-17,Good Friday,NU,1992
+1992-04-17,Good Friday,ON,1992
+1992-04-17,Good Friday,PE,1992
+1992-04-17,Good Friday,QC,1992
+1992-04-17,Good Friday,SK,1992
+1992-04-17,Good Friday,YT,1992
+1992-05-18,Victoria Day,AB,1992
+1992-05-18,Victoria Day,BC,1992
+1992-05-18,Victoria Day,MB,1992
+1992-05-18,Victoria Day,NT,1992
+1992-05-18,Victoria Day,NU,1992
+1992-05-18,Victoria Day,ON,1992
+1992-05-18,Victoria Day,SK,1992
+1992-05-18,Victoria Day,YT,1992
+1992-06-24,Saint John the Baptist Day,QC,1992
+1992-07-01,Canada Day,AB,1992
+1992-07-01,Canada Day,BC,1992
+1992-07-01,Canada Day,MB,1992
+1992-07-01,Canada Day,NB,1992
+1992-07-01,Canada Day; Memorial Day,NL,1992
+1992-07-01,Canada Day,NS,1992
+1992-07-01,Canada Day,NT,1992
+1992-07-01,Canada Day,NU,1992
+1992-07-01,Canada Day,ON,1992
+1992-07-01,Canada Day,PE,1992
+1992-07-01,Canada Day,QC,1992
+1992-07-01,Canada Day,SK,1992
+1992-07-01,Canada Day,YT,1992
+1992-08-03,British Columbia Day,BC,1992
+1992-08-03,New Brunswick Day,NB,1992
+1992-08-03,Civic Holiday,NT,1992
+1992-08-03,Civic Holiday,NU,1992
+1992-08-03,Saskatchewan Day,SK,1992
+1992-08-17,Discovery Day,YT,1992
+1992-09-07,Labor Day,AB,1992
+1992-09-07,Labor Day,BC,1992
+1992-09-07,Labor Day,MB,1992
+1992-09-07,Labor Day,NB,1992
+1992-09-07,Labor Day,NL,1992
+1992-09-07,Labor Day,NS,1992
+1992-09-07,Labor Day,NT,1992
+1992-09-07,Labor Day,NU,1992
+1992-09-07,Labor Day,ON,1992
+1992-09-07,Labor Day,PE,1992
+1992-09-07,Labor Day,QC,1992
+1992-09-07,Labor Day,SK,1992
+1992-09-07,Labor Day,YT,1992
+1992-10-12,Thanksgiving Day,AB,1992
+1992-10-12,Thanksgiving Day,BC,1992
+1992-10-12,Thanksgiving Day,MB,1992
+1992-10-12,Thanksgiving Day,NT,1992
+1992-10-12,Thanksgiving Day,NU,1992
+1992-10-12,Thanksgiving Day,ON,1992
+1992-10-12,Thanksgiving Day,QC,1992
+1992-10-12,Thanksgiving Day,SK,1992
+1992-10-12,Thanksgiving Day,YT,1992
+1992-11-11,Remembrance Day,AB,1992
+1992-11-11,Remembrance Day,BC,1992
+1992-11-11,Remembrance Day,NB,1992
+1992-11-11,Remembrance Day,NL,1992
+1992-11-11,Remembrance Day,NS,1992
+1992-11-11,Remembrance Day,NT,1992
+1992-11-11,Remembrance Day,NU,1992
+1992-11-11,Remembrance Day,PE,1992
+1992-11-11,Remembrance Day,SK,1992
+1992-11-11,Remembrance Day,YT,1992
+1992-12-25,Christmas Day,AB,1992
+1992-12-25,Christmas Day,BC,1992
+1992-12-25,Christmas Day,MB,1992
+1992-12-25,Christmas Day,NB,1992
+1992-12-25,Christmas Day,NL,1992
+1992-12-25,Christmas Day,NS,1992
+1992-12-25,Christmas Day,NT,1992
+1992-12-25,Christmas Day,NU,1992
+1992-12-25,Christmas Day,ON,1992
+1992-12-25,Christmas Day,PE,1992
+1992-12-25,Christmas Day,QC,1992
+1992-12-25,Christmas Day,SK,1992
+1992-12-25,Christmas Day,YT,1992
+1992-12-26,Boxing Day,ON,1992
+1993-01-01,New Year's Day,AB,1993
+1993-01-01,New Year's Day,BC,1993
+1993-01-01,New Year's Day,MB,1993
+1993-01-01,New Year's Day,NB,1993
+1993-01-01,New Year's Day,NL,1993
+1993-01-01,New Year's Day,NS,1993
+1993-01-01,New Year's Day,NT,1993
+1993-01-01,New Year's Day,NU,1993
+1993-01-01,New Year's Day,ON,1993
+1993-01-01,New Year's Day,PE,1993
+1993-01-01,New Year's Day,QC,1993
+1993-01-01,New Year's Day,SK,1993
+1993-01-01,New Year's Day,YT,1993
+1993-02-15,Family Day,AB,1993
+1993-04-09,Good Friday,AB,1993
+1993-04-09,Good Friday,BC,1993
+1993-04-09,Good Friday,MB,1993
+1993-04-09,Good Friday,NB,1993
+1993-04-09,Good Friday,NL,1993
+1993-04-09,Good Friday,NS,1993
+1993-04-09,Good Friday,NT,1993
+1993-04-09,Good Friday,NU,1993
+1993-04-09,Good Friday,ON,1993
+1993-04-09,Good Friday,PE,1993
+1993-04-09,Good Friday,QC,1993
+1993-04-09,Good Friday,SK,1993
+1993-04-09,Good Friday,YT,1993
+1993-05-24,Victoria Day,AB,1993
+1993-05-24,Victoria Day,BC,1993
+1993-05-24,Victoria Day,MB,1993
+1993-05-24,Victoria Day,NT,1993
+1993-05-24,Victoria Day,NU,1993
+1993-05-24,Victoria Day,ON,1993
+1993-05-24,Victoria Day,SK,1993
+1993-05-24,Victoria Day,YT,1993
+1993-06-24,Saint John the Baptist Day,QC,1993
+1993-07-01,Canada Day,AB,1993
+1993-07-01,Canada Day,BC,1993
+1993-07-01,Canada Day,MB,1993
+1993-07-01,Canada Day,NB,1993
+1993-07-01,Canada Day; Memorial Day,NL,1993
+1993-07-01,Canada Day,NS,1993
+1993-07-01,Canada Day,NT,1993
+1993-07-01,Canada Day,NU,1993
+1993-07-01,Canada Day,ON,1993
+1993-07-01,Canada Day,PE,1993
+1993-07-01,Canada Day,QC,1993
+1993-07-01,Canada Day,SK,1993
+1993-07-01,Canada Day,YT,1993
+1993-08-02,British Columbia Day,BC,1993
+1993-08-02,New Brunswick Day,NB,1993
+1993-08-02,Civic Holiday,NT,1993
+1993-08-02,Civic Holiday,NU,1993
+1993-08-02,Saskatchewan Day,SK,1993
+1993-08-16,Discovery Day,YT,1993
+1993-09-06,Labor Day,AB,1993
+1993-09-06,Labor Day,BC,1993
+1993-09-06,Labor Day,MB,1993
+1993-09-06,Labor Day,NB,1993
+1993-09-06,Labor Day,NL,1993
+1993-09-06,Labor Day,NS,1993
+1993-09-06,Labor Day,NT,1993
+1993-09-06,Labor Day,NU,1993
+1993-09-06,Labor Day,ON,1993
+1993-09-06,Labor Day,PE,1993
+1993-09-06,Labor Day,QC,1993
+1993-09-06,Labor Day,SK,1993
+1993-09-06,Labor Day,YT,1993
+1993-10-11,Thanksgiving Day,AB,1993
+1993-10-11,Thanksgiving Day,BC,1993
+1993-10-11,Thanksgiving Day,MB,1993
+1993-10-11,Thanksgiving Day,NT,1993
+1993-10-11,Thanksgiving Day,NU,1993
+1993-10-11,Thanksgiving Day,ON,1993
+1993-10-11,Thanksgiving Day,QC,1993
+1993-10-11,Thanksgiving Day,SK,1993
+1993-10-11,Thanksgiving Day,YT,1993
+1993-11-11,Remembrance Day,AB,1993
+1993-11-11,Remembrance Day,BC,1993
+1993-11-11,Remembrance Day,NB,1993
+1993-11-11,Remembrance Day,NL,1993
+1993-11-11,Remembrance Day,NS,1993
+1993-11-11,Remembrance Day,NT,1993
+1993-11-11,Remembrance Day,NU,1993
+1993-11-11,Remembrance Day,PE,1993
+1993-11-11,Remembrance Day,SK,1993
+1993-11-11,Remembrance Day,YT,1993
+1993-12-25,Christmas Day,AB,1993
+1993-12-25,Christmas Day,BC,1993
+1993-12-25,Christmas Day,MB,1993
+1993-12-25,Christmas Day,NB,1993
+1993-12-25,Christmas Day,NL,1993
+1993-12-25,Christmas Day,NS,1993
+1993-12-25,Christmas Day,NT,1993
+1993-12-25,Christmas Day,NU,1993
+1993-12-25,Christmas Day,ON,1993
+1993-12-25,Christmas Day,PE,1993
+1993-12-25,Christmas Day,QC,1993
+1993-12-25,Christmas Day,SK,1993
+1993-12-25,Christmas Day,YT,1993
+1993-12-26,Boxing Day,ON,1993
+1993-12-27,Christmas Day (observed),AB,1993
+1993-12-27,Christmas Day (observed),BC,1993
+1993-12-27,Christmas Day (observed),MB,1993
+1993-12-27,Christmas Day (observed),NB,1993
+1993-12-27,Christmas Day (observed),NL,1993
+1993-12-27,Christmas Day (observed),NS,1993
+1993-12-27,Christmas Day (observed),NT,1993
+1993-12-27,Christmas Day (observed),NU,1993
+1993-12-27,Christmas Day (observed),ON,1993
+1993-12-27,Christmas Day (observed),PE,1993
+1993-12-27,Christmas Day (observed),QC,1993
+1993-12-27,Christmas Day (observed),SK,1993
+1993-12-27,Christmas Day (observed),YT,1993
+1993-12-28,Boxing Day (observed),ON,1993
+1994-01-01,New Year's Day,AB,1994
+1994-01-01,New Year's Day,BC,1994
+1994-01-01,New Year's Day,MB,1994
+1994-01-01,New Year's Day,NB,1994
+1994-01-01,New Year's Day,NL,1994
+1994-01-01,New Year's Day,NS,1994
+1994-01-01,New Year's Day,NT,1994
+1994-01-01,New Year's Day,NU,1994
+1994-01-01,New Year's Day,ON,1994
+1994-01-01,New Year's Day,PE,1994
+1994-01-01,New Year's Day,QC,1994
+1994-01-01,New Year's Day,SK,1994
+1994-01-01,New Year's Day,YT,1994
+1994-01-03,New Year's Day (observed),AB,1994
+1994-01-03,New Year's Day (observed),BC,1994
+1994-01-03,New Year's Day (observed),MB,1994
+1994-01-03,New Year's Day (observed),NB,1994
+1994-01-03,New Year's Day (observed),NL,1994
+1994-01-03,New Year's Day (observed),NS,1994
+1994-01-03,New Year's Day (observed),NT,1994
+1994-01-03,New Year's Day (observed),NU,1994
+1994-01-03,New Year's Day (observed),ON,1994
+1994-01-03,New Year's Day (observed),PE,1994
+1994-01-03,New Year's Day (observed),QC,1994
+1994-01-03,New Year's Day (observed),SK,1994
+1994-01-03,New Year's Day (observed),YT,1994
+1994-02-21,Family Day,AB,1994
+1994-04-01,Good Friday,AB,1994
+1994-04-01,Good Friday,BC,1994
+1994-04-01,Good Friday,MB,1994
+1994-04-01,Good Friday,NB,1994
+1994-04-01,Good Friday,NL,1994
+1994-04-01,Good Friday,NS,1994
+1994-04-01,Good Friday,NT,1994
+1994-04-01,Good Friday,NU,1994
+1994-04-01,Good Friday,ON,1994
+1994-04-01,Good Friday,PE,1994
+1994-04-01,Good Friday,QC,1994
+1994-04-01,Good Friday,SK,1994
+1994-04-01,Good Friday,YT,1994
+1994-05-23,Victoria Day,AB,1994
+1994-05-23,Victoria Day,BC,1994
+1994-05-23,Victoria Day,MB,1994
+1994-05-23,Victoria Day,NT,1994
+1994-05-23,Victoria Day,NU,1994
+1994-05-23,Victoria Day,ON,1994
+1994-05-23,Victoria Day,SK,1994
+1994-05-23,Victoria Day,YT,1994
+1994-06-24,Saint John the Baptist Day,QC,1994
+1994-07-01,Canada Day,AB,1994
+1994-07-01,Canada Day,BC,1994
+1994-07-01,Canada Day,MB,1994
+1994-07-01,Canada Day,NB,1994
+1994-07-01,Canada Day; Memorial Day,NL,1994
+1994-07-01,Canada Day,NS,1994
+1994-07-01,Canada Day,NT,1994
+1994-07-01,Canada Day,NU,1994
+1994-07-01,Canada Day,ON,1994
+1994-07-01,Canada Day,PE,1994
+1994-07-01,Canada Day,QC,1994
+1994-07-01,Canada Day,SK,1994
+1994-07-01,Canada Day,YT,1994
+1994-08-01,British Columbia Day,BC,1994
+1994-08-01,New Brunswick Day,NB,1994
+1994-08-01,Civic Holiday,NT,1994
+1994-08-01,Civic Holiday,NU,1994
+1994-08-01,Saskatchewan Day,SK,1994
+1994-08-15,Discovery Day,YT,1994
+1994-09-05,Labor Day,AB,1994
+1994-09-05,Labor Day,BC,1994
+1994-09-05,Labor Day,MB,1994
+1994-09-05,Labor Day,NB,1994
+1994-09-05,Labor Day,NL,1994
+1994-09-05,Labor Day,NS,1994
+1994-09-05,Labor Day,NT,1994
+1994-09-05,Labor Day,NU,1994
+1994-09-05,Labor Day,ON,1994
+1994-09-05,Labor Day,PE,1994
+1994-09-05,Labor Day,QC,1994
+1994-09-05,Labor Day,SK,1994
+1994-09-05,Labor Day,YT,1994
+1994-10-10,Thanksgiving Day,AB,1994
+1994-10-10,Thanksgiving Day,BC,1994
+1994-10-10,Thanksgiving Day,MB,1994
+1994-10-10,Thanksgiving Day,NT,1994
+1994-10-10,Thanksgiving Day,NU,1994
+1994-10-10,Thanksgiving Day,ON,1994
+1994-10-10,Thanksgiving Day,QC,1994
+1994-10-10,Thanksgiving Day,SK,1994
+1994-10-10,Thanksgiving Day,YT,1994
+1994-11-11,Remembrance Day,AB,1994
+1994-11-11,Remembrance Day,BC,1994
+1994-11-11,Remembrance Day,NB,1994
+1994-11-11,Remembrance Day,NL,1994
+1994-11-11,Remembrance Day,NS,1994
+1994-11-11,Remembrance Day,NT,1994
+1994-11-11,Remembrance Day,NU,1994
+1994-11-11,Remembrance Day,PE,1994
+1994-11-11,Remembrance Day,SK,1994
+1994-11-11,Remembrance Day,YT,1994
+1994-12-25,Christmas Day,AB,1994
+1994-12-25,Christmas Day,BC,1994
+1994-12-25,Christmas Day,MB,1994
+1994-12-25,Christmas Day,NB,1994
+1994-12-25,Christmas Day,NL,1994
+1994-12-25,Christmas Day,NS,1994
+1994-12-25,Christmas Day,NT,1994
+1994-12-25,Christmas Day,NU,1994
+1994-12-25,Christmas Day,ON,1994
+1994-12-25,Christmas Day,PE,1994
+1994-12-25,Christmas Day,QC,1994
+1994-12-25,Christmas Day,SK,1994
+1994-12-25,Christmas Day,YT,1994
+1994-12-26,Christmas Day (observed),AB,1994
+1994-12-26,Christmas Day (observed),BC,1994
+1994-12-26,Christmas Day (observed),MB,1994
+1994-12-26,Christmas Day (observed),NB,1994
+1994-12-26,Christmas Day (observed),NL,1994
+1994-12-26,Christmas Day (observed),NS,1994
+1994-12-26,Christmas Day (observed),NT,1994
+1994-12-26,Christmas Day (observed),NU,1994
+1994-12-26,Boxing Day; Christmas Day (observed),ON,1994
+1994-12-26,Christmas Day (observed),PE,1994
+1994-12-26,Christmas Day (observed),QC,1994
+1994-12-26,Christmas Day (observed),SK,1994
+1994-12-26,Christmas Day (observed),YT,1994
+1995-01-01,New Year's Day,AB,1995
+1995-01-01,New Year's Day,BC,1995
+1995-01-01,New Year's Day,MB,1995
+1995-01-01,New Year's Day,NB,1995
+1995-01-01,New Year's Day,NL,1995
+1995-01-01,New Year's Day,NS,1995
+1995-01-01,New Year's Day,NT,1995
+1995-01-01,New Year's Day,NU,1995
+1995-01-01,New Year's Day,ON,1995
+1995-01-01,New Year's Day,PE,1995
+1995-01-01,New Year's Day,QC,1995
+1995-01-01,New Year's Day,SK,1995
+1995-01-01,New Year's Day,YT,1995
+1995-01-02,New Year's Day (observed),AB,1995
+1995-01-02,New Year's Day (observed),BC,1995
+1995-01-02,New Year's Day (observed),MB,1995
+1995-01-02,New Year's Day (observed),NB,1995
+1995-01-02,New Year's Day (observed),NL,1995
+1995-01-02,New Year's Day (observed),NS,1995
+1995-01-02,New Year's Day (observed),NT,1995
+1995-01-02,New Year's Day (observed),NU,1995
+1995-01-02,New Year's Day (observed),ON,1995
+1995-01-02,New Year's Day (observed),PE,1995
+1995-01-02,New Year's Day (observed),QC,1995
+1995-01-02,New Year's Day (observed),SK,1995
+1995-01-02,New Year's Day (observed),YT,1995
+1995-02-20,Family Day,AB,1995
+1995-04-14,Good Friday,AB,1995
+1995-04-14,Good Friday,BC,1995
+1995-04-14,Good Friday,MB,1995
+1995-04-14,Good Friday,NB,1995
+1995-04-14,Good Friday,NL,1995
+1995-04-14,Good Friday,NS,1995
+1995-04-14,Good Friday,NT,1995
+1995-04-14,Good Friday,NU,1995
+1995-04-14,Good Friday,ON,1995
+1995-04-14,Good Friday,PE,1995
+1995-04-14,Good Friday,QC,1995
+1995-04-14,Good Friday,SK,1995
+1995-04-14,Good Friday,YT,1995
+1995-05-22,Victoria Day,AB,1995
+1995-05-22,Victoria Day,BC,1995
+1995-05-22,Victoria Day,MB,1995
+1995-05-22,Victoria Day,NT,1995
+1995-05-22,Victoria Day,NU,1995
+1995-05-22,Victoria Day,ON,1995
+1995-05-22,Victoria Day,SK,1995
+1995-05-22,Victoria Day,YT,1995
+1995-06-24,Saint John the Baptist Day,QC,1995
+1995-07-01,Canada Day,AB,1995
+1995-07-01,Canada Day,BC,1995
+1995-07-01,Canada Day,MB,1995
+1995-07-01,Canada Day,NB,1995
+1995-07-01,Canada Day; Memorial Day,NL,1995
+1995-07-01,Canada Day,NS,1995
+1995-07-01,Canada Day,NT,1995
+1995-07-01,Canada Day,NU,1995
+1995-07-01,Canada Day,ON,1995
+1995-07-01,Canada Day,PE,1995
+1995-07-01,Canada Day,QC,1995
+1995-07-01,Canada Day,SK,1995
+1995-07-01,Canada Day,YT,1995
+1995-07-03,Canada Day (observed); Memorial Day (observed),NL,1995
+1995-07-03,Canada Day (observed),PE,1995
+1995-07-03,Canada Day (observed),SK,1995
+1995-07-03,Canada Day (observed),YT,1995
+1995-08-07,British Columbia Day,BC,1995
+1995-08-07,New Brunswick Day,NB,1995
+1995-08-07,Civic Holiday,NT,1995
+1995-08-07,Civic Holiday,NU,1995
+1995-08-07,Saskatchewan Day,SK,1995
+1995-08-21,Discovery Day,YT,1995
+1995-09-04,Labor Day,AB,1995
+1995-09-04,Labor Day,BC,1995
+1995-09-04,Labor Day,MB,1995
+1995-09-04,Labor Day,NB,1995
+1995-09-04,Labor Day,NL,1995
+1995-09-04,Labor Day,NS,1995
+1995-09-04,Labor Day,NT,1995
+1995-09-04,Labor Day,NU,1995
+1995-09-04,Labor Day,ON,1995
+1995-09-04,Labor Day,PE,1995
+1995-09-04,Labor Day,QC,1995
+1995-09-04,Labor Day,SK,1995
+1995-09-04,Labor Day,YT,1995
+1995-10-09,Thanksgiving Day,AB,1995
+1995-10-09,Thanksgiving Day,BC,1995
+1995-10-09,Thanksgiving Day,MB,1995
+1995-10-09,Thanksgiving Day,NT,1995
+1995-10-09,Thanksgiving Day,NU,1995
+1995-10-09,Thanksgiving Day,ON,1995
+1995-10-09,Thanksgiving Day,QC,1995
+1995-10-09,Thanksgiving Day,SK,1995
+1995-10-09,Thanksgiving Day,YT,1995
+1995-11-11,Remembrance Day,AB,1995
+1995-11-11,Remembrance Day,BC,1995
+1995-11-11,Remembrance Day,NB,1995
+1995-11-11,Remembrance Day,NL,1995
+1995-11-11,Remembrance Day,NS,1995
+1995-11-11,Remembrance Day,NT,1995
+1995-11-11,Remembrance Day,NU,1995
+1995-11-11,Remembrance Day,PE,1995
+1995-11-11,Remembrance Day,SK,1995
+1995-11-11,Remembrance Day,YT,1995
+1995-11-13,Remembrance Day (observed),AB,1995
+1995-11-13,Remembrance Day (observed),NL,1995
+1995-11-13,Remembrance Day (observed),NS,1995
+1995-11-13,Remembrance Day (observed),PE,1995
+1995-11-13,Remembrance Day (observed),SK,1995
+1995-11-13,Remembrance Day (observed),YT,1995
+1995-12-25,Christmas Day,AB,1995
+1995-12-25,Christmas Day,BC,1995
+1995-12-25,Christmas Day,MB,1995
+1995-12-25,Christmas Day,NB,1995
+1995-12-25,Christmas Day,NL,1995
+1995-12-25,Christmas Day,NS,1995
+1995-12-25,Christmas Day,NT,1995
+1995-12-25,Christmas Day,NU,1995
+1995-12-25,Christmas Day,ON,1995
+1995-12-25,Christmas Day,PE,1995
+1995-12-25,Christmas Day,QC,1995
+1995-12-25,Christmas Day,SK,1995
+1995-12-25,Christmas Day,YT,1995
+1995-12-26,Boxing Day,ON,1995
+1996-01-01,New Year's Day,AB,1996
+1996-01-01,New Year's Day,BC,1996
+1996-01-01,New Year's Day,MB,1996
+1996-01-01,New Year's Day,NB,1996
+1996-01-01,New Year's Day,NL,1996
+1996-01-01,New Year's Day,NS,1996
+1996-01-01,New Year's Day,NT,1996
+1996-01-01,New Year's Day,NU,1996
+1996-01-01,New Year's Day,ON,1996
+1996-01-01,New Year's Day,PE,1996
+1996-01-01,New Year's Day,QC,1996
+1996-01-01,New Year's Day,SK,1996
+1996-01-01,New Year's Day,YT,1996
+1996-02-19,Family Day,AB,1996
+1996-04-05,Good Friday,AB,1996
+1996-04-05,Good Friday,BC,1996
+1996-04-05,Good Friday,MB,1996
+1996-04-05,Good Friday,NB,1996
+1996-04-05,Good Friday,NL,1996
+1996-04-05,Good Friday,NS,1996
+1996-04-05,Good Friday,NT,1996
+1996-04-05,Good Friday,NU,1996
+1996-04-05,Good Friday,ON,1996
+1996-04-05,Good Friday,PE,1996
+1996-04-05,Good Friday,QC,1996
+1996-04-05,Good Friday,SK,1996
+1996-04-05,Good Friday,YT,1996
+1996-05-20,Victoria Day,AB,1996
+1996-05-20,Victoria Day,BC,1996
+1996-05-20,Victoria Day,MB,1996
+1996-05-20,Victoria Day,NT,1996
+1996-05-20,Victoria Day,NU,1996
+1996-05-20,Victoria Day,ON,1996
+1996-05-20,Victoria Day,SK,1996
+1996-05-20,Victoria Day,YT,1996
+1996-06-21,National Aboriginal Day,NT,1996
+1996-06-24,Saint John the Baptist Day,QC,1996
+1996-07-01,Canada Day,AB,1996
+1996-07-01,Canada Day,BC,1996
+1996-07-01,Canada Day,MB,1996
+1996-07-01,Canada Day,NB,1996
+1996-07-01,Canada Day; Memorial Day,NL,1996
+1996-07-01,Canada Day,NS,1996
+1996-07-01,Canada Day,NT,1996
+1996-07-01,Canada Day,NU,1996
+1996-07-01,Canada Day,ON,1996
+1996-07-01,Canada Day,PE,1996
+1996-07-01,Canada Day,QC,1996
+1996-07-01,Canada Day,SK,1996
+1996-07-01,Canada Day,YT,1996
+1996-08-05,British Columbia Day,BC,1996
+1996-08-05,New Brunswick Day,NB,1996
+1996-08-05,Civic Holiday,NT,1996
+1996-08-05,Civic Holiday,NU,1996
+1996-08-05,Saskatchewan Day,SK,1996
+1996-08-19,Discovery Day,YT,1996
+1996-09-02,Labor Day,AB,1996
+1996-09-02,Labor Day,BC,1996
+1996-09-02,Labor Day,MB,1996
+1996-09-02,Labor Day,NB,1996
+1996-09-02,Labor Day,NL,1996
+1996-09-02,Labor Day,NS,1996
+1996-09-02,Labor Day,NT,1996
+1996-09-02,Labor Day,NU,1996
+1996-09-02,Labor Day,ON,1996
+1996-09-02,Labor Day,PE,1996
+1996-09-02,Labor Day,QC,1996
+1996-09-02,Labor Day,SK,1996
+1996-09-02,Labor Day,YT,1996
+1996-10-14,Thanksgiving Day,AB,1996
+1996-10-14,Thanksgiving Day,BC,1996
+1996-10-14,Thanksgiving Day,MB,1996
+1996-10-14,Thanksgiving Day,NT,1996
+1996-10-14,Thanksgiving Day,NU,1996
+1996-10-14,Thanksgiving Day,ON,1996
+1996-10-14,Thanksgiving Day,QC,1996
+1996-10-14,Thanksgiving Day,SK,1996
+1996-10-14,Thanksgiving Day,YT,1996
+1996-11-11,Remembrance Day,AB,1996
+1996-11-11,Remembrance Day,BC,1996
+1996-11-11,Remembrance Day,NB,1996
+1996-11-11,Remembrance Day,NL,1996
+1996-11-11,Remembrance Day,NS,1996
+1996-11-11,Remembrance Day,NT,1996
+1996-11-11,Remembrance Day,NU,1996
+1996-11-11,Remembrance Day,PE,1996
+1996-11-11,Remembrance Day,SK,1996
+1996-11-11,Remembrance Day,YT,1996
+1996-12-25,Christmas Day,AB,1996
+1996-12-25,Christmas Day,BC,1996
+1996-12-25,Christmas Day,MB,1996
+1996-12-25,Christmas Day,NB,1996
+1996-12-25,Christmas Day,NL,1996
+1996-12-25,Christmas Day,NS,1996
+1996-12-25,Christmas Day,NT,1996
+1996-12-25,Christmas Day,NU,1996
+1996-12-25,Christmas Day,ON,1996
+1996-12-25,Christmas Day,PE,1996
+1996-12-25,Christmas Day,QC,1996
+1996-12-25,Christmas Day,SK,1996
+1996-12-25,Christmas Day,YT,1996
+1996-12-26,Boxing Day,ON,1996
+1997-01-01,New Year's Day,AB,1997
+1997-01-01,New Year's Day,BC,1997
+1997-01-01,New Year's Day,MB,1997
+1997-01-01,New Year's Day,NB,1997
+1997-01-01,New Year's Day,NL,1997
+1997-01-01,New Year's Day,NS,1997
+1997-01-01,New Year's Day,NT,1997
+1997-01-01,New Year's Day,NU,1997
+1997-01-01,New Year's Day,ON,1997
+1997-01-01,New Year's Day,PE,1997
+1997-01-01,New Year's Day,QC,1997
+1997-01-01,New Year's Day,SK,1997
+1997-01-01,New Year's Day,YT,1997
+1997-02-17,Family Day,AB,1997
+1997-03-28,Good Friday,AB,1997
+1997-03-28,Good Friday,BC,1997
+1997-03-28,Good Friday,MB,1997
+1997-03-28,Good Friday,NB,1997
+1997-03-28,Good Friday,NL,1997
+1997-03-28,Good Friday,NS,1997
+1997-03-28,Good Friday,NT,1997
+1997-03-28,Good Friday,NU,1997
+1997-03-28,Good Friday,ON,1997
+1997-03-28,Good Friday,PE,1997
+1997-03-28,Good Friday,QC,1997
+1997-03-28,Good Friday,SK,1997
+1997-03-28,Good Friday,YT,1997
+1997-05-19,Victoria Day,AB,1997
+1997-05-19,Victoria Day,BC,1997
+1997-05-19,Victoria Day,MB,1997
+1997-05-19,Victoria Day,NT,1997
+1997-05-19,Victoria Day,NU,1997
+1997-05-19,Victoria Day,ON,1997
+1997-05-19,Victoria Day,SK,1997
+1997-05-19,Victoria Day,YT,1997
+1997-06-21,National Aboriginal Day,NT,1997
+1997-06-24,Saint John the Baptist Day,QC,1997
+1997-07-01,Canada Day,AB,1997
+1997-07-01,Canada Day,BC,1997
+1997-07-01,Canada Day,MB,1997
+1997-07-01,Canada Day,NB,1997
+1997-07-01,Canada Day; Memorial Day,NL,1997
+1997-07-01,Canada Day,NS,1997
+1997-07-01,Canada Day,NT,1997
+1997-07-01,Canada Day,NU,1997
+1997-07-01,Canada Day,ON,1997
+1997-07-01,Canada Day,PE,1997
+1997-07-01,Canada Day,QC,1997
+1997-07-01,Canada Day,SK,1997
+1997-07-01,Canada Day,YT,1997
+1997-08-04,British Columbia Day,BC,1997
+1997-08-04,New Brunswick Day,NB,1997
+1997-08-04,Civic Holiday,NT,1997
+1997-08-04,Civic Holiday,NU,1997
+1997-08-04,Saskatchewan Day,SK,1997
+1997-08-18,Discovery Day,YT,1997
+1997-09-01,Labor Day,AB,1997
+1997-09-01,Labor Day,BC,1997
+1997-09-01,Labor Day,MB,1997
+1997-09-01,Labor Day,NB,1997
+1997-09-01,Labor Day,NL,1997
+1997-09-01,Labor Day,NS,1997
+1997-09-01,Labor Day,NT,1997
+1997-09-01,Labor Day,NU,1997
+1997-09-01,Labor Day,ON,1997
+1997-09-01,Labor Day,PE,1997
+1997-09-01,Labor Day,QC,1997
+1997-09-01,Labor Day,SK,1997
+1997-09-01,Labor Day,YT,1997
+1997-10-13,Thanksgiving Day,AB,1997
+1997-10-13,Thanksgiving Day,BC,1997
+1997-10-13,Thanksgiving Day,MB,1997
+1997-10-13,Thanksgiving Day,NT,1997
+1997-10-13,Thanksgiving Day,NU,1997
+1997-10-13,Thanksgiving Day,ON,1997
+1997-10-13,Thanksgiving Day,QC,1997
+1997-10-13,Thanksgiving Day,SK,1997
+1997-10-13,Thanksgiving Day,YT,1997
+1997-11-11,Remembrance Day,AB,1997
+1997-11-11,Remembrance Day,BC,1997
+1997-11-11,Remembrance Day,NB,1997
+1997-11-11,Remembrance Day,NL,1997
+1997-11-11,Remembrance Day,NS,1997
+1997-11-11,Remembrance Day,NT,1997
+1997-11-11,Remembrance Day,NU,1997
+1997-11-11,Remembrance Day,PE,1997
+1997-11-11,Remembrance Day,SK,1997
+1997-11-11,Remembrance Day,YT,1997
+1997-12-25,Christmas Day,AB,1997
+1997-12-25,Christmas Day,BC,1997
+1997-12-25,Christmas Day,MB,1997
+1997-12-25,Christmas Day,NB,1997
+1997-12-25,Christmas Day,NL,1997
+1997-12-25,Christmas Day,NS,1997
+1997-12-25,Christmas Day,NT,1997
+1997-12-25,Christmas Day,NU,1997
+1997-12-25,Christmas Day,ON,1997
+1997-12-25,Christmas Day,PE,1997
+1997-12-25,Christmas Day,QC,1997
+1997-12-25,Christmas Day,SK,1997
+1997-12-25,Christmas Day,YT,1997
+1997-12-26,Boxing Day,ON,1997
+1998-01-01,New Year's Day,AB,1998
+1998-01-01,New Year's Day,BC,1998
+1998-01-01,New Year's Day,MB,1998
+1998-01-01,New Year's Day,NB,1998
+1998-01-01,New Year's Day,NL,1998
+1998-01-01,New Year's Day,NS,1998
+1998-01-01,New Year's Day,NT,1998
+1998-01-01,New Year's Day,NU,1998
+1998-01-01,New Year's Day,ON,1998
+1998-01-01,New Year's Day,PE,1998
+1998-01-01,New Year's Day,QC,1998
+1998-01-01,New Year's Day,SK,1998
+1998-01-01,New Year's Day,YT,1998
+1998-02-16,Family Day,AB,1998
+1998-04-10,Good Friday,AB,1998
+1998-04-10,Good Friday,BC,1998
+1998-04-10,Good Friday,MB,1998
+1998-04-10,Good Friday,NB,1998
+1998-04-10,Good Friday,NL,1998
+1998-04-10,Good Friday,NS,1998
+1998-04-10,Good Friday,NT,1998
+1998-04-10,Good Friday,NU,1998
+1998-04-10,Good Friday,ON,1998
+1998-04-10,Good Friday,PE,1998
+1998-04-10,Good Friday,QC,1998
+1998-04-10,Good Friday,SK,1998
+1998-04-10,Good Friday,YT,1998
+1998-05-18,Victoria Day,AB,1998
+1998-05-18,Victoria Day,BC,1998
+1998-05-18,Victoria Day,MB,1998
+1998-05-18,Victoria Day,NT,1998
+1998-05-18,Victoria Day,NU,1998
+1998-05-18,Victoria Day,ON,1998
+1998-05-18,Victoria Day,SK,1998
+1998-05-18,Victoria Day,YT,1998
+1998-06-21,National Aboriginal Day,NT,1998
+1998-06-24,Saint John the Baptist Day,QC,1998
+1998-07-01,Canada Day,AB,1998
+1998-07-01,Canada Day,BC,1998
+1998-07-01,Canada Day,MB,1998
+1998-07-01,Canada Day,NB,1998
+1998-07-01,Canada Day; Memorial Day,NL,1998
+1998-07-01,Canada Day,NS,1998
+1998-07-01,Canada Day,NT,1998
+1998-07-01,Canada Day,NU,1998
+1998-07-01,Canada Day,ON,1998
+1998-07-01,Canada Day,PE,1998
+1998-07-01,Canada Day,QC,1998
+1998-07-01,Canada Day,SK,1998
+1998-07-01,Canada Day,YT,1998
+1998-08-03,British Columbia Day,BC,1998
+1998-08-03,New Brunswick Day,NB,1998
+1998-08-03,Civic Holiday,NT,1998
+1998-08-03,Civic Holiday,NU,1998
+1998-08-03,Saskatchewan Day,SK,1998
+1998-08-17,Discovery Day,YT,1998
+1998-09-07,Labor Day,AB,1998
+1998-09-07,Labor Day,BC,1998
+1998-09-07,Labor Day,MB,1998
+1998-09-07,Labor Day,NB,1998
+1998-09-07,Labor Day,NL,1998
+1998-09-07,Labor Day,NS,1998
+1998-09-07,Labor Day,NT,1998
+1998-09-07,Labor Day,NU,1998
+1998-09-07,Labor Day,ON,1998
+1998-09-07,Labor Day,PE,1998
+1998-09-07,Labor Day,QC,1998
+1998-09-07,Labor Day,SK,1998
+1998-09-07,Labor Day,YT,1998
+1998-10-12,Thanksgiving Day,AB,1998
+1998-10-12,Thanksgiving Day,BC,1998
+1998-10-12,Thanksgiving Day,MB,1998
+1998-10-12,Thanksgiving Day,NT,1998
+1998-10-12,Thanksgiving Day,NU,1998
+1998-10-12,Thanksgiving Day,ON,1998
+1998-10-12,Thanksgiving Day,QC,1998
+1998-10-12,Thanksgiving Day,SK,1998
+1998-10-12,Thanksgiving Day,YT,1998
+1998-11-11,Remembrance Day,AB,1998
+1998-11-11,Remembrance Day,BC,1998
+1998-11-11,Remembrance Day,NB,1998
+1998-11-11,Remembrance Day,NL,1998
+1998-11-11,Remembrance Day,NS,1998
+1998-11-11,Remembrance Day,NT,1998
+1998-11-11,Remembrance Day,NU,1998
+1998-11-11,Remembrance Day,PE,1998
+1998-11-11,Remembrance Day,SK,1998
+1998-11-11,Remembrance Day,YT,1998
+1998-12-25,Christmas Day,AB,1998
+1998-12-25,Christmas Day,BC,1998
+1998-12-25,Christmas Day,MB,1998
+1998-12-25,Christmas Day,NB,1998
+1998-12-25,Christmas Day,NL,1998
+1998-12-25,Christmas Day,NS,1998
+1998-12-25,Christmas Day,NT,1998
+1998-12-25,Christmas Day,NU,1998
+1998-12-25,Christmas Day,ON,1998
+1998-12-25,Christmas Day,PE,1998
+1998-12-25,Christmas Day,QC,1998
+1998-12-25,Christmas Day,SK,1998
+1998-12-25,Christmas Day,YT,1998
+1998-12-26,Boxing Day,ON,1998
+1999-01-01,New Year's Day,AB,1999
+1999-01-01,New Year's Day,BC,1999
+1999-01-01,New Year's Day,MB,1999
+1999-01-01,New Year's Day,NB,1999
+1999-01-01,New Year's Day,NL,1999
+1999-01-01,New Year's Day,NS,1999
+1999-01-01,New Year's Day,NT,1999
+1999-01-01,New Year's Day,NU,1999
+1999-01-01,New Year's Day,ON,1999
+1999-01-01,New Year's Day,PE,1999
+1999-01-01,New Year's Day,QC,1999
+1999-01-01,New Year's Day,SK,1999
+1999-01-01,New Year's Day,YT,1999
+1999-02-15,Family Day,AB,1999
+1999-04-02,Good Friday,AB,1999
+1999-04-02,Good Friday,BC,1999
+1999-04-02,Good Friday,MB,1999
+1999-04-02,Good Friday,NB,1999
+1999-04-02,Good Friday,NL,1999
+1999-04-02,Good Friday,NS,1999
+1999-04-02,Good Friday,NT,1999
+1999-04-02,Good Friday,NU,1999
+1999-04-02,Good Friday,ON,1999
+1999-04-02,Good Friday,PE,1999
+1999-04-02,Good Friday,QC,1999
+1999-04-02,Good Friday,SK,1999
+1999-04-02,Good Friday,YT,1999
+1999-05-24,Victoria Day,AB,1999
+1999-05-24,Victoria Day,BC,1999
+1999-05-24,Victoria Day,MB,1999
+1999-05-24,Victoria Day,NT,1999
+1999-05-24,Victoria Day,NU,1999
+1999-05-24,Victoria Day,ON,1999
+1999-05-24,Victoria Day,SK,1999
+1999-05-24,Victoria Day,YT,1999
+1999-06-21,National Aboriginal Day,NT,1999
+1999-06-24,Saint John the Baptist Day,QC,1999
+1999-07-01,Canada Day,AB,1999
+1999-07-01,Canada Day,BC,1999
+1999-07-01,Canada Day,MB,1999
+1999-07-01,Canada Day,NB,1999
+1999-07-01,Canada Day; Memorial Day,NL,1999
+1999-07-01,Canada Day,NS,1999
+1999-07-01,Canada Day,NT,1999
+1999-07-01,Canada Day,NU,1999
+1999-07-01,Canada Day,ON,1999
+1999-07-01,Canada Day,PE,1999
+1999-07-01,Canada Day,QC,1999
+1999-07-01,Canada Day,SK,1999
+1999-07-01,Canada Day,YT,1999
+1999-08-02,British Columbia Day,BC,1999
+1999-08-02,New Brunswick Day,NB,1999
+1999-08-02,Civic Holiday,NT,1999
+1999-08-02,Civic Holiday,NU,1999
+1999-08-02,Saskatchewan Day,SK,1999
+1999-08-16,Discovery Day,YT,1999
+1999-09-06,Labor Day,AB,1999
+1999-09-06,Labor Day,BC,1999
+1999-09-06,Labor Day,MB,1999
+1999-09-06,Labor Day,NB,1999
+1999-09-06,Labor Day,NL,1999
+1999-09-06,Labor Day,NS,1999
+1999-09-06,Labor Day,NT,1999
+1999-09-06,Labor Day,NU,1999
+1999-09-06,Labor Day,ON,1999
+1999-09-06,Labor Day,PE,1999
+1999-09-06,Labor Day,QC,1999
+1999-09-06,Labor Day,SK,1999
+1999-09-06,Labor Day,YT,1999
+1999-10-11,Thanksgiving Day,AB,1999
+1999-10-11,Thanksgiving Day,BC,1999
+1999-10-11,Thanksgiving Day,MB,1999
+1999-10-11,Thanksgiving Day,NT,1999
+1999-10-11,Thanksgiving Day,NU,1999
+1999-10-11,Thanksgiving Day,ON,1999
+1999-10-11,Thanksgiving Day,QC,1999
+1999-10-11,Thanksgiving Day,SK,1999
+1999-10-11,Thanksgiving Day,YT,1999
+1999-11-11,Remembrance Day,AB,1999
+1999-11-11,Remembrance Day,BC,1999
+1999-11-11,Remembrance Day,NB,1999
+1999-11-11,Remembrance Day,NL,1999
+1999-11-11,Remembrance Day,NS,1999
+1999-11-11,Remembrance Day,NT,1999
+1999-11-11,Remembrance Day,NU,1999
+1999-11-11,Remembrance Day,PE,1999
+1999-11-11,Remembrance Day,SK,1999
+1999-11-11,Remembrance Day,YT,1999
+1999-12-25,Christmas Day,AB,1999
+1999-12-25,Christmas Day,BC,1999
+1999-12-25,Christmas Day,MB,1999
+1999-12-25,Christmas Day,NB,1999
+1999-12-25,Christmas Day,NL,1999
+1999-12-25,Christmas Day,NS,1999
+1999-12-25,Christmas Day,NT,1999
+1999-12-25,Christmas Day,NU,1999
+1999-12-25,Christmas Day,ON,1999
+1999-12-25,Christmas Day,PE,1999
+1999-12-25,Christmas Day,QC,1999
+1999-12-25,Christmas Day,SK,1999
+1999-12-25,Christmas Day,YT,1999
+1999-12-26,Boxing Day,ON,1999
+1999-12-27,Christmas Day (observed),AB,1999
+1999-12-27,Christmas Day (observed),BC,1999
+1999-12-27,Christmas Day (observed),MB,1999
+1999-12-27,Christmas Day (observed),NB,1999
+1999-12-27,Christmas Day (observed),NL,1999
+1999-12-27,Christmas Day (observed),NS,1999
+1999-12-27,Christmas Day (observed),NT,1999
+1999-12-27,Christmas Day (observed),NU,1999
+1999-12-27,Christmas Day (observed),ON,1999
+1999-12-27,Christmas Day (observed),PE,1999
+1999-12-27,Christmas Day (observed),QC,1999
+1999-12-27,Christmas Day (observed),SK,1999
+1999-12-27,Christmas Day (observed),YT,1999
+1999-12-28,Boxing Day (observed),ON,1999
+2000-01-01,New Year's Day,AB,2000
+2000-01-01,New Year's Day,BC,2000
+2000-01-01,New Year's Day,MB,2000
+2000-01-01,New Year's Day,NB,2000
+2000-01-01,New Year's Day,NL,2000
+2000-01-01,New Year's Day,NS,2000
+2000-01-01,New Year's Day,NT,2000
+2000-01-01,New Year's Day,NU,2000
+2000-01-01,New Year's Day,ON,2000
+2000-01-01,New Year's Day,PE,2000
+2000-01-01,New Year's Day,QC,2000
+2000-01-01,New Year's Day,SK,2000
+2000-01-01,New Year's Day,YT,2000
+2000-01-03,New Year's Day (observed),AB,2000
+2000-01-03,New Year's Day (observed),BC,2000
+2000-01-03,New Year's Day (observed),MB,2000
+2000-01-03,New Year's Day (observed),NB,2000
+2000-01-03,New Year's Day (observed),NL,2000
+2000-01-03,New Year's Day (observed),NS,2000
+2000-01-03,New Year's Day (observed),NT,2000
+2000-01-03,New Year's Day (observed),NU,2000
+2000-01-03,New Year's Day (observed),ON,2000
+2000-01-03,New Year's Day (observed),PE,2000
+2000-01-03,New Year's Day (observed),QC,2000
+2000-01-03,New Year's Day (observed),SK,2000
+2000-01-03,New Year's Day (observed),YT,2000
+2000-02-21,Family Day,AB,2000
+2000-04-21,Good Friday,AB,2000
+2000-04-21,Good Friday,BC,2000
+2000-04-21,Good Friday,MB,2000
+2000-04-21,Good Friday,NB,2000
+2000-04-21,Good Friday,NL,2000
+2000-04-21,Good Friday,NS,2000
+2000-04-21,Good Friday,NT,2000
+2000-04-21,Good Friday,NU,2000
+2000-04-21,Good Friday,ON,2000
+2000-04-21,Good Friday,PE,2000
+2000-04-21,Good Friday,QC,2000
+2000-04-21,Good Friday,SK,2000
+2000-04-21,Good Friday,YT,2000
+2000-05-22,Victoria Day,AB,2000
+2000-05-22,Victoria Day,BC,2000
+2000-05-22,Victoria Day,MB,2000
+2000-05-22,Victoria Day,NT,2000
+2000-05-22,Victoria Day,NU,2000
+2000-05-22,Victoria Day,ON,2000
+2000-05-22,Victoria Day,SK,2000
+2000-05-22,Victoria Day,YT,2000
+2000-06-21,National Aboriginal Day,NT,2000
+2000-06-24,Saint John the Baptist Day,QC,2000
+2000-07-01,Canada Day,AB,2000
+2000-07-01,Canada Day,BC,2000
+2000-07-01,Canada Day,MB,2000
+2000-07-01,Canada Day,NB,2000
+2000-07-01,Canada Day; Memorial Day,NL,2000
+2000-07-01,Canada Day,NS,2000
+2000-07-01,Canada Day,NT,2000
+2000-07-01,Canada Day,NU,2000
+2000-07-01,Canada Day,ON,2000
+2000-07-01,Canada Day,PE,2000
+2000-07-01,Canada Day,QC,2000
+2000-07-01,Canada Day,SK,2000
+2000-07-01,Canada Day,YT,2000
+2000-07-03,Canada Day (observed); Memorial Day (observed),NL,2000
+2000-07-03,Canada Day (observed),PE,2000
+2000-07-03,Canada Day (observed),SK,2000
+2000-07-03,Canada Day (observed),YT,2000
+2000-08-07,British Columbia Day,BC,2000
+2000-08-07,New Brunswick Day,NB,2000
+2000-08-07,Civic Holiday,NT,2000
+2000-08-07,Civic Holiday,NU,2000
+2000-08-07,Saskatchewan Day,SK,2000
+2000-08-21,Discovery Day,YT,2000
+2000-09-04,Labor Day,AB,2000
+2000-09-04,Labor Day,BC,2000
+2000-09-04,Labor Day,MB,2000
+2000-09-04,Labor Day,NB,2000
+2000-09-04,Labor Day,NL,2000
+2000-09-04,Labor Day,NS,2000
+2000-09-04,Labor Day,NT,2000
+2000-09-04,Labor Day,NU,2000
+2000-09-04,Labor Day,ON,2000
+2000-09-04,Labor Day,PE,2000
+2000-09-04,Labor Day,QC,2000
+2000-09-04,Labor Day,SK,2000
+2000-09-04,Labor Day,YT,2000
+2000-10-09,Thanksgiving Day,AB,2000
+2000-10-09,Thanksgiving Day,BC,2000
+2000-10-09,Thanksgiving Day,MB,2000
+2000-10-09,Thanksgiving Day,NT,2000
+2000-10-09,Thanksgiving Day,NU,2000
+2000-10-09,Thanksgiving Day,ON,2000
+2000-10-09,Thanksgiving Day,QC,2000
+2000-10-09,Thanksgiving Day,SK,2000
+2000-10-09,Thanksgiving Day,YT,2000
+2000-11-11,Remembrance Day,AB,2000
+2000-11-11,Remembrance Day,BC,2000
+2000-11-11,Remembrance Day,NB,2000
+2000-11-11,Remembrance Day,NL,2000
+2000-11-11,Remembrance Day,NS,2000
+2000-11-11,Remembrance Day,NT,2000
+2000-11-11,Remembrance Day,NU,2000
+2000-11-11,Remembrance Day,PE,2000
+2000-11-11,Remembrance Day,SK,2000
+2000-11-11,Remembrance Day,YT,2000
+2000-11-13,Remembrance Day (observed),AB,2000
+2000-11-13,Remembrance Day (observed),NL,2000
+2000-11-13,Remembrance Day (observed),NS,2000
+2000-11-13,Remembrance Day (observed),PE,2000
+2000-11-13,Remembrance Day (observed),SK,2000
+2000-11-13,Remembrance Day (observed),YT,2000
+2000-12-25,Christmas Day,AB,2000
+2000-12-25,Christmas Day,BC,2000
+2000-12-25,Christmas Day,MB,2000
+2000-12-25,Christmas Day,NB,2000
+2000-12-25,Christmas Day,NL,2000
+2000-12-25,Christmas Day,NS,2000
+2000-12-25,Christmas Day,NT,2000
+2000-12-25,Christmas Day,NU,2000
+2000-12-25,Christmas Day,ON,2000
+2000-12-25,Christmas Day,PE,2000
+2000-12-25,Christmas Day,QC,2000
+2000-12-25,Christmas Day,SK,2000
+2000-12-25,Christmas Day,YT,2000
+2000-12-26,Boxing Day,ON,2000
+2001-01-01,New Year's Day,AB,2001
+2001-01-01,New Year's Day,BC,2001
+2001-01-01,New Year's Day,MB,2001
+2001-01-01,New Year's Day,NB,2001
+2001-01-01,New Year's Day,NL,2001
+2001-01-01,New Year's Day,NS,2001
+2001-01-01,New Year's Day,NT,2001
+2001-01-01,New Year's Day,NU,2001
+2001-01-01,New Year's Day,ON,2001
+2001-01-01,New Year's Day,PE,2001
+2001-01-01,New Year's Day,QC,2001
+2001-01-01,New Year's Day,SK,2001
+2001-01-01,New Year's Day,YT,2001
+2001-02-19,Family Day,AB,2001
+2001-04-13,Good Friday,AB,2001
+2001-04-13,Good Friday,BC,2001
+2001-04-13,Good Friday,MB,2001
+2001-04-13,Good Friday,NB,2001
+2001-04-13,Good Friday,NL,2001
+2001-04-13,Good Friday,NS,2001
+2001-04-13,Good Friday,NT,2001
+2001-04-13,Good Friday,NU,2001
+2001-04-13,Good Friday,ON,2001
+2001-04-13,Good Friday,PE,2001
+2001-04-13,Good Friday,QC,2001
+2001-04-13,Good Friday,SK,2001
+2001-04-13,Good Friday,YT,2001
+2001-05-21,Victoria Day,AB,2001
+2001-05-21,Victoria Day,BC,2001
+2001-05-21,Victoria Day,MB,2001
+2001-05-21,Victoria Day,NT,2001
+2001-05-21,Victoria Day,NU,2001
+2001-05-21,Victoria Day,ON,2001
+2001-05-21,Victoria Day,SK,2001
+2001-05-21,Victoria Day,YT,2001
+2001-06-21,National Aboriginal Day,NT,2001
+2001-06-24,Saint John the Baptist Day,QC,2001
+2001-06-25,Saint John the Baptist Day (observed),QC,2001
+2001-07-01,Canada Day,AB,2001
+2001-07-01,Canada Day,BC,2001
+2001-07-01,Canada Day,MB,2001
+2001-07-01,Canada Day,NB,2001
+2001-07-01,Canada Day; Memorial Day,NL,2001
+2001-07-01,Canada Day,NS,2001
+2001-07-01,Canada Day,NT,2001
+2001-07-01,Canada Day,NU,2001
+2001-07-01,Canada Day,ON,2001
+2001-07-01,Canada Day,PE,2001
+2001-07-01,Canada Day,QC,2001
+2001-07-01,Canada Day,SK,2001
+2001-07-01,Canada Day,YT,2001
+2001-07-02,Canada Day (observed),AB,2001
+2001-07-02,Canada Day (observed),BC,2001
+2001-07-02,Canada Day (observed); Memorial Day (observed),NL,2001
+2001-07-02,Canada Day (observed),PE,2001
+2001-07-02,Canada Day (observed),QC,2001
+2001-07-02,Canada Day (observed),SK,2001
+2001-07-02,Canada Day (observed),YT,2001
+2001-08-06,British Columbia Day,BC,2001
+2001-08-06,New Brunswick Day,NB,2001
+2001-08-06,Civic Holiday,NT,2001
+2001-08-06,Civic Holiday,NU,2001
+2001-08-06,Saskatchewan Day,SK,2001
+2001-08-20,Discovery Day,YT,2001
+2001-09-03,Labor Day,AB,2001
+2001-09-03,Labor Day,BC,2001
+2001-09-03,Labor Day,MB,2001
+2001-09-03,Labor Day,NB,2001
+2001-09-03,Labor Day,NL,2001
+2001-09-03,Labor Day,NS,2001
+2001-09-03,Labor Day,NT,2001
+2001-09-03,Labor Day,NU,2001
+2001-09-03,Labor Day,ON,2001
+2001-09-03,Labor Day,PE,2001
+2001-09-03,Labor Day,QC,2001
+2001-09-03,Labor Day,SK,2001
+2001-09-03,Labor Day,YT,2001
+2001-10-08,Thanksgiving Day,AB,2001
+2001-10-08,Thanksgiving Day,BC,2001
+2001-10-08,Thanksgiving Day,MB,2001
+2001-10-08,Thanksgiving Day,NT,2001
+2001-10-08,Thanksgiving Day,NU,2001
+2001-10-08,Thanksgiving Day,ON,2001
+2001-10-08,Thanksgiving Day,QC,2001
+2001-10-08,Thanksgiving Day,SK,2001
+2001-10-08,Thanksgiving Day,YT,2001
+2001-11-11,Remembrance Day,AB,2001
+2001-11-11,Remembrance Day,BC,2001
+2001-11-11,Remembrance Day,NB,2001
+2001-11-11,Remembrance Day,NL,2001
+2001-11-11,Remembrance Day,NS,2001
+2001-11-11,Remembrance Day,NT,2001
+2001-11-11,Remembrance Day,NU,2001
+2001-11-11,Remembrance Day,PE,2001
+2001-11-11,Remembrance Day,SK,2001
+2001-11-11,Remembrance Day,YT,2001
+2001-11-12,Remembrance Day (observed),AB,2001
+2001-11-12,Remembrance Day (observed),NL,2001
+2001-11-12,Remembrance Day (observed),NS,2001
+2001-11-12,Remembrance Day (observed),PE,2001
+2001-11-12,Remembrance Day (observed),SK,2001
+2001-11-12,Remembrance Day (observed),YT,2001
+2001-12-25,Christmas Day,AB,2001
+2001-12-25,Christmas Day,BC,2001
+2001-12-25,Christmas Day,MB,2001
+2001-12-25,Christmas Day,NB,2001
+2001-12-25,Christmas Day,NL,2001
+2001-12-25,Christmas Day,NS,2001
+2001-12-25,Christmas Day,NT,2001
+2001-12-25,Christmas Day,NU,2001
+2001-12-25,Christmas Day,ON,2001
+2001-12-25,Christmas Day,PE,2001
+2001-12-25,Christmas Day,QC,2001
+2001-12-25,Christmas Day,SK,2001
+2001-12-25,Christmas Day,YT,2001
+2001-12-26,Boxing Day,ON,2001
+2002-01-01,New Year's Day,AB,2002
+2002-01-01,New Year's Day,BC,2002
+2002-01-01,New Year's Day,MB,2002
+2002-01-01,New Year's Day,NB,2002
+2002-01-01,New Year's Day,NL,2002
+2002-01-01,New Year's Day,NS,2002
+2002-01-01,New Year's Day,NT,2002
+2002-01-01,New Year's Day,NU,2002
+2002-01-01,New Year's Day,ON,2002
+2002-01-01,New Year's Day,PE,2002
+2002-01-01,New Year's Day,QC,2002
+2002-01-01,New Year's Day,SK,2002
+2002-01-01,New Year's Day,YT,2002
+2002-02-18,Family Day,AB,2002
+2002-03-29,Good Friday,AB,2002
+2002-03-29,Good Friday,BC,2002
+2002-03-29,Good Friday,MB,2002
+2002-03-29,Good Friday,NB,2002
+2002-03-29,Good Friday,NL,2002
+2002-03-29,Good Friday,NS,2002
+2002-03-29,Good Friday,NT,2002
+2002-03-29,Good Friday,NU,2002
+2002-03-29,Good Friday,ON,2002
+2002-03-29,Good Friday,PE,2002
+2002-03-29,Good Friday,QC,2002
+2002-03-29,Good Friday,SK,2002
+2002-03-29,Good Friday,YT,2002
+2002-05-20,Victoria Day,AB,2002
+2002-05-20,Victoria Day,BC,2002
+2002-05-20,Victoria Day,MB,2002
+2002-05-20,Victoria Day,NT,2002
+2002-05-20,Victoria Day,NU,2002
+2002-05-20,Victoria Day,ON,2002
+2002-05-20,Victoria Day,SK,2002
+2002-05-20,Victoria Day,YT,2002
+2002-06-21,National Aboriginal Day,NT,2002
+2002-06-24,Saint John the Baptist Day,QC,2002
+2002-07-01,Canada Day,AB,2002
+2002-07-01,Canada Day,BC,2002
+2002-07-01,Canada Day,MB,2002
+2002-07-01,Canada Day,NB,2002
+2002-07-01,Canada Day; Memorial Day,NL,2002
+2002-07-01,Canada Day,NS,2002
+2002-07-01,Canada Day,NT,2002
+2002-07-01,Canada Day,NU,2002
+2002-07-01,Canada Day,ON,2002
+2002-07-01,Canada Day,PE,2002
+2002-07-01,Canada Day,QC,2002
+2002-07-01,Canada Day,SK,2002
+2002-07-01,Canada Day,YT,2002
+2002-08-05,British Columbia Day,BC,2002
+2002-08-05,New Brunswick Day,NB,2002
+2002-08-05,Civic Holiday,NT,2002
+2002-08-05,Civic Holiday,NU,2002
+2002-08-05,Saskatchewan Day,SK,2002
+2002-08-19,Discovery Day,YT,2002
+2002-09-02,Labor Day,AB,2002
+2002-09-02,Labor Day,BC,2002
+2002-09-02,Labor Day,MB,2002
+2002-09-02,Labor Day,NB,2002
+2002-09-02,Labor Day,NL,2002
+2002-09-02,Labor Day,NS,2002
+2002-09-02,Labor Day,NT,2002
+2002-09-02,Labor Day,NU,2002
+2002-09-02,Labor Day,ON,2002
+2002-09-02,Labor Day,PE,2002
+2002-09-02,Labor Day,QC,2002
+2002-09-02,Labor Day,SK,2002
+2002-09-02,Labor Day,YT,2002
+2002-10-14,Thanksgiving Day,AB,2002
+2002-10-14,Thanksgiving Day,BC,2002
+2002-10-14,Thanksgiving Day,MB,2002
+2002-10-14,Thanksgiving Day,NT,2002
+2002-10-14,Thanksgiving Day,NU,2002
+2002-10-14,Thanksgiving Day,ON,2002
+2002-10-14,Thanksgiving Day,QC,2002
+2002-10-14,Thanksgiving Day,SK,2002
+2002-10-14,Thanksgiving Day,YT,2002
+2002-11-11,Remembrance Day,AB,2002
+2002-11-11,Remembrance Day,BC,2002
+2002-11-11,Remembrance Day,NB,2002
+2002-11-11,Remembrance Day,NL,2002
+2002-11-11,Remembrance Day,NS,2002
+2002-11-11,Remembrance Day,NT,2002
+2002-11-11,Remembrance Day,NU,2002
+2002-11-11,Remembrance Day,PE,2002
+2002-11-11,Remembrance Day,SK,2002
+2002-11-11,Remembrance Day,YT,2002
+2002-12-25,Christmas Day,AB,2002
+2002-12-25,Christmas Day,BC,2002
+2002-12-25,Christmas Day,MB,2002
+2002-12-25,Christmas Day,NB,2002
+2002-12-25,Christmas Day,NL,2002
+2002-12-25,Christmas Day,NS,2002
+2002-12-25,Christmas Day,NT,2002
+2002-12-25,Christmas Day,NU,2002
+2002-12-25,Christmas Day,ON,2002
+2002-12-25,Christmas Day,PE,2002
+2002-12-25,Christmas Day,QC,2002
+2002-12-25,Christmas Day,SK,2002
+2002-12-25,Christmas Day,YT,2002
+2002-12-26,Boxing Day,ON,2002
+2003-01-01,New Year's Day,AB,2003
+2003-01-01,New Year's Day,BC,2003
+2003-01-01,New Year's Day,MB,2003
+2003-01-01,New Year's Day,NB,2003
+2003-01-01,New Year's Day,NL,2003
+2003-01-01,New Year's Day,NS,2003
+2003-01-01,New Year's Day,NT,2003
+2003-01-01,New Year's Day,NU,2003
+2003-01-01,New Year's Day,ON,2003
+2003-01-01,New Year's Day,PE,2003
+2003-01-01,New Year's Day,QC,2003
+2003-01-01,New Year's Day,SK,2003
+2003-01-01,New Year's Day,YT,2003
+2003-02-17,Family Day,AB,2003
+2003-04-18,Good Friday,AB,2003
+2003-04-18,Good Friday,BC,2003
+2003-04-18,Good Friday,MB,2003
+2003-04-18,Good Friday,NB,2003
+2003-04-18,Good Friday,NL,2003
+2003-04-18,Good Friday,NS,2003
+2003-04-18,Good Friday,NT,2003
+2003-04-18,Good Friday,NU,2003
+2003-04-18,Good Friday,ON,2003
+2003-04-18,Good Friday,PE,2003
+2003-04-18,Good Friday,QC,2003
+2003-04-18,Good Friday,SK,2003
+2003-04-18,Good Friday,YT,2003
+2003-05-19,Victoria Day,AB,2003
+2003-05-19,Victoria Day,BC,2003
+2003-05-19,Victoria Day,MB,2003
+2003-05-19,Victoria Day,NT,2003
+2003-05-19,Victoria Day,NU,2003
+2003-05-19,Victoria Day,ON,2003
+2003-05-19,National Patriots' Day,QC,2003
+2003-05-19,Victoria Day,SK,2003
+2003-05-19,Victoria Day,YT,2003
+2003-06-21,National Aboriginal Day,NT,2003
+2003-06-24,Saint John the Baptist Day,QC,2003
+2003-07-01,Canada Day,AB,2003
+2003-07-01,Canada Day,BC,2003
+2003-07-01,Canada Day,MB,2003
+2003-07-01,Canada Day,NB,2003
+2003-07-01,Canada Day; Memorial Day,NL,2003
+2003-07-01,Canada Day,NS,2003
+2003-07-01,Canada Day,NT,2003
+2003-07-01,Canada Day,NU,2003
+2003-07-01,Canada Day,ON,2003
+2003-07-01,Canada Day,PE,2003
+2003-07-01,Canada Day,QC,2003
+2003-07-01,Canada Day,SK,2003
+2003-07-01,Canada Day,YT,2003
+2003-08-04,British Columbia Day,BC,2003
+2003-08-04,New Brunswick Day,NB,2003
+2003-08-04,Civic Holiday,NT,2003
+2003-08-04,Civic Holiday,NU,2003
+2003-08-04,Saskatchewan Day,SK,2003
+2003-08-18,Discovery Day,YT,2003
+2003-09-01,Labor Day,AB,2003
+2003-09-01,Labor Day,BC,2003
+2003-09-01,Labor Day,MB,2003
+2003-09-01,Labor Day,NB,2003
+2003-09-01,Labor Day,NL,2003
+2003-09-01,Labor Day,NS,2003
+2003-09-01,Labor Day,NT,2003
+2003-09-01,Labor Day,NU,2003
+2003-09-01,Labor Day,ON,2003
+2003-09-01,Labor Day,PE,2003
+2003-09-01,Labor Day,QC,2003
+2003-09-01,Labor Day,SK,2003
+2003-09-01,Labor Day,YT,2003
+2003-10-13,Thanksgiving Day,AB,2003
+2003-10-13,Thanksgiving Day,BC,2003
+2003-10-13,Thanksgiving Day,MB,2003
+2003-10-13,Thanksgiving Day,NT,2003
+2003-10-13,Thanksgiving Day,NU,2003
+2003-10-13,Thanksgiving Day,ON,2003
+2003-10-13,Thanksgiving Day,QC,2003
+2003-10-13,Thanksgiving Day,SK,2003
+2003-10-13,Thanksgiving Day,YT,2003
+2003-11-11,Remembrance Day,AB,2003
+2003-11-11,Remembrance Day,BC,2003
+2003-11-11,Remembrance Day,NB,2003
+2003-11-11,Remembrance Day,NL,2003
+2003-11-11,Remembrance Day,NS,2003
+2003-11-11,Remembrance Day,NT,2003
+2003-11-11,Remembrance Day,NU,2003
+2003-11-11,Remembrance Day,PE,2003
+2003-11-11,Remembrance Day,SK,2003
+2003-11-11,Remembrance Day,YT,2003
+2003-12-25,Christmas Day,AB,2003
+2003-12-25,Christmas Day,BC,2003
+2003-12-25,Christmas Day,MB,2003
+2003-12-25,Christmas Day,NB,2003
+2003-12-25,Christmas Day,NL,2003
+2003-12-25,Christmas Day,NS,2003
+2003-12-25,Christmas Day,NT,2003
+2003-12-25,Christmas Day,NU,2003
+2003-12-25,Christmas Day,ON,2003
+2003-12-25,Christmas Day,PE,2003
+2003-12-25,Christmas Day,QC,2003
+2003-12-25,Christmas Day,SK,2003
+2003-12-25,Christmas Day,YT,2003
+2003-12-26,Boxing Day,ON,2003
+2004-01-01,New Year's Day,AB,2004
+2004-01-01,New Year's Day,BC,2004
+2004-01-01,New Year's Day,MB,2004
+2004-01-01,New Year's Day,NB,2004
+2004-01-01,New Year's Day,NL,2004
+2004-01-01,New Year's Day,NS,2004
+2004-01-01,New Year's Day,NT,2004
+2004-01-01,New Year's Day,NU,2004
+2004-01-01,New Year's Day,ON,2004
+2004-01-01,New Year's Day,PE,2004
+2004-01-01,New Year's Day,QC,2004
+2004-01-01,New Year's Day,SK,2004
+2004-01-01,New Year's Day,YT,2004
+2004-02-16,Family Day,AB,2004
+2004-04-09,Good Friday,AB,2004
+2004-04-09,Good Friday,BC,2004
+2004-04-09,Good Friday,MB,2004
+2004-04-09,Good Friday,NB,2004
+2004-04-09,Good Friday,NL,2004
+2004-04-09,Good Friday,NS,2004
+2004-04-09,Good Friday,NT,2004
+2004-04-09,Good Friday,NU,2004
+2004-04-09,Good Friday,ON,2004
+2004-04-09,Good Friday,PE,2004
+2004-04-09,Good Friday,QC,2004
+2004-04-09,Good Friday,SK,2004
+2004-04-09,Good Friday,YT,2004
+2004-05-24,Victoria Day,AB,2004
+2004-05-24,Victoria Day,BC,2004
+2004-05-24,Victoria Day,MB,2004
+2004-05-24,Victoria Day,NT,2004
+2004-05-24,Victoria Day,NU,2004
+2004-05-24,Victoria Day,ON,2004
+2004-05-24,National Patriots' Day,QC,2004
+2004-05-24,Victoria Day,SK,2004
+2004-05-24,Victoria Day,YT,2004
+2004-06-21,National Aboriginal Day,NT,2004
+2004-06-24,Saint John the Baptist Day,QC,2004
+2004-07-01,Canada Day,AB,2004
+2004-07-01,Canada Day,BC,2004
+2004-07-01,Canada Day,MB,2004
+2004-07-01,Canada Day,NB,2004
+2004-07-01,Canada Day; Memorial Day,NL,2004
+2004-07-01,Canada Day,NS,2004
+2004-07-01,Canada Day,NT,2004
+2004-07-01,Canada Day,NU,2004
+2004-07-01,Canada Day,ON,2004
+2004-07-01,Canada Day,PE,2004
+2004-07-01,Canada Day,QC,2004
+2004-07-01,Canada Day,SK,2004
+2004-07-01,Canada Day,YT,2004
+2004-08-02,British Columbia Day,BC,2004
+2004-08-02,New Brunswick Day,NB,2004
+2004-08-02,Civic Holiday,NT,2004
+2004-08-02,Civic Holiday,NU,2004
+2004-08-02,Saskatchewan Day,SK,2004
+2004-08-16,Discovery Day,YT,2004
+2004-09-06,Labor Day,AB,2004
+2004-09-06,Labor Day,BC,2004
+2004-09-06,Labor Day,MB,2004
+2004-09-06,Labor Day,NB,2004
+2004-09-06,Labor Day,NL,2004
+2004-09-06,Labor Day,NS,2004
+2004-09-06,Labor Day,NT,2004
+2004-09-06,Labor Day,NU,2004
+2004-09-06,Labor Day,ON,2004
+2004-09-06,Labor Day,PE,2004
+2004-09-06,Labor Day,QC,2004
+2004-09-06,Labor Day,SK,2004
+2004-09-06,Labor Day,YT,2004
+2004-10-11,Thanksgiving Day,AB,2004
+2004-10-11,Thanksgiving Day,BC,2004
+2004-10-11,Thanksgiving Day,MB,2004
+2004-10-11,Thanksgiving Day,NT,2004
+2004-10-11,Thanksgiving Day,NU,2004
+2004-10-11,Thanksgiving Day,ON,2004
+2004-10-11,Thanksgiving Day,QC,2004
+2004-10-11,Thanksgiving Day,SK,2004
+2004-10-11,Thanksgiving Day,YT,2004
+2004-11-11,Remembrance Day,AB,2004
+2004-11-11,Remembrance Day,BC,2004
+2004-11-11,Remembrance Day,NB,2004
+2004-11-11,Remembrance Day,NL,2004
+2004-11-11,Remembrance Day,NS,2004
+2004-11-11,Remembrance Day,NT,2004
+2004-11-11,Remembrance Day,NU,2004
+2004-11-11,Remembrance Day,PE,2004
+2004-11-11,Remembrance Day,SK,2004
+2004-11-11,Remembrance Day,YT,2004
+2004-12-25,Christmas Day,AB,2004
+2004-12-25,Christmas Day,BC,2004
+2004-12-25,Christmas Day,MB,2004
+2004-12-25,Christmas Day,NB,2004
+2004-12-25,Christmas Day,NL,2004
+2004-12-25,Christmas Day,NS,2004
+2004-12-25,Christmas Day,NT,2004
+2004-12-25,Christmas Day,NU,2004
+2004-12-25,Christmas Day,ON,2004
+2004-12-25,Christmas Day,PE,2004
+2004-12-25,Christmas Day,QC,2004
+2004-12-25,Christmas Day,SK,2004
+2004-12-25,Christmas Day,YT,2004
+2004-12-26,Boxing Day,ON,2004
+2004-12-27,Christmas Day (observed),AB,2004
+2004-12-27,Christmas Day (observed),BC,2004
+2004-12-27,Christmas Day (observed),MB,2004
+2004-12-27,Christmas Day (observed),NB,2004
+2004-12-27,Christmas Day (observed),NL,2004
+2004-12-27,Christmas Day (observed),NS,2004
+2004-12-27,Christmas Day (observed),NT,2004
+2004-12-27,Christmas Day (observed),NU,2004
+2004-12-27,Christmas Day (observed),ON,2004
+2004-12-27,Christmas Day (observed),PE,2004
+2004-12-27,Christmas Day (observed),QC,2004
+2004-12-27,Christmas Day (observed),SK,2004
+2004-12-27,Christmas Day (observed),YT,2004
+2004-12-28,Boxing Day (observed),ON,2004
+2005-01-01,New Year's Day,AB,2005
+2005-01-01,New Year's Day,BC,2005
+2005-01-01,New Year's Day,MB,2005
+2005-01-01,New Year's Day,NB,2005
+2005-01-01,New Year's Day,NL,2005
+2005-01-01,New Year's Day,NS,2005
+2005-01-01,New Year's Day,NT,2005
+2005-01-01,New Year's Day,NU,2005
+2005-01-01,New Year's Day,ON,2005
+2005-01-01,New Year's Day,PE,2005
+2005-01-01,New Year's Day,QC,2005
+2005-01-01,New Year's Day,SK,2005
+2005-01-01,New Year's Day,YT,2005
+2005-01-03,New Year's Day (observed),AB,2005
+2005-01-03,New Year's Day (observed),BC,2005
+2005-01-03,New Year's Day (observed),MB,2005
+2005-01-03,New Year's Day (observed),NB,2005
+2005-01-03,New Year's Day (observed),NL,2005
+2005-01-03,New Year's Day (observed),NS,2005
+2005-01-03,New Year's Day (observed),NT,2005
+2005-01-03,New Year's Day (observed),NU,2005
+2005-01-03,New Year's Day (observed),ON,2005
+2005-01-03,New Year's Day (observed),PE,2005
+2005-01-03,New Year's Day (observed),QC,2005
+2005-01-03,New Year's Day (observed),SK,2005
+2005-01-03,New Year's Day (observed),YT,2005
+2005-02-21,Family Day,AB,2005
+2005-03-25,Good Friday,AB,2005
+2005-03-25,Good Friday,BC,2005
+2005-03-25,Good Friday,MB,2005
+2005-03-25,Good Friday,NB,2005
+2005-03-25,Good Friday,NL,2005
+2005-03-25,Good Friday,NS,2005
+2005-03-25,Good Friday,NT,2005
+2005-03-25,Good Friday,NU,2005
+2005-03-25,Good Friday,ON,2005
+2005-03-25,Good Friday,PE,2005
+2005-03-25,Good Friday,QC,2005
+2005-03-25,Good Friday,SK,2005
+2005-03-25,Good Friday,YT,2005
+2005-05-23,Victoria Day,AB,2005
+2005-05-23,Victoria Day,BC,2005
+2005-05-23,Victoria Day,MB,2005
+2005-05-23,Victoria Day,NT,2005
+2005-05-23,Victoria Day,NU,2005
+2005-05-23,Victoria Day,ON,2005
+2005-05-23,National Patriots' Day,QC,2005
+2005-05-23,Victoria Day,SK,2005
+2005-05-23,Victoria Day,YT,2005
+2005-06-21,National Aboriginal Day,NT,2005
+2005-06-24,Saint John the Baptist Day,QC,2005
+2005-07-01,Canada Day,AB,2005
+2005-07-01,Canada Day,BC,2005
+2005-07-01,Canada Day,MB,2005
+2005-07-01,Canada Day,NB,2005
+2005-07-01,Canada Day; Memorial Day,NL,2005
+2005-07-01,Canada Day,NS,2005
+2005-07-01,Canada Day,NT,2005
+2005-07-01,Canada Day,NU,2005
+2005-07-01,Canada Day,ON,2005
+2005-07-01,Canada Day,PE,2005
+2005-07-01,Canada Day,QC,2005
+2005-07-01,Canada Day,SK,2005
+2005-07-01,Canada Day,YT,2005
+2005-08-01,British Columbia Day,BC,2005
+2005-08-01,New Brunswick Day,NB,2005
+2005-08-01,Civic Holiday,NT,2005
+2005-08-01,Civic Holiday,NU,2005
+2005-08-01,Saskatchewan Day,SK,2005
+2005-08-15,Discovery Day,YT,2005
+2005-09-05,Labor Day,AB,2005
+2005-09-05,Labor Day,BC,2005
+2005-09-05,Labor Day,MB,2005
+2005-09-05,Labor Day,NB,2005
+2005-09-05,Labor Day,NL,2005
+2005-09-05,Labor Day,NS,2005
+2005-09-05,Labor Day,NT,2005
+2005-09-05,Labor Day,NU,2005
+2005-09-05,Labor Day,ON,2005
+2005-09-05,Labor Day,PE,2005
+2005-09-05,Labor Day,QC,2005
+2005-09-05,Labor Day,SK,2005
+2005-09-05,Labor Day,YT,2005
+2005-10-10,Thanksgiving Day,AB,2005
+2005-10-10,Thanksgiving Day,BC,2005
+2005-10-10,Thanksgiving Day,MB,2005
+2005-10-10,Thanksgiving Day,NT,2005
+2005-10-10,Thanksgiving Day,NU,2005
+2005-10-10,Thanksgiving Day,ON,2005
+2005-10-10,Thanksgiving Day,QC,2005
+2005-10-10,Thanksgiving Day,SK,2005
+2005-10-10,Thanksgiving Day,YT,2005
+2005-11-11,Remembrance Day,AB,2005
+2005-11-11,Remembrance Day,BC,2005
+2005-11-11,Remembrance Day,NB,2005
+2005-11-11,Remembrance Day,NL,2005
+2005-11-11,Remembrance Day,NS,2005
+2005-11-11,Remembrance Day,NT,2005
+2005-11-11,Remembrance Day,NU,2005
+2005-11-11,Remembrance Day,PE,2005
+2005-11-11,Remembrance Day,SK,2005
+2005-11-11,Remembrance Day,YT,2005
+2005-12-25,Christmas Day,AB,2005
+2005-12-25,Christmas Day,BC,2005
+2005-12-25,Christmas Day,MB,2005
+2005-12-25,Christmas Day,NB,2005
+2005-12-25,Christmas Day,NL,2005
+2005-12-25,Christmas Day,NS,2005
+2005-12-25,Christmas Day,NT,2005
+2005-12-25,Christmas Day,NU,2005
+2005-12-25,Christmas Day,ON,2005
+2005-12-25,Christmas Day,PE,2005
+2005-12-25,Christmas Day,QC,2005
+2005-12-25,Christmas Day,SK,2005
+2005-12-25,Christmas Day,YT,2005
+2005-12-26,Christmas Day (observed),AB,2005
+2005-12-26,Christmas Day (observed),BC,2005
+2005-12-26,Christmas Day (observed),MB,2005
+2005-12-26,Christmas Day (observed),NB,2005
+2005-12-26,Christmas Day (observed),NL,2005
+2005-12-26,Christmas Day (observed),NS,2005
+2005-12-26,Christmas Day (observed),NT,2005
+2005-12-26,Christmas Day (observed),NU,2005
+2005-12-26,Boxing Day; Christmas Day (observed),ON,2005
+2005-12-26,Christmas Day (observed),PE,2005
+2005-12-26,Christmas Day (observed),QC,2005
+2005-12-26,Christmas Day (observed),SK,2005
+2005-12-26,Christmas Day (observed),YT,2005
+2006-01-01,New Year's Day,AB,2006
+2006-01-01,New Year's Day,BC,2006
+2006-01-01,New Year's Day,MB,2006
+2006-01-01,New Year's Day,NB,2006
+2006-01-01,New Year's Day,NL,2006
+2006-01-01,New Year's Day,NS,2006
+2006-01-01,New Year's Day,NT,2006
+2006-01-01,New Year's Day,NU,2006
+2006-01-01,New Year's Day,ON,2006
+2006-01-01,New Year's Day,PE,2006
+2006-01-01,New Year's Day,QC,2006
+2006-01-01,New Year's Day,SK,2006
+2006-01-01,New Year's Day,YT,2006
+2006-01-02,New Year's Day (observed),AB,2006
+2006-01-02,New Year's Day (observed),BC,2006
+2006-01-02,New Year's Day (observed),MB,2006
+2006-01-02,New Year's Day (observed),NB,2006
+2006-01-02,New Year's Day (observed),NL,2006
+2006-01-02,New Year's Day (observed),NS,2006
+2006-01-02,New Year's Day (observed),NT,2006
+2006-01-02,New Year's Day (observed),NU,2006
+2006-01-02,New Year's Day (observed),ON,2006
+2006-01-02,New Year's Day (observed),PE,2006
+2006-01-02,New Year's Day (observed),QC,2006
+2006-01-02,New Year's Day (observed),SK,2006
+2006-01-02,New Year's Day (observed),YT,2006
+2006-02-20,Family Day,AB,2006
+2006-04-14,Good Friday,AB,2006
+2006-04-14,Good Friday,BC,2006
+2006-04-14,Good Friday,MB,2006
+2006-04-14,Good Friday,NB,2006
+2006-04-14,Good Friday,NL,2006
+2006-04-14,Good Friday,NS,2006
+2006-04-14,Good Friday,NT,2006
+2006-04-14,Good Friday,NU,2006
+2006-04-14,Good Friday,ON,2006
+2006-04-14,Good Friday,PE,2006
+2006-04-14,Good Friday,QC,2006
+2006-04-14,Good Friday,SK,2006
+2006-04-14,Good Friday,YT,2006
+2006-05-22,Victoria Day,AB,2006
+2006-05-22,Victoria Day,BC,2006
+2006-05-22,Victoria Day,MB,2006
+2006-05-22,Victoria Day,NT,2006
+2006-05-22,Victoria Day,NU,2006
+2006-05-22,Victoria Day,ON,2006
+2006-05-22,National Patriots' Day,QC,2006
+2006-05-22,Victoria Day,SK,2006
+2006-05-22,Victoria Day,YT,2006
+2006-06-21,National Aboriginal Day,NT,2006
+2006-06-24,Saint John the Baptist Day,QC,2006
+2006-07-01,Canada Day,AB,2006
+2006-07-01,Canada Day,BC,2006
+2006-07-01,Canada Day,MB,2006
+2006-07-01,Canada Day,NB,2006
+2006-07-01,Canada Day; Memorial Day,NL,2006
+2006-07-01,Canada Day,NS,2006
+2006-07-01,Canada Day,NT,2006
+2006-07-01,Canada Day,NU,2006
+2006-07-01,Canada Day,ON,2006
+2006-07-01,Canada Day,PE,2006
+2006-07-01,Canada Day,QC,2006
+2006-07-01,Canada Day,SK,2006
+2006-07-01,Canada Day,YT,2006
+2006-07-03,Canada Day (observed); Memorial Day (observed),NL,2006
+2006-07-03,Canada Day (observed),PE,2006
+2006-07-03,Canada Day (observed),SK,2006
+2006-07-03,Canada Day (observed),YT,2006
+2006-08-07,British Columbia Day,BC,2006
+2006-08-07,New Brunswick Day,NB,2006
+2006-08-07,Civic Holiday,NT,2006
+2006-08-07,Civic Holiday,NU,2006
+2006-08-07,Saskatchewan Day,SK,2006
+2006-08-21,Discovery Day,YT,2006
+2006-09-04,Labor Day,AB,2006
+2006-09-04,Labor Day,BC,2006
+2006-09-04,Labor Day,MB,2006
+2006-09-04,Labor Day,NB,2006
+2006-09-04,Labor Day,NL,2006
+2006-09-04,Labor Day,NS,2006
+2006-09-04,Labor Day,NT,2006
+2006-09-04,Labor Day,NU,2006
+2006-09-04,Labor Day,ON,2006
+2006-09-04,Labor Day,PE,2006
+2006-09-04,Labor Day,QC,2006
+2006-09-04,Labor Day,SK,2006
+2006-09-04,Labor Day,YT,2006
+2006-10-09,Thanksgiving Day,AB,2006
+2006-10-09,Thanksgiving Day,BC,2006
+2006-10-09,Thanksgiving Day,MB,2006
+2006-10-09,Thanksgiving Day,NT,2006
+2006-10-09,Thanksgiving Day,NU,2006
+2006-10-09,Thanksgiving Day,ON,2006
+2006-10-09,Thanksgiving Day,QC,2006
+2006-10-09,Thanksgiving Day,SK,2006
+2006-10-09,Thanksgiving Day,YT,2006
+2006-11-11,Remembrance Day,AB,2006
+2006-11-11,Remembrance Day,BC,2006
+2006-11-11,Remembrance Day,NB,2006
+2006-11-11,Remembrance Day,NL,2006
+2006-11-11,Remembrance Day,NS,2006
+2006-11-11,Remembrance Day,NT,2006
+2006-11-11,Remembrance Day,NU,2006
+2006-11-11,Remembrance Day,PE,2006
+2006-11-11,Remembrance Day,SK,2006
+2006-11-11,Remembrance Day,YT,2006
+2006-11-13,Remembrance Day (observed),AB,2006
+2006-11-13,Remembrance Day (observed),NL,2006
+2006-11-13,Remembrance Day (observed),NS,2006
+2006-11-13,Remembrance Day (observed),PE,2006
+2006-11-13,Remembrance Day (observed),SK,2006
+2006-11-13,Remembrance Day (observed),YT,2006
+2006-12-25,Christmas Day,AB,2006
+2006-12-25,Christmas Day,BC,2006
+2006-12-25,Christmas Day,MB,2006
+2006-12-25,Christmas Day,NB,2006
+2006-12-25,Christmas Day,NL,2006
+2006-12-25,Christmas Day,NS,2006
+2006-12-25,Christmas Day,NT,2006
+2006-12-25,Christmas Day,NU,2006
+2006-12-25,Christmas Day,ON,2006
+2006-12-25,Christmas Day,PE,2006
+2006-12-25,Christmas Day,QC,2006
+2006-12-25,Christmas Day,SK,2006
+2006-12-25,Christmas Day,YT,2006
+2006-12-26,Boxing Day,ON,2006
+2007-01-01,New Year's Day,AB,2007
+2007-01-01,New Year's Day,BC,2007
+2007-01-01,New Year's Day,MB,2007
+2007-01-01,New Year's Day,NB,2007
+2007-01-01,New Year's Day,NL,2007
+2007-01-01,New Year's Day,NS,2007
+2007-01-01,New Year's Day,NT,2007
+2007-01-01,New Year's Day,NU,2007
+2007-01-01,New Year's Day,ON,2007
+2007-01-01,New Year's Day,PE,2007
+2007-01-01,New Year's Day,QC,2007
+2007-01-01,New Year's Day,SK,2007
+2007-01-01,New Year's Day,YT,2007
+2007-02-19,Family Day,AB,2007
+2007-02-19,Family Day,SK,2007
+2007-04-06,Good Friday,AB,2007
+2007-04-06,Good Friday,BC,2007
+2007-04-06,Good Friday,MB,2007
+2007-04-06,Good Friday,NB,2007
+2007-04-06,Good Friday,NL,2007
+2007-04-06,Good Friday,NS,2007
+2007-04-06,Good Friday,NT,2007
+2007-04-06,Good Friday,NU,2007
+2007-04-06,Good Friday,ON,2007
+2007-04-06,Good Friday,PE,2007
+2007-04-06,Good Friday,QC,2007
+2007-04-06,Good Friday,SK,2007
+2007-04-06,Good Friday,YT,2007
+2007-05-21,Victoria Day,AB,2007
+2007-05-21,Victoria Day,BC,2007
+2007-05-21,Victoria Day,MB,2007
+2007-05-21,Victoria Day,NT,2007
+2007-05-21,Victoria Day,NU,2007
+2007-05-21,Victoria Day,ON,2007
+2007-05-21,National Patriots' Day,QC,2007
+2007-05-21,Victoria Day,SK,2007
+2007-05-21,Victoria Day,YT,2007
+2007-06-21,National Aboriginal Day,NT,2007
+2007-06-24,Saint John the Baptist Day,QC,2007
+2007-06-25,Saint John the Baptist Day (observed),QC,2007
+2007-07-01,Canada Day,AB,2007
+2007-07-01,Canada Day,BC,2007
+2007-07-01,Canada Day,MB,2007
+2007-07-01,Canada Day,NB,2007
+2007-07-01,Canada Day; Memorial Day,NL,2007
+2007-07-01,Canada Day,NS,2007
+2007-07-01,Canada Day,NT,2007
+2007-07-01,Canada Day,NU,2007
+2007-07-01,Canada Day,ON,2007
+2007-07-01,Canada Day,PE,2007
+2007-07-01,Canada Day,QC,2007
+2007-07-01,Canada Day,SK,2007
+2007-07-01,Canada Day,YT,2007
+2007-07-02,Canada Day (observed),AB,2007
+2007-07-02,Canada Day (observed),BC,2007
+2007-07-02,Canada Day (observed); Memorial Day (observed),NL,2007
+2007-07-02,Canada Day (observed),PE,2007
+2007-07-02,Canada Day (observed),QC,2007
+2007-07-02,Canada Day (observed),SK,2007
+2007-07-02,Canada Day (observed),YT,2007
+2007-08-06,British Columbia Day,BC,2007
+2007-08-06,New Brunswick Day,NB,2007
+2007-08-06,Civic Holiday,NT,2007
+2007-08-06,Civic Holiday,NU,2007
+2007-08-06,Saskatchewan Day,SK,2007
+2007-08-20,Discovery Day,YT,2007
+2007-09-03,Labor Day,AB,2007
+2007-09-03,Labor Day,BC,2007
+2007-09-03,Labor Day,MB,2007
+2007-09-03,Labor Day,NB,2007
+2007-09-03,Labor Day,NL,2007
+2007-09-03,Labor Day,NS,2007
+2007-09-03,Labor Day,NT,2007
+2007-09-03,Labor Day,NU,2007
+2007-09-03,Labor Day,ON,2007
+2007-09-03,Labor Day,PE,2007
+2007-09-03,Labor Day,QC,2007
+2007-09-03,Labor Day,SK,2007
+2007-09-03,Labor Day,YT,2007
+2007-10-08,Thanksgiving Day,AB,2007
+2007-10-08,Thanksgiving Day,BC,2007
+2007-10-08,Thanksgiving Day,MB,2007
+2007-10-08,Thanksgiving Day,NT,2007
+2007-10-08,Thanksgiving Day,NU,2007
+2007-10-08,Thanksgiving Day,ON,2007
+2007-10-08,Thanksgiving Day,QC,2007
+2007-10-08,Thanksgiving Day,SK,2007
+2007-10-08,Thanksgiving Day,YT,2007
+2007-11-11,Remembrance Day,AB,2007
+2007-11-11,Remembrance Day,BC,2007
+2007-11-11,Remembrance Day,NB,2007
+2007-11-11,Remembrance Day,NL,2007
+2007-11-11,Remembrance Day,NS,2007
+2007-11-11,Remembrance Day,NT,2007
+2007-11-11,Remembrance Day,NU,2007
+2007-11-11,Remembrance Day,PE,2007
+2007-11-11,Remembrance Day,SK,2007
+2007-11-11,Remembrance Day,YT,2007
+2007-11-12,Remembrance Day (observed),AB,2007
+2007-11-12,Remembrance Day (observed),NL,2007
+2007-11-12,Remembrance Day (observed),NS,2007
+2007-11-12,Remembrance Day (observed),PE,2007
+2007-11-12,Remembrance Day (observed),SK,2007
+2007-11-12,Remembrance Day (observed),YT,2007
+2007-12-25,Christmas Day,AB,2007
+2007-12-25,Christmas Day,BC,2007
+2007-12-25,Christmas Day,MB,2007
+2007-12-25,Christmas Day,NB,2007
+2007-12-25,Christmas Day,NL,2007
+2007-12-25,Christmas Day,NS,2007
+2007-12-25,Christmas Day,NT,2007
+2007-12-25,Christmas Day,NU,2007
+2007-12-25,Christmas Day,ON,2007
+2007-12-25,Christmas Day,PE,2007
+2007-12-25,Christmas Day,QC,2007
+2007-12-25,Christmas Day,SK,2007
+2007-12-25,Christmas Day,YT,2007
+2007-12-26,Boxing Day,ON,2007
+2008-01-01,New Year's Day,AB,2008
+2008-01-01,New Year's Day,BC,2008
+2008-01-01,New Year's Day,MB,2008
+2008-01-01,New Year's Day,NB,2008
+2008-01-01,New Year's Day,NL,2008
+2008-01-01,New Year's Day,NS,2008
+2008-01-01,New Year's Day,NT,2008
+2008-01-01,New Year's Day,NU,2008
+2008-01-01,New Year's Day,ON,2008
+2008-01-01,New Year's Day,PE,2008
+2008-01-01,New Year's Day,QC,2008
+2008-01-01,New Year's Day,SK,2008
+2008-01-01,New Year's Day,YT,2008
+2008-02-18,Family Day,AB,2008
+2008-02-18,Louis Riel Day,MB,2008
+2008-02-18,Family Day,ON,2008
+2008-02-18,Family Day,SK,2008
+2008-03-21,Good Friday,AB,2008
+2008-03-21,Good Friday,BC,2008
+2008-03-21,Good Friday,MB,2008
+2008-03-21,Good Friday,NB,2008
+2008-03-21,Good Friday,NL,2008
+2008-03-21,Good Friday,NS,2008
+2008-03-21,Good Friday,NT,2008
+2008-03-21,Good Friday,NU,2008
+2008-03-21,Good Friday,ON,2008
+2008-03-21,Good Friday,PE,2008
+2008-03-21,Good Friday,QC,2008
+2008-03-21,Good Friday,SK,2008
+2008-03-21,Good Friday,YT,2008
+2008-05-19,Victoria Day,AB,2008
+2008-05-19,Victoria Day,BC,2008
+2008-05-19,Victoria Day,MB,2008
+2008-05-19,Victoria Day,NT,2008
+2008-05-19,Victoria Day,NU,2008
+2008-05-19,Victoria Day,ON,2008
+2008-05-19,National Patriots' Day,QC,2008
+2008-05-19,Victoria Day,SK,2008
+2008-05-19,Victoria Day,YT,2008
+2008-06-21,National Aboriginal Day,NT,2008
+2008-06-24,Saint John the Baptist Day,QC,2008
+2008-07-01,Canada Day,AB,2008
+2008-07-01,Canada Day,BC,2008
+2008-07-01,Canada Day,MB,2008
+2008-07-01,Canada Day,NB,2008
+2008-07-01,Canada Day; Memorial Day,NL,2008
+2008-07-01,Canada Day,NS,2008
+2008-07-01,Canada Day,NT,2008
+2008-07-01,Canada Day,NU,2008
+2008-07-01,Canada Day,ON,2008
+2008-07-01,Canada Day,PE,2008
+2008-07-01,Canada Day,QC,2008
+2008-07-01,Canada Day,SK,2008
+2008-07-01,Canada Day,YT,2008
+2008-08-04,British Columbia Day,BC,2008
+2008-08-04,New Brunswick Day,NB,2008
+2008-08-04,Civic Holiday,NT,2008
+2008-08-04,Civic Holiday,NU,2008
+2008-08-04,Saskatchewan Day,SK,2008
+2008-08-18,Discovery Day,YT,2008
+2008-09-01,Labor Day,AB,2008
+2008-09-01,Labor Day,BC,2008
+2008-09-01,Labor Day,MB,2008
+2008-09-01,Labor Day,NB,2008
+2008-09-01,Labor Day,NL,2008
+2008-09-01,Labor Day,NS,2008
+2008-09-01,Labor Day,NT,2008
+2008-09-01,Labor Day,NU,2008
+2008-09-01,Labor Day,ON,2008
+2008-09-01,Labor Day,PE,2008
+2008-09-01,Labor Day,QC,2008
+2008-09-01,Labor Day,SK,2008
+2008-09-01,Labor Day,YT,2008
+2008-10-13,Thanksgiving Day,AB,2008
+2008-10-13,Thanksgiving Day,BC,2008
+2008-10-13,Thanksgiving Day,MB,2008
+2008-10-13,Thanksgiving Day,NT,2008
+2008-10-13,Thanksgiving Day,NU,2008
+2008-10-13,Thanksgiving Day,ON,2008
+2008-10-13,Thanksgiving Day,QC,2008
+2008-10-13,Thanksgiving Day,SK,2008
+2008-10-13,Thanksgiving Day,YT,2008
+2008-11-11,Remembrance Day,AB,2008
+2008-11-11,Remembrance Day,BC,2008
+2008-11-11,Remembrance Day,NB,2008
+2008-11-11,Remembrance Day,NL,2008
+2008-11-11,Remembrance Day,NS,2008
+2008-11-11,Remembrance Day,NT,2008
+2008-11-11,Remembrance Day,NU,2008
+2008-11-11,Remembrance Day,PE,2008
+2008-11-11,Remembrance Day,SK,2008
+2008-11-11,Remembrance Day,YT,2008
+2008-12-25,Christmas Day,AB,2008
+2008-12-25,Christmas Day,BC,2008
+2008-12-25,Christmas Day,MB,2008
+2008-12-25,Christmas Day,NB,2008
+2008-12-25,Christmas Day,NL,2008
+2008-12-25,Christmas Day,NS,2008
+2008-12-25,Christmas Day,NT,2008
+2008-12-25,Christmas Day,NU,2008
+2008-12-25,Christmas Day,ON,2008
+2008-12-25,Christmas Day,PE,2008
+2008-12-25,Christmas Day,QC,2008
+2008-12-25,Christmas Day,SK,2008
+2008-12-25,Christmas Day,YT,2008
+2008-12-26,Boxing Day,ON,2008
+2009-01-01,New Year's Day,AB,2009
+2009-01-01,New Year's Day,BC,2009
+2009-01-01,New Year's Day,MB,2009
+2009-01-01,New Year's Day,NB,2009
+2009-01-01,New Year's Day,NL,2009
+2009-01-01,New Year's Day,NS,2009
+2009-01-01,New Year's Day,NT,2009
+2009-01-01,New Year's Day,NU,2009
+2009-01-01,New Year's Day,ON,2009
+2009-01-01,New Year's Day,PE,2009
+2009-01-01,New Year's Day,QC,2009
+2009-01-01,New Year's Day,SK,2009
+2009-01-01,New Year's Day,YT,2009
+2009-02-09,Islander Day,PE,2009
+2009-02-16,Family Day,AB,2009
+2009-02-16,Louis Riel Day,MB,2009
+2009-02-16,Family Day,ON,2009
+2009-02-16,Family Day,SK,2009
+2009-04-10,Good Friday,AB,2009
+2009-04-10,Good Friday,BC,2009
+2009-04-10,Good Friday,MB,2009
+2009-04-10,Good Friday,NB,2009
+2009-04-10,Good Friday,NL,2009
+2009-04-10,Good Friday,NS,2009
+2009-04-10,Good Friday,NT,2009
+2009-04-10,Good Friday,NU,2009
+2009-04-10,Good Friday,ON,2009
+2009-04-10,Good Friday,PE,2009
+2009-04-10,Good Friday,QC,2009
+2009-04-10,Good Friday,SK,2009
+2009-04-10,Good Friday,YT,2009
+2009-05-18,Victoria Day,AB,2009
+2009-05-18,Victoria Day,BC,2009
+2009-05-18,Victoria Day,MB,2009
+2009-05-18,Victoria Day,NT,2009
+2009-05-18,Victoria Day,NU,2009
+2009-05-18,Victoria Day,ON,2009
+2009-05-18,National Patriots' Day,QC,2009
+2009-05-18,Victoria Day,SK,2009
+2009-05-18,Victoria Day,YT,2009
+2009-06-21,National Aboriginal Day,NT,2009
+2009-06-24,Saint John the Baptist Day,QC,2009
+2009-07-01,Canada Day,AB,2009
+2009-07-01,Canada Day,BC,2009
+2009-07-01,Canada Day,MB,2009
+2009-07-01,Canada Day,NB,2009
+2009-07-01,Canada Day; Memorial Day,NL,2009
+2009-07-01,Canada Day,NS,2009
+2009-07-01,Canada Day,NT,2009
+2009-07-01,Canada Day,NU,2009
+2009-07-01,Canada Day,ON,2009
+2009-07-01,Canada Day,PE,2009
+2009-07-01,Canada Day,QC,2009
+2009-07-01,Canada Day,SK,2009
+2009-07-01,Canada Day,YT,2009
+2009-08-03,British Columbia Day,BC,2009
+2009-08-03,New Brunswick Day,NB,2009
+2009-08-03,Civic Holiday,NT,2009
+2009-08-03,Civic Holiday,NU,2009
+2009-08-03,Saskatchewan Day,SK,2009
+2009-08-17,Discovery Day,YT,2009
+2009-09-07,Labor Day,AB,2009
+2009-09-07,Labor Day,BC,2009
+2009-09-07,Labor Day,MB,2009
+2009-09-07,Labor Day,NB,2009
+2009-09-07,Labor Day,NL,2009
+2009-09-07,Labor Day,NS,2009
+2009-09-07,Labor Day,NT,2009
+2009-09-07,Labor Day,NU,2009
+2009-09-07,Labor Day,ON,2009
+2009-09-07,Labor Day,PE,2009
+2009-09-07,Labor Day,QC,2009
+2009-09-07,Labor Day,SK,2009
+2009-09-07,Labor Day,YT,2009
+2009-10-12,Thanksgiving Day,AB,2009
+2009-10-12,Thanksgiving Day,BC,2009
+2009-10-12,Thanksgiving Day,MB,2009
+2009-10-12,Thanksgiving Day,NT,2009
+2009-10-12,Thanksgiving Day,NU,2009
+2009-10-12,Thanksgiving Day,ON,2009
+2009-10-12,Thanksgiving Day,QC,2009
+2009-10-12,Thanksgiving Day,SK,2009
+2009-10-12,Thanksgiving Day,YT,2009
+2009-11-11,Remembrance Day,AB,2009
+2009-11-11,Remembrance Day,BC,2009
+2009-11-11,Remembrance Day,NB,2009
+2009-11-11,Remembrance Day,NL,2009
+2009-11-11,Remembrance Day,NS,2009
+2009-11-11,Remembrance Day,NT,2009
+2009-11-11,Remembrance Day,NU,2009
+2009-11-11,Remembrance Day,PE,2009
+2009-11-11,Remembrance Day,SK,2009
+2009-11-11,Remembrance Day,YT,2009
+2009-12-25,Christmas Day,AB,2009
+2009-12-25,Christmas Day,BC,2009
+2009-12-25,Christmas Day,MB,2009
+2009-12-25,Christmas Day,NB,2009
+2009-12-25,Christmas Day,NL,2009
+2009-12-25,Christmas Day,NS,2009
+2009-12-25,Christmas Day,NT,2009
+2009-12-25,Christmas Day,NU,2009
+2009-12-25,Christmas Day,ON,2009
+2009-12-25,Christmas Day,PE,2009
+2009-12-25,Christmas Day,QC,2009
+2009-12-25,Christmas Day,SK,2009
+2009-12-25,Christmas Day,YT,2009
+2009-12-26,Boxing Day,ON,2009
+2010-01-01,New Year's Day,AB,2010
+2010-01-01,New Year's Day,BC,2010
+2010-01-01,New Year's Day,MB,2010
+2010-01-01,New Year's Day,NB,2010
+2010-01-01,New Year's Day,NL,2010
+2010-01-01,New Year's Day,NS,2010
+2010-01-01,New Year's Day,NT,2010
+2010-01-01,New Year's Day,NU,2010
+2010-01-01,New Year's Day,ON,2010
+2010-01-01,New Year's Day,PE,2010
+2010-01-01,New Year's Day,QC,2010
+2010-01-01,New Year's Day,SK,2010
+2010-01-01,New Year's Day,YT,2010
+2010-02-15,Family Day,AB,2010
+2010-02-15,Louis Riel Day,MB,2010
+2010-02-15,Family Day,ON,2010
+2010-02-15,Islander Day,PE,2010
+2010-02-15,Family Day,SK,2010
+2010-04-02,Good Friday,AB,2010
+2010-04-02,Good Friday,BC,2010
+2010-04-02,Good Friday,MB,2010
+2010-04-02,Good Friday,NB,2010
+2010-04-02,Good Friday,NL,2010
+2010-04-02,Good Friday,NS,2010
+2010-04-02,Good Friday,NT,2010
+2010-04-02,Good Friday,NU,2010
+2010-04-02,Good Friday,ON,2010
+2010-04-02,Good Friday,PE,2010
+2010-04-02,Good Friday,QC,2010
+2010-04-02,Good Friday,SK,2010
+2010-04-02,Good Friday,YT,2010
+2010-05-24,Victoria Day,AB,2010
+2010-05-24,Victoria Day,BC,2010
+2010-05-24,Victoria Day,MB,2010
+2010-05-24,Victoria Day,NT,2010
+2010-05-24,Victoria Day,NU,2010
+2010-05-24,Victoria Day,ON,2010
+2010-05-24,National Patriots' Day,QC,2010
+2010-05-24,Victoria Day,SK,2010
+2010-05-24,Victoria Day,YT,2010
+2010-06-21,National Aboriginal Day,NT,2010
+2010-06-24,Saint John the Baptist Day,QC,2010
+2010-07-01,Canada Day,AB,2010
+2010-07-01,Canada Day,BC,2010
+2010-07-01,Canada Day,MB,2010
+2010-07-01,Canada Day,NB,2010
+2010-07-01,Canada Day; Memorial Day,NL,2010
+2010-07-01,Canada Day,NS,2010
+2010-07-01,Canada Day,NT,2010
+2010-07-01,Canada Day,NU,2010
+2010-07-01,Canada Day,ON,2010
+2010-07-01,Canada Day,PE,2010
+2010-07-01,Canada Day,QC,2010
+2010-07-01,Canada Day,SK,2010
+2010-07-01,Canada Day,YT,2010
+2010-08-02,British Columbia Day,BC,2010
+2010-08-02,New Brunswick Day,NB,2010
+2010-08-02,Civic Holiday,NT,2010
+2010-08-02,Civic Holiday,NU,2010
+2010-08-02,Saskatchewan Day,SK,2010
+2010-08-16,Discovery Day,YT,2010
+2010-09-06,Labor Day,AB,2010
+2010-09-06,Labor Day,BC,2010
+2010-09-06,Labor Day,MB,2010
+2010-09-06,Labor Day,NB,2010
+2010-09-06,Labor Day,NL,2010
+2010-09-06,Labor Day,NS,2010
+2010-09-06,Labor Day,NT,2010
+2010-09-06,Labor Day,NU,2010
+2010-09-06,Labor Day,ON,2010
+2010-09-06,Labor Day,PE,2010
+2010-09-06,Labor Day,QC,2010
+2010-09-06,Labor Day,SK,2010
+2010-09-06,Labor Day,YT,2010
+2010-10-11,Thanksgiving Day,AB,2010
+2010-10-11,Thanksgiving Day,BC,2010
+2010-10-11,Thanksgiving Day,MB,2010
+2010-10-11,Thanksgiving Day,NT,2010
+2010-10-11,Thanksgiving Day,NU,2010
+2010-10-11,Thanksgiving Day,ON,2010
+2010-10-11,Thanksgiving Day,QC,2010
+2010-10-11,Thanksgiving Day,SK,2010
+2010-10-11,Thanksgiving Day,YT,2010
+2010-11-11,Remembrance Day,AB,2010
+2010-11-11,Remembrance Day,BC,2010
+2010-11-11,Remembrance Day,NB,2010
+2010-11-11,Remembrance Day,NL,2010
+2010-11-11,Remembrance Day,NS,2010
+2010-11-11,Remembrance Day,NT,2010
+2010-11-11,Remembrance Day,NU,2010
+2010-11-11,Remembrance Day,PE,2010
+2010-11-11,Remembrance Day,SK,2010
+2010-11-11,Remembrance Day,YT,2010
+2010-12-25,Christmas Day,AB,2010
+2010-12-25,Christmas Day,BC,2010
+2010-12-25,Christmas Day,MB,2010
+2010-12-25,Christmas Day,NB,2010
+2010-12-25,Christmas Day,NL,2010
+2010-12-25,Christmas Day,NS,2010
+2010-12-25,Christmas Day,NT,2010
+2010-12-25,Christmas Day,NU,2010
+2010-12-25,Christmas Day,ON,2010
+2010-12-25,Christmas Day,PE,2010
+2010-12-25,Christmas Day,QC,2010
+2010-12-25,Christmas Day,SK,2010
+2010-12-25,Christmas Day,YT,2010
+2010-12-26,Boxing Day,ON,2010
+2010-12-27,Christmas Day (observed),AB,2010
+2010-12-27,Christmas Day (observed),BC,2010
+2010-12-27,Christmas Day (observed),MB,2010
+2010-12-27,Christmas Day (observed),NB,2010
+2010-12-27,Christmas Day (observed),NL,2010
+2010-12-27,Christmas Day (observed),NS,2010
+2010-12-27,Christmas Day (observed),NT,2010
+2010-12-27,Christmas Day (observed),NU,2010
+2010-12-27,Christmas Day (observed),ON,2010
+2010-12-27,Christmas Day (observed),PE,2010
+2010-12-27,Christmas Day (observed),QC,2010
+2010-12-27,Christmas Day (observed),SK,2010
+2010-12-27,Christmas Day (observed),YT,2010
+2010-12-28,Boxing Day (observed),ON,2010
+2011-01-01,New Year's Day,AB,2011
+2011-01-01,New Year's Day,BC,2011
+2011-01-01,New Year's Day,MB,2011
+2011-01-01,New Year's Day,NB,2011
+2011-01-01,New Year's Day,NL,2011
+2011-01-01,New Year's Day,NS,2011
+2011-01-01,New Year's Day,NT,2011
+2011-01-01,New Year's Day,NU,2011
+2011-01-01,New Year's Day,ON,2011
+2011-01-01,New Year's Day,PE,2011
+2011-01-01,New Year's Day,QC,2011
+2011-01-01,New Year's Day,SK,2011
+2011-01-01,New Year's Day,YT,2011
+2011-01-03,New Year's Day (observed),AB,2011
+2011-01-03,New Year's Day (observed),BC,2011
+2011-01-03,New Year's Day (observed),MB,2011
+2011-01-03,New Year's Day (observed),NB,2011
+2011-01-03,New Year's Day (observed),NL,2011
+2011-01-03,New Year's Day (observed),NS,2011
+2011-01-03,New Year's Day (observed),NT,2011
+2011-01-03,New Year's Day (observed),NU,2011
+2011-01-03,New Year's Day (observed),ON,2011
+2011-01-03,New Year's Day (observed),PE,2011
+2011-01-03,New Year's Day (observed),QC,2011
+2011-01-03,New Year's Day (observed),SK,2011
+2011-01-03,New Year's Day (observed),YT,2011
+2011-02-21,Family Day,AB,2011
+2011-02-21,Louis Riel Day,MB,2011
+2011-02-21,Family Day,ON,2011
+2011-02-21,Islander Day,PE,2011
+2011-02-21,Family Day,SK,2011
+2011-04-22,Good Friday,AB,2011
+2011-04-22,Good Friday,BC,2011
+2011-04-22,Good Friday,MB,2011
+2011-04-22,Good Friday,NB,2011
+2011-04-22,Good Friday,NL,2011
+2011-04-22,Good Friday,NS,2011
+2011-04-22,Good Friday,NT,2011
+2011-04-22,Good Friday,NU,2011
+2011-04-22,Good Friday,ON,2011
+2011-04-22,Good Friday,PE,2011
+2011-04-22,Good Friday,QC,2011
+2011-04-22,Good Friday,SK,2011
+2011-04-22,Good Friday,YT,2011
+2011-05-23,Victoria Day,AB,2011
+2011-05-23,Victoria Day,BC,2011
+2011-05-23,Victoria Day,MB,2011
+2011-05-23,Victoria Day,NT,2011
+2011-05-23,Victoria Day,NU,2011
+2011-05-23,Victoria Day,ON,2011
+2011-05-23,National Patriots' Day,QC,2011
+2011-05-23,Victoria Day,SK,2011
+2011-05-23,Victoria Day,YT,2011
+2011-06-21,National Aboriginal Day,NT,2011
+2011-06-24,Saint John the Baptist Day,QC,2011
+2011-07-01,Canada Day,AB,2011
+2011-07-01,Canada Day,BC,2011
+2011-07-01,Canada Day,MB,2011
+2011-07-01,Canada Day,NB,2011
+2011-07-01,Canada Day; Memorial Day,NL,2011
+2011-07-01,Canada Day,NS,2011
+2011-07-01,Canada Day,NT,2011
+2011-07-01,Canada Day,NU,2011
+2011-07-01,Canada Day,ON,2011
+2011-07-01,Canada Day,PE,2011
+2011-07-01,Canada Day,QC,2011
+2011-07-01,Canada Day,SK,2011
+2011-07-01,Canada Day,YT,2011
+2011-08-01,British Columbia Day,BC,2011
+2011-08-01,New Brunswick Day,NB,2011
+2011-08-01,Civic Holiday,NT,2011
+2011-08-01,Civic Holiday,NU,2011
+2011-08-01,Saskatchewan Day,SK,2011
+2011-08-15,Discovery Day,YT,2011
+2011-09-05,Labor Day,AB,2011
+2011-09-05,Labor Day,BC,2011
+2011-09-05,Labor Day,MB,2011
+2011-09-05,Labor Day,NB,2011
+2011-09-05,Labor Day,NL,2011
+2011-09-05,Labor Day,NS,2011
+2011-09-05,Labor Day,NT,2011
+2011-09-05,Labor Day,NU,2011
+2011-09-05,Labor Day,ON,2011
+2011-09-05,Labor Day,PE,2011
+2011-09-05,Labor Day,QC,2011
+2011-09-05,Labor Day,SK,2011
+2011-09-05,Labor Day,YT,2011
+2011-10-10,Thanksgiving Day,AB,2011
+2011-10-10,Thanksgiving Day,BC,2011
+2011-10-10,Thanksgiving Day,MB,2011
+2011-10-10,Thanksgiving Day,NT,2011
+2011-10-10,Thanksgiving Day,NU,2011
+2011-10-10,Thanksgiving Day,ON,2011
+2011-10-10,Thanksgiving Day,QC,2011
+2011-10-10,Thanksgiving Day,SK,2011
+2011-10-10,Thanksgiving Day,YT,2011
+2011-11-11,Remembrance Day,AB,2011
+2011-11-11,Remembrance Day,BC,2011
+2011-11-11,Remembrance Day,NB,2011
+2011-11-11,Remembrance Day,NL,2011
+2011-11-11,Remembrance Day,NS,2011
+2011-11-11,Remembrance Day,NT,2011
+2011-11-11,Remembrance Day,NU,2011
+2011-11-11,Remembrance Day,PE,2011
+2011-11-11,Remembrance Day,SK,2011
+2011-11-11,Remembrance Day,YT,2011
+2011-12-25,Christmas Day,AB,2011
+2011-12-25,Christmas Day,BC,2011
+2011-12-25,Christmas Day,MB,2011
+2011-12-25,Christmas Day,NB,2011
+2011-12-25,Christmas Day,NL,2011
+2011-12-25,Christmas Day,NS,2011
+2011-12-25,Christmas Day,NT,2011
+2011-12-25,Christmas Day,NU,2011
+2011-12-25,Christmas Day,ON,2011
+2011-12-25,Christmas Day,PE,2011
+2011-12-25,Christmas Day,QC,2011
+2011-12-25,Christmas Day,SK,2011
+2011-12-25,Christmas Day,YT,2011
+2011-12-26,Christmas Day (observed),AB,2011
+2011-12-26,Christmas Day (observed),BC,2011
+2011-12-26,Christmas Day (observed),MB,2011
+2011-12-26,Christmas Day (observed),NB,2011
+2011-12-26,Christmas Day (observed),NL,2011
+2011-12-26,Christmas Day (observed),NS,2011
+2011-12-26,Christmas Day (observed),NT,2011
+2011-12-26,Christmas Day (observed),NU,2011
+2011-12-26,Boxing Day; Christmas Day (observed),ON,2011
+2011-12-26,Christmas Day (observed),PE,2011
+2011-12-26,Christmas Day (observed),QC,2011
+2011-12-26,Christmas Day (observed),SK,2011
+2011-12-26,Christmas Day (observed),YT,2011
+2012-01-01,New Year's Day,AB,2012
+2012-01-01,New Year's Day,BC,2012
+2012-01-01,New Year's Day,MB,2012
+2012-01-01,New Year's Day,NB,2012
+2012-01-01,New Year's Day,NL,2012
+2012-01-01,New Year's Day,NS,2012
+2012-01-01,New Year's Day,NT,2012
+2012-01-01,New Year's Day,NU,2012
+2012-01-01,New Year's Day,ON,2012
+2012-01-01,New Year's Day,PE,2012
+2012-01-01,New Year's Day,QC,2012
+2012-01-01,New Year's Day,SK,2012
+2012-01-01,New Year's Day,YT,2012
+2012-01-02,New Year's Day (observed),AB,2012
+2012-01-02,New Year's Day (observed),BC,2012
+2012-01-02,New Year's Day (observed),MB,2012
+2012-01-02,New Year's Day (observed),NB,2012
+2012-01-02,New Year's Day (observed),NL,2012
+2012-01-02,New Year's Day (observed),NS,2012
+2012-01-02,New Year's Day (observed),NT,2012
+2012-01-02,New Year's Day (observed),NU,2012
+2012-01-02,New Year's Day (observed),ON,2012
+2012-01-02,New Year's Day (observed),PE,2012
+2012-01-02,New Year's Day (observed),QC,2012
+2012-01-02,New Year's Day (observed),SK,2012
+2012-01-02,New Year's Day (observed),YT,2012
+2012-02-20,Family Day,AB,2012
+2012-02-20,Louis Riel Day,MB,2012
+2012-02-20,Family Day,ON,2012
+2012-02-20,Islander Day,PE,2012
+2012-02-20,Family Day,SK,2012
+2012-04-06,Good Friday,AB,2012
+2012-04-06,Good Friday,BC,2012
+2012-04-06,Good Friday,MB,2012
+2012-04-06,Good Friday,NB,2012
+2012-04-06,Good Friday,NL,2012
+2012-04-06,Good Friday,NS,2012
+2012-04-06,Good Friday,NT,2012
+2012-04-06,Good Friday,NU,2012
+2012-04-06,Good Friday,ON,2012
+2012-04-06,Good Friday,PE,2012
+2012-04-06,Good Friday,QC,2012
+2012-04-06,Good Friday,SK,2012
+2012-04-06,Good Friday,YT,2012
+2012-05-21,Victoria Day,AB,2012
+2012-05-21,Victoria Day,BC,2012
+2012-05-21,Victoria Day,MB,2012
+2012-05-21,Victoria Day,NT,2012
+2012-05-21,Victoria Day,NU,2012
+2012-05-21,Victoria Day,ON,2012
+2012-05-21,National Patriots' Day,QC,2012
+2012-05-21,Victoria Day,SK,2012
+2012-05-21,Victoria Day,YT,2012
+2012-06-21,National Aboriginal Day,NT,2012
+2012-06-24,Saint John the Baptist Day,QC,2012
+2012-06-25,Saint John the Baptist Day (observed),QC,2012
+2012-07-01,Canada Day,AB,2012
+2012-07-01,Canada Day,BC,2012
+2012-07-01,Canada Day,MB,2012
+2012-07-01,Canada Day,NB,2012
+2012-07-01,Canada Day; Memorial Day,NL,2012
+2012-07-01,Canada Day,NS,2012
+2012-07-01,Canada Day,NT,2012
+2012-07-01,Canada Day,NU,2012
+2012-07-01,Canada Day,ON,2012
+2012-07-01,Canada Day,PE,2012
+2012-07-01,Canada Day,QC,2012
+2012-07-01,Canada Day,SK,2012
+2012-07-01,Canada Day,YT,2012
+2012-07-02,Canada Day (observed),AB,2012
+2012-07-02,Canada Day (observed),BC,2012
+2012-07-02,Canada Day (observed); Memorial Day (observed),NL,2012
+2012-07-02,Canada Day (observed),PE,2012
+2012-07-02,Canada Day (observed),QC,2012
+2012-07-02,Canada Day (observed),SK,2012
+2012-07-02,Canada Day (observed),YT,2012
+2012-08-06,British Columbia Day,BC,2012
+2012-08-06,New Brunswick Day,NB,2012
+2012-08-06,Civic Holiday,NT,2012
+2012-08-06,Civic Holiday,NU,2012
+2012-08-06,Saskatchewan Day,SK,2012
+2012-08-20,Discovery Day,YT,2012
+2012-09-03,Labor Day,AB,2012
+2012-09-03,Labor Day,BC,2012
+2012-09-03,Labor Day,MB,2012
+2012-09-03,Labor Day,NB,2012
+2012-09-03,Labor Day,NL,2012
+2012-09-03,Labor Day,NS,2012
+2012-09-03,Labor Day,NT,2012
+2012-09-03,Labor Day,NU,2012
+2012-09-03,Labor Day,ON,2012
+2012-09-03,Labor Day,PE,2012
+2012-09-03,Labor Day,QC,2012
+2012-09-03,Labor Day,SK,2012
+2012-09-03,Labor Day,YT,2012
+2012-10-08,Thanksgiving Day,AB,2012
+2012-10-08,Thanksgiving Day,BC,2012
+2012-10-08,Thanksgiving Day,MB,2012
+2012-10-08,Thanksgiving Day,NT,2012
+2012-10-08,Thanksgiving Day,NU,2012
+2012-10-08,Thanksgiving Day,ON,2012
+2012-10-08,Thanksgiving Day,QC,2012
+2012-10-08,Thanksgiving Day,SK,2012
+2012-10-08,Thanksgiving Day,YT,2012
+2012-11-11,Remembrance Day,AB,2012
+2012-11-11,Remembrance Day,BC,2012
+2012-11-11,Remembrance Day,NB,2012
+2012-11-11,Remembrance Day,NL,2012
+2012-11-11,Remembrance Day,NS,2012
+2012-11-11,Remembrance Day,NT,2012
+2012-11-11,Remembrance Day,NU,2012
+2012-11-11,Remembrance Day,PE,2012
+2012-11-11,Remembrance Day,SK,2012
+2012-11-11,Remembrance Day,YT,2012
+2012-11-12,Remembrance Day (observed),AB,2012
+2012-11-12,Remembrance Day (observed),NL,2012
+2012-11-12,Remembrance Day (observed),NS,2012
+2012-11-12,Remembrance Day (observed),PE,2012
+2012-11-12,Remembrance Day (observed),SK,2012
+2012-11-12,Remembrance Day (observed),YT,2012
+2012-12-25,Christmas Day,AB,2012
+2012-12-25,Christmas Day,BC,2012
+2012-12-25,Christmas Day,MB,2012
+2012-12-25,Christmas Day,NB,2012
+2012-12-25,Christmas Day,NL,2012
+2012-12-25,Christmas Day,NS,2012
+2012-12-25,Christmas Day,NT,2012
+2012-12-25,Christmas Day,NU,2012
+2012-12-25,Christmas Day,ON,2012
+2012-12-25,Christmas Day,PE,2012
+2012-12-25,Christmas Day,QC,2012
+2012-12-25,Christmas Day,SK,2012
+2012-12-25,Christmas Day,YT,2012
+2012-12-26,Boxing Day,ON,2012
+2013-01-01,New Year's Day,AB,2013
+2013-01-01,New Year's Day,BC,2013
+2013-01-01,New Year's Day,MB,2013
+2013-01-01,New Year's Day,NB,2013
+2013-01-01,New Year's Day,NL,2013
+2013-01-01,New Year's Day,NS,2013
+2013-01-01,New Year's Day,NT,2013
+2013-01-01,New Year's Day,NU,2013
+2013-01-01,New Year's Day,ON,2013
+2013-01-01,New Year's Day,PE,2013
+2013-01-01,New Year's Day,QC,2013
+2013-01-01,New Year's Day,SK,2013
+2013-01-01,New Year's Day,YT,2013
+2013-02-11,Family Day,BC,2013
+2013-02-18,Family Day,AB,2013
+2013-02-18,Louis Riel Day,MB,2013
+2013-02-18,Family Day,ON,2013
+2013-02-18,Islander Day,PE,2013
+2013-02-18,Family Day,SK,2013
+2013-03-29,Good Friday,AB,2013
+2013-03-29,Good Friday,BC,2013
+2013-03-29,Good Friday,MB,2013
+2013-03-29,Good Friday,NB,2013
+2013-03-29,Good Friday,NL,2013
+2013-03-29,Good Friday,NS,2013
+2013-03-29,Good Friday,NT,2013
+2013-03-29,Good Friday,NU,2013
+2013-03-29,Good Friday,ON,2013
+2013-03-29,Good Friday,PE,2013
+2013-03-29,Good Friday,QC,2013
+2013-03-29,Good Friday,SK,2013
+2013-03-29,Good Friday,YT,2013
+2013-05-20,Victoria Day,AB,2013
+2013-05-20,Victoria Day,BC,2013
+2013-05-20,Victoria Day,MB,2013
+2013-05-20,Victoria Day,NT,2013
+2013-05-20,Victoria Day,NU,2013
+2013-05-20,Victoria Day,ON,2013
+2013-05-20,National Patriots' Day,QC,2013
+2013-05-20,Victoria Day,SK,2013
+2013-05-20,Victoria Day,YT,2013
+2013-06-21,National Aboriginal Day,NT,2013
+2013-06-24,Saint John the Baptist Day,QC,2013
+2013-07-01,Canada Day,AB,2013
+2013-07-01,Canada Day,BC,2013
+2013-07-01,Canada Day,MB,2013
+2013-07-01,Canada Day,NB,2013
+2013-07-01,Canada Day; Memorial Day,NL,2013
+2013-07-01,Canada Day,NS,2013
+2013-07-01,Canada Day,NT,2013
+2013-07-01,Canada Day,NU,2013
+2013-07-01,Canada Day,ON,2013
+2013-07-01,Canada Day,PE,2013
+2013-07-01,Canada Day,QC,2013
+2013-07-01,Canada Day,SK,2013
+2013-07-01,Canada Day,YT,2013
+2013-08-05,British Columbia Day,BC,2013
+2013-08-05,New Brunswick Day,NB,2013
+2013-08-05,Civic Holiday,NT,2013
+2013-08-05,Civic Holiday,NU,2013
+2013-08-05,Saskatchewan Day,SK,2013
+2013-08-19,Discovery Day,YT,2013
+2013-09-02,Labor Day,AB,2013
+2013-09-02,Labor Day,BC,2013
+2013-09-02,Labor Day,MB,2013
+2013-09-02,Labor Day,NB,2013
+2013-09-02,Labor Day,NL,2013
+2013-09-02,Labor Day,NS,2013
+2013-09-02,Labor Day,NT,2013
+2013-09-02,Labor Day,NU,2013
+2013-09-02,Labor Day,ON,2013
+2013-09-02,Labor Day,PE,2013
+2013-09-02,Labor Day,QC,2013
+2013-09-02,Labor Day,SK,2013
+2013-09-02,Labor Day,YT,2013
+2013-10-14,Thanksgiving Day,AB,2013
+2013-10-14,Thanksgiving Day,BC,2013
+2013-10-14,Thanksgiving Day,MB,2013
+2013-10-14,Thanksgiving Day,NT,2013
+2013-10-14,Thanksgiving Day,NU,2013
+2013-10-14,Thanksgiving Day,ON,2013
+2013-10-14,Thanksgiving Day,QC,2013
+2013-10-14,Thanksgiving Day,SK,2013
+2013-10-14,Thanksgiving Day,YT,2013
+2013-11-11,Remembrance Day,AB,2013
+2013-11-11,Remembrance Day,BC,2013
+2013-11-11,Remembrance Day,NB,2013
+2013-11-11,Remembrance Day,NL,2013
+2013-11-11,Remembrance Day,NS,2013
+2013-11-11,Remembrance Day,NT,2013
+2013-11-11,Remembrance Day,NU,2013
+2013-11-11,Remembrance Day,PE,2013
+2013-11-11,Remembrance Day,SK,2013
+2013-11-11,Remembrance Day,YT,2013
+2013-12-25,Christmas Day,AB,2013
+2013-12-25,Christmas Day,BC,2013
+2013-12-25,Christmas Day,MB,2013
+2013-12-25,Christmas Day,NB,2013
+2013-12-25,Christmas Day,NL,2013
+2013-12-25,Christmas Day,NS,2013
+2013-12-25,Christmas Day,NT,2013
+2013-12-25,Christmas Day,NU,2013
+2013-12-25,Christmas Day,ON,2013
+2013-12-25,Christmas Day,PE,2013
+2013-12-25,Christmas Day,QC,2013
+2013-12-25,Christmas Day,SK,2013
+2013-12-25,Christmas Day,YT,2013
+2013-12-26,Boxing Day,ON,2013
+2014-01-01,New Year's Day,AB,2014
+2014-01-01,New Year's Day,BC,2014
+2014-01-01,New Year's Day,MB,2014
+2014-01-01,New Year's Day,NB,2014
+2014-01-01,New Year's Day,NL,2014
+2014-01-01,New Year's Day,NS,2014
+2014-01-01,New Year's Day,NT,2014
+2014-01-01,New Year's Day,NU,2014
+2014-01-01,New Year's Day,ON,2014
+2014-01-01,New Year's Day,PE,2014
+2014-01-01,New Year's Day,QC,2014
+2014-01-01,New Year's Day,SK,2014
+2014-01-01,New Year's Day,YT,2014
+2014-02-10,Family Day,BC,2014
+2014-02-17,Family Day,AB,2014
+2014-02-17,Louis Riel Day,MB,2014
+2014-02-17,Family Day,ON,2014
+2014-02-17,Islander Day,PE,2014
+2014-02-17,Family Day,SK,2014
+2014-04-18,Good Friday,AB,2014
+2014-04-18,Good Friday,BC,2014
+2014-04-18,Good Friday,MB,2014
+2014-04-18,Good Friday,NB,2014
+2014-04-18,Good Friday,NL,2014
+2014-04-18,Good Friday,NS,2014
+2014-04-18,Good Friday,NT,2014
+2014-04-18,Good Friday,NU,2014
+2014-04-18,Good Friday,ON,2014
+2014-04-18,Good Friday,PE,2014
+2014-04-18,Good Friday,QC,2014
+2014-04-18,Good Friday,SK,2014
+2014-04-18,Good Friday,YT,2014
+2014-05-19,Victoria Day,AB,2014
+2014-05-19,Victoria Day,BC,2014
+2014-05-19,Victoria Day,MB,2014
+2014-05-19,Victoria Day,NT,2014
+2014-05-19,Victoria Day,NU,2014
+2014-05-19,Victoria Day,ON,2014
+2014-05-19,National Patriots' Day,QC,2014
+2014-05-19,Victoria Day,SK,2014
+2014-05-19,Victoria Day,YT,2014
+2014-06-21,National Aboriginal Day,NT,2014
+2014-06-24,Saint John the Baptist Day,QC,2014
+2014-07-01,Canada Day,AB,2014
+2014-07-01,Canada Day,BC,2014
+2014-07-01,Canada Day,MB,2014
+2014-07-01,Canada Day,NB,2014
+2014-07-01,Canada Day; Memorial Day,NL,2014
+2014-07-01,Canada Day,NS,2014
+2014-07-01,Canada Day,NT,2014
+2014-07-01,Canada Day,NU,2014
+2014-07-01,Canada Day,ON,2014
+2014-07-01,Canada Day,PE,2014
+2014-07-01,Canada Day,QC,2014
+2014-07-01,Canada Day,SK,2014
+2014-07-01,Canada Day,YT,2014
+2014-08-04,British Columbia Day,BC,2014
+2014-08-04,New Brunswick Day,NB,2014
+2014-08-04,Civic Holiday,NT,2014
+2014-08-04,Civic Holiday,NU,2014
+2014-08-04,Saskatchewan Day,SK,2014
+2014-08-18,Discovery Day,YT,2014
+2014-09-01,Labor Day,AB,2014
+2014-09-01,Labor Day,BC,2014
+2014-09-01,Labor Day,MB,2014
+2014-09-01,Labor Day,NB,2014
+2014-09-01,Labor Day,NL,2014
+2014-09-01,Labor Day,NS,2014
+2014-09-01,Labor Day,NT,2014
+2014-09-01,Labor Day,NU,2014
+2014-09-01,Labor Day,ON,2014
+2014-09-01,Labor Day,PE,2014
+2014-09-01,Labor Day,QC,2014
+2014-09-01,Labor Day,SK,2014
+2014-09-01,Labor Day,YT,2014
+2014-10-13,Thanksgiving Day,AB,2014
+2014-10-13,Thanksgiving Day,BC,2014
+2014-10-13,Thanksgiving Day,MB,2014
+2014-10-13,Thanksgiving Day,NT,2014
+2014-10-13,Thanksgiving Day,NU,2014
+2014-10-13,Thanksgiving Day,ON,2014
+2014-10-13,Thanksgiving Day,QC,2014
+2014-10-13,Thanksgiving Day,SK,2014
+2014-10-13,Thanksgiving Day,YT,2014
+2014-11-11,Remembrance Day,AB,2014
+2014-11-11,Remembrance Day,BC,2014
+2014-11-11,Remembrance Day,NB,2014
+2014-11-11,Remembrance Day,NL,2014
+2014-11-11,Remembrance Day,NS,2014
+2014-11-11,Remembrance Day,NT,2014
+2014-11-11,Remembrance Day,NU,2014
+2014-11-11,Remembrance Day,PE,2014
+2014-11-11,Remembrance Day,SK,2014
+2014-11-11,Remembrance Day,YT,2014
+2014-12-25,Christmas Day,AB,2014
+2014-12-25,Christmas Day,BC,2014
+2014-12-25,Christmas Day,MB,2014
+2014-12-25,Christmas Day,NB,2014
+2014-12-25,Christmas Day,NL,2014
+2014-12-25,Christmas Day,NS,2014
+2014-12-25,Christmas Day,NT,2014
+2014-12-25,Christmas Day,NU,2014
+2014-12-25,Christmas Day,ON,2014
+2014-12-25,Christmas Day,PE,2014
+2014-12-25,Christmas Day,QC,2014
+2014-12-25,Christmas Day,SK,2014
+2014-12-25,Christmas Day,YT,2014
+2014-12-26,Boxing Day,ON,2014
+2015-01-01,New Year's Day,AB,2015
+2015-01-01,New Year's Day,BC,2015
+2015-01-01,New Year's Day,MB,2015
+2015-01-01,New Year's Day,NB,2015
+2015-01-01,New Year's Day,NL,2015
+2015-01-01,New Year's Day,NS,2015
+2015-01-01,New Year's Day,NT,2015
+2015-01-01,New Year's Day,NU,2015
+2015-01-01,New Year's Day,ON,2015
+2015-01-01,New Year's Day,PE,2015
+2015-01-01,New Year's Day,QC,2015
+2015-01-01,New Year's Day,SK,2015
+2015-01-01,New Year's Day,YT,2015
+2015-02-09,Family Day,BC,2015
+2015-02-16,Family Day,AB,2015
+2015-02-16,Louis Riel Day,MB,2015
+2015-02-16,Heritage Day,NS,2015
+2015-02-16,Family Day,ON,2015
+2015-02-16,Islander Day,PE,2015
+2015-02-16,Family Day,SK,2015
+2015-04-03,Good Friday,AB,2015
+2015-04-03,Good Friday,BC,2015
+2015-04-03,Good Friday,MB,2015
+2015-04-03,Good Friday,NB,2015
+2015-04-03,Good Friday,NL,2015
+2015-04-03,Good Friday,NS,2015
+2015-04-03,Good Friday,NT,2015
+2015-04-03,Good Friday,NU,2015
+2015-04-03,Good Friday,ON,2015
+2015-04-03,Good Friday,PE,2015
+2015-04-03,Good Friday,QC,2015
+2015-04-03,Good Friday,SK,2015
+2015-04-03,Good Friday,YT,2015
+2015-05-18,Victoria Day,AB,2015
+2015-05-18,Victoria Day,BC,2015
+2015-05-18,Victoria Day,MB,2015
+2015-05-18,Victoria Day,NT,2015
+2015-05-18,Victoria Day,NU,2015
+2015-05-18,Victoria Day,ON,2015
+2015-05-18,National Patriots' Day,QC,2015
+2015-05-18,Victoria Day,SK,2015
+2015-05-18,Victoria Day,YT,2015
+2015-06-21,National Aboriginal Day,NT,2015
+2015-06-24,Saint John the Baptist Day,QC,2015
+2015-07-01,Canada Day,AB,2015
+2015-07-01,Canada Day,BC,2015
+2015-07-01,Canada Day,MB,2015
+2015-07-01,Canada Day,NB,2015
+2015-07-01,Canada Day; Memorial Day,NL,2015
+2015-07-01,Canada Day,NS,2015
+2015-07-01,Canada Day,NT,2015
+2015-07-01,Canada Day,NU,2015
+2015-07-01,Canada Day,ON,2015
+2015-07-01,Canada Day,PE,2015
+2015-07-01,Canada Day,QC,2015
+2015-07-01,Canada Day,SK,2015
+2015-07-01,Canada Day,YT,2015
+2015-08-03,British Columbia Day,BC,2015
+2015-08-03,New Brunswick Day,NB,2015
+2015-08-03,Civic Holiday,NT,2015
+2015-08-03,Civic Holiday,NU,2015
+2015-08-03,Saskatchewan Day,SK,2015
+2015-08-17,Discovery Day,YT,2015
+2015-09-07,Labor Day,AB,2015
+2015-09-07,Labor Day,BC,2015
+2015-09-07,Labor Day,MB,2015
+2015-09-07,Labor Day,NB,2015
+2015-09-07,Labor Day,NL,2015
+2015-09-07,Labor Day,NS,2015
+2015-09-07,Labor Day,NT,2015
+2015-09-07,Labor Day,NU,2015
+2015-09-07,Labor Day,ON,2015
+2015-09-07,Labor Day,PE,2015
+2015-09-07,Labor Day,QC,2015
+2015-09-07,Labor Day,SK,2015
+2015-09-07,Labor Day,YT,2015
+2015-10-12,Thanksgiving Day,AB,2015
+2015-10-12,Thanksgiving Day,BC,2015
+2015-10-12,Thanksgiving Day,MB,2015
+2015-10-12,Thanksgiving Day,NT,2015
+2015-10-12,Thanksgiving Day,NU,2015
+2015-10-12,Thanksgiving Day,ON,2015
+2015-10-12,Thanksgiving Day,QC,2015
+2015-10-12,Thanksgiving Day,SK,2015
+2015-10-12,Thanksgiving Day,YT,2015
+2015-11-11,Remembrance Day,AB,2015
+2015-11-11,Remembrance Day,BC,2015
+2015-11-11,Remembrance Day,NB,2015
+2015-11-11,Remembrance Day,NL,2015
+2015-11-11,Remembrance Day,NS,2015
+2015-11-11,Remembrance Day,NT,2015
+2015-11-11,Remembrance Day,NU,2015
+2015-11-11,Remembrance Day,PE,2015
+2015-11-11,Remembrance Day,SK,2015
+2015-11-11,Remembrance Day,YT,2015
+2015-12-25,Christmas Day,AB,2015
+2015-12-25,Christmas Day,BC,2015
+2015-12-25,Christmas Day,MB,2015
+2015-12-25,Christmas Day,NB,2015
+2015-12-25,Christmas Day,NL,2015
+2015-12-25,Christmas Day,NS,2015
+2015-12-25,Christmas Day,NT,2015
+2015-12-25,Christmas Day,NU,2015
+2015-12-25,Christmas Day,ON,2015
+2015-12-25,Christmas Day,PE,2015
+2015-12-25,Christmas Day,QC,2015
+2015-12-25,Christmas Day,SK,2015
+2015-12-25,Christmas Day,YT,2015
+2015-12-26,Boxing Day,ON,2015
+2016-01-01,New Year's Day,AB,2016
+2016-01-01,New Year's Day,BC,2016
+2016-01-01,New Year's Day,MB,2016
+2016-01-01,New Year's Day,NB,2016
+2016-01-01,New Year's Day,NL,2016
+2016-01-01,New Year's Day,NS,2016
+2016-01-01,New Year's Day,NT,2016
+2016-01-01,New Year's Day,NU,2016
+2016-01-01,New Year's Day,ON,2016
+2016-01-01,New Year's Day,PE,2016
+2016-01-01,New Year's Day,QC,2016
+2016-01-01,New Year's Day,SK,2016
+2016-01-01,New Year's Day,YT,2016
+2016-02-08,Family Day,BC,2016
+2016-02-15,Family Day,AB,2016
+2016-02-15,Louis Riel Day,MB,2016
+2016-02-15,Heritage Day,NS,2016
+2016-02-15,Family Day,ON,2016
+2016-02-15,Islander Day,PE,2016
+2016-02-15,Family Day,SK,2016
+2016-03-25,Good Friday,AB,2016
+2016-03-25,Good Friday,BC,2016
+2016-03-25,Good Friday,MB,2016
+2016-03-25,Good Friday,NB,2016
+2016-03-25,Good Friday,NL,2016
+2016-03-25,Good Friday,NS,2016
+2016-03-25,Good Friday,NT,2016
+2016-03-25,Good Friday,NU,2016
+2016-03-25,Good Friday,ON,2016
+2016-03-25,Good Friday,PE,2016
+2016-03-25,Good Friday,QC,2016
+2016-03-25,Good Friday,SK,2016
+2016-03-25,Good Friday,YT,2016
+2016-05-23,Victoria Day,AB,2016
+2016-05-23,Victoria Day,BC,2016
+2016-05-23,Victoria Day,MB,2016
+2016-05-23,Victoria Day,NT,2016
+2016-05-23,Victoria Day,NU,2016
+2016-05-23,Victoria Day,ON,2016
+2016-05-23,National Patriots' Day,QC,2016
+2016-05-23,Victoria Day,SK,2016
+2016-05-23,Victoria Day,YT,2016
+2016-06-21,National Aboriginal Day,NT,2016
+2016-06-24,Saint John the Baptist Day,QC,2016
+2016-07-01,Canada Day,AB,2016
+2016-07-01,Canada Day,BC,2016
+2016-07-01,Canada Day,MB,2016
+2016-07-01,Canada Day,NB,2016
+2016-07-01,Canada Day; Memorial Day,NL,2016
+2016-07-01,Canada Day,NS,2016
+2016-07-01,Canada Day,NT,2016
+2016-07-01,Canada Day,NU,2016
+2016-07-01,Canada Day,ON,2016
+2016-07-01,Canada Day,PE,2016
+2016-07-01,Canada Day,QC,2016
+2016-07-01,Canada Day,SK,2016
+2016-07-01,Canada Day,YT,2016
+2016-08-01,British Columbia Day,BC,2016
+2016-08-01,New Brunswick Day,NB,2016
+2016-08-01,Civic Holiday,NT,2016
+2016-08-01,Civic Holiday,NU,2016
+2016-08-01,Saskatchewan Day,SK,2016
+2016-08-15,Discovery Day,YT,2016
+2016-09-05,Labor Day,AB,2016
+2016-09-05,Labor Day,BC,2016
+2016-09-05,Labor Day,MB,2016
+2016-09-05,Labor Day,NB,2016
+2016-09-05,Labor Day,NL,2016
+2016-09-05,Labor Day,NS,2016
+2016-09-05,Labor Day,NT,2016
+2016-09-05,Labor Day,NU,2016
+2016-09-05,Labor Day,ON,2016
+2016-09-05,Labor Day,PE,2016
+2016-09-05,Labor Day,QC,2016
+2016-09-05,Labor Day,SK,2016
+2016-09-05,Labor Day,YT,2016
+2016-10-10,Thanksgiving Day,AB,2016
+2016-10-10,Thanksgiving Day,BC,2016
+2016-10-10,Thanksgiving Day,MB,2016
+2016-10-10,Thanksgiving Day,NT,2016
+2016-10-10,Thanksgiving Day,NU,2016
+2016-10-10,Thanksgiving Day,ON,2016
+2016-10-10,Thanksgiving Day,QC,2016
+2016-10-10,Thanksgiving Day,SK,2016
+2016-10-10,Thanksgiving Day,YT,2016
+2016-11-11,Remembrance Day,AB,2016
+2016-11-11,Remembrance Day,BC,2016
+2016-11-11,Remembrance Day,NB,2016
+2016-11-11,Remembrance Day,NL,2016
+2016-11-11,Remembrance Day,NS,2016
+2016-11-11,Remembrance Day,NT,2016
+2016-11-11,Remembrance Day,NU,2016
+2016-11-11,Remembrance Day,PE,2016
+2016-11-11,Remembrance Day,SK,2016
+2016-11-11,Remembrance Day,YT,2016
+2016-12-25,Christmas Day,AB,2016
+2016-12-25,Christmas Day,BC,2016
+2016-12-25,Christmas Day,MB,2016
+2016-12-25,Christmas Day,NB,2016
+2016-12-25,Christmas Day,NL,2016
+2016-12-25,Christmas Day,NS,2016
+2016-12-25,Christmas Day,NT,2016
+2016-12-25,Christmas Day,NU,2016
+2016-12-25,Christmas Day,ON,2016
+2016-12-25,Christmas Day,PE,2016
+2016-12-25,Christmas Day,QC,2016
+2016-12-25,Christmas Day,SK,2016
+2016-12-25,Christmas Day,YT,2016
+2016-12-26,Christmas Day (observed),AB,2016
+2016-12-26,Christmas Day (observed),BC,2016
+2016-12-26,Christmas Day (observed),MB,2016
+2016-12-26,Christmas Day (observed),NB,2016
+2016-12-26,Christmas Day (observed),NL,2016
+2016-12-26,Christmas Day (observed),NS,2016
+2016-12-26,Christmas Day (observed),NT,2016
+2016-12-26,Christmas Day (observed),NU,2016
+2016-12-26,Boxing Day; Christmas Day (observed),ON,2016
+2016-12-26,Christmas Day (observed),PE,2016
+2016-12-26,Christmas Day (observed),QC,2016
+2016-12-26,Christmas Day (observed),SK,2016
+2016-12-26,Christmas Day (observed),YT,2016
+2017-01-01,New Year's Day,AB,2017
+2017-01-01,New Year's Day,BC,2017
+2017-01-01,New Year's Day,MB,2017
+2017-01-01,New Year's Day,NB,2017
+2017-01-01,New Year's Day,NL,2017
+2017-01-01,New Year's Day,NS,2017
+2017-01-01,New Year's Day,NT,2017
+2017-01-01,New Year's Day,NU,2017
+2017-01-01,New Year's Day,ON,2017
+2017-01-01,New Year's Day,PE,2017
+2017-01-01,New Year's Day,QC,2017
+2017-01-01,New Year's Day,SK,2017
+2017-01-01,New Year's Day,YT,2017
+2017-01-02,New Year's Day (observed),AB,2017
+2017-01-02,New Year's Day (observed),BC,2017
+2017-01-02,New Year's Day (observed),MB,2017
+2017-01-02,New Year's Day (observed),NB,2017
+2017-01-02,New Year's Day (observed),NL,2017
+2017-01-02,New Year's Day (observed),NS,2017
+2017-01-02,New Year's Day (observed),NT,2017
+2017-01-02,New Year's Day (observed),NU,2017
+2017-01-02,New Year's Day (observed),ON,2017
+2017-01-02,New Year's Day (observed),PE,2017
+2017-01-02,New Year's Day (observed),QC,2017
+2017-01-02,New Year's Day (observed),SK,2017
+2017-01-02,New Year's Day (observed),YT,2017
+2017-02-13,Family Day,BC,2017
+2017-02-20,Family Day,AB,2017
+2017-02-20,Louis Riel Day,MB,2017
+2017-02-20,Heritage Day,NS,2017
+2017-02-20,Family Day,ON,2017
+2017-02-20,Islander Day,PE,2017
+2017-02-20,Family Day,SK,2017
+2017-04-14,Good Friday,AB,2017
+2017-04-14,Good Friday,BC,2017
+2017-04-14,Good Friday,MB,2017
+2017-04-14,Good Friday,NB,2017
+2017-04-14,Good Friday,NL,2017
+2017-04-14,Good Friday,NS,2017
+2017-04-14,Good Friday,NT,2017
+2017-04-14,Good Friday,NU,2017
+2017-04-14,Good Friday,ON,2017
+2017-04-14,Good Friday,PE,2017
+2017-04-14,Good Friday,QC,2017
+2017-04-14,Good Friday,SK,2017
+2017-04-14,Good Friday,YT,2017
+2017-05-22,Victoria Day,AB,2017
+2017-05-22,Victoria Day,BC,2017
+2017-05-22,Victoria Day,MB,2017
+2017-05-22,Victoria Day,NT,2017
+2017-05-22,Victoria Day,NU,2017
+2017-05-22,Victoria Day,ON,2017
+2017-05-22,National Patriots' Day,QC,2017
+2017-05-22,Victoria Day,SK,2017
+2017-05-22,Victoria Day,YT,2017
+2017-06-21,National Aboriginal Day,NT,2017
+2017-06-21,National Aboriginal Day,YT,2017
+2017-06-24,Saint John the Baptist Day,QC,2017
+2017-07-01,Canada Day,AB,2017
+2017-07-01,Canada Day,BC,2017
+2017-07-01,Canada Day,MB,2017
+2017-07-01,Canada Day,NB,2017
+2017-07-01,Canada Day; Memorial Day,NL,2017
+2017-07-01,Canada Day,NS,2017
+2017-07-01,Canada Day,NT,2017
+2017-07-01,Canada Day,NU,2017
+2017-07-01,Canada Day,ON,2017
+2017-07-01,Canada Day,PE,2017
+2017-07-01,Canada Day,QC,2017
+2017-07-01,Canada Day,SK,2017
+2017-07-01,Canada Day,YT,2017
+2017-07-03,Canada Day (observed); Memorial Day (observed),NL,2017
+2017-07-03,Canada Day (observed),PE,2017
+2017-07-03,Canada Day (observed),SK,2017
+2017-07-03,Canada Day (observed),YT,2017
+2017-08-07,British Columbia Day,BC,2017
+2017-08-07,New Brunswick Day,NB,2017
+2017-08-07,Civic Holiday,NT,2017
+2017-08-07,Civic Holiday,NU,2017
+2017-08-07,Saskatchewan Day,SK,2017
+2017-08-21,Discovery Day,YT,2017
+2017-09-04,Labor Day,AB,2017
+2017-09-04,Labor Day,BC,2017
+2017-09-04,Labor Day,MB,2017
+2017-09-04,Labor Day,NB,2017
+2017-09-04,Labor Day,NL,2017
+2017-09-04,Labor Day,NS,2017
+2017-09-04,Labor Day,NT,2017
+2017-09-04,Labor Day,NU,2017
+2017-09-04,Labor Day,ON,2017
+2017-09-04,Labor Day,PE,2017
+2017-09-04,Labor Day,QC,2017
+2017-09-04,Labor Day,SK,2017
+2017-09-04,Labor Day,YT,2017
+2017-10-09,Thanksgiving Day,AB,2017
+2017-10-09,Thanksgiving Day,BC,2017
+2017-10-09,Thanksgiving Day,MB,2017
+2017-10-09,Thanksgiving Day,NT,2017
+2017-10-09,Thanksgiving Day,NU,2017
+2017-10-09,Thanksgiving Day,ON,2017
+2017-10-09,Thanksgiving Day,QC,2017
+2017-10-09,Thanksgiving Day,SK,2017
+2017-10-09,Thanksgiving Day,YT,2017
+2017-11-11,Remembrance Day,AB,2017
+2017-11-11,Remembrance Day,BC,2017
+2017-11-11,Remembrance Day,NB,2017
+2017-11-11,Remembrance Day,NL,2017
+2017-11-11,Remembrance Day,NS,2017
+2017-11-11,Remembrance Day,NT,2017
+2017-11-11,Remembrance Day,NU,2017
+2017-11-11,Remembrance Day,PE,2017
+2017-11-11,Remembrance Day,SK,2017
+2017-11-11,Remembrance Day,YT,2017
+2017-11-13,Remembrance Day (observed),AB,2017
+2017-11-13,Remembrance Day (observed),NL,2017
+2017-11-13,Remembrance Day (observed),NS,2017
+2017-11-13,Remembrance Day (observed),PE,2017
+2017-11-13,Remembrance Day (observed),SK,2017
+2017-11-13,Remembrance Day (observed),YT,2017
+2017-12-25,Christmas Day,AB,2017
+2017-12-25,Christmas Day,BC,2017
+2017-12-25,Christmas Day,MB,2017
+2017-12-25,Christmas Day,NB,2017
+2017-12-25,Christmas Day,NL,2017
+2017-12-25,Christmas Day,NS,2017
+2017-12-25,Christmas Day,NT,2017
+2017-12-25,Christmas Day,NU,2017
+2017-12-25,Christmas Day,ON,2017
+2017-12-25,Christmas Day,PE,2017
+2017-12-25,Christmas Day,QC,2017
+2017-12-25,Christmas Day,SK,2017
+2017-12-25,Christmas Day,YT,2017
+2017-12-26,Boxing Day,ON,2017
+2018-01-01,New Year's Day,AB,2018
+2018-01-01,New Year's Day,BC,2018
+2018-01-01,New Year's Day,MB,2018
+2018-01-01,New Year's Day,NB,2018
+2018-01-01,New Year's Day,NL,2018
+2018-01-01,New Year's Day,NS,2018
+2018-01-01,New Year's Day,NT,2018
+2018-01-01,New Year's Day,NU,2018
+2018-01-01,New Year's Day,ON,2018
+2018-01-01,New Year's Day,PE,2018
+2018-01-01,New Year's Day,QC,2018
+2018-01-01,New Year's Day,SK,2018
+2018-01-01,New Year's Day,YT,2018
+2018-02-12,Family Day,BC,2018
+2018-02-19,Family Day,AB,2018
+2018-02-19,Louis Riel Day,MB,2018
+2018-02-19,Family Day,NB,2018
+2018-02-19,Heritage Day,NS,2018
+2018-02-19,Family Day,ON,2018
+2018-02-19,Islander Day,PE,2018
+2018-02-19,Family Day,SK,2018
+2018-03-30,Good Friday,AB,2018
+2018-03-30,Good Friday,BC,2018
+2018-03-30,Good Friday,MB,2018
+2018-03-30,Good Friday,NB,2018
+2018-03-30,Good Friday,NL,2018
+2018-03-30,Good Friday,NS,2018
+2018-03-30,Good Friday,NT,2018
+2018-03-30,Good Friday,NU,2018
+2018-03-30,Good Friday,ON,2018
+2018-03-30,Good Friday,PE,2018
+2018-03-30,Good Friday,QC,2018
+2018-03-30,Good Friday,SK,2018
+2018-03-30,Good Friday,YT,2018
+2018-05-21,Victoria Day,AB,2018
+2018-05-21,Victoria Day,BC,2018
+2018-05-21,Victoria Day,MB,2018
+2018-05-21,Victoria Day,NT,2018
+2018-05-21,Victoria Day,NU,2018
+2018-05-21,Victoria Day,ON,2018
+2018-05-21,National Patriots' Day,QC,2018
+2018-05-21,Victoria Day,SK,2018
+2018-05-21,Victoria Day,YT,2018
+2018-06-21,National Aboriginal Day,NT,2018
+2018-06-21,National Aboriginal Day,YT,2018
+2018-06-24,Saint John the Baptist Day,QC,2018
+2018-06-25,Saint John the Baptist Day (observed),QC,2018
+2018-07-01,Canada Day,AB,2018
+2018-07-01,Canada Day,BC,2018
+2018-07-01,Canada Day,MB,2018
+2018-07-01,Canada Day,NB,2018
+2018-07-01,Canada Day; Memorial Day,NL,2018
+2018-07-01,Canada Day,NS,2018
+2018-07-01,Canada Day,NT,2018
+2018-07-01,Canada Day,NU,2018
+2018-07-01,Canada Day,ON,2018
+2018-07-01,Canada Day,PE,2018
+2018-07-01,Canada Day,QC,2018
+2018-07-01,Canada Day,SK,2018
+2018-07-01,Canada Day,YT,2018
+2018-07-02,Canada Day (observed),AB,2018
+2018-07-02,Canada Day (observed),BC,2018
+2018-07-02,Canada Day (observed); Memorial Day (observed),NL,2018
+2018-07-02,Canada Day (observed),PE,2018
+2018-07-02,Canada Day (observed),QC,2018
+2018-07-02,Canada Day (observed),SK,2018
+2018-07-02,Canada Day (observed),YT,2018
+2018-08-06,British Columbia Day,BC,2018
+2018-08-06,New Brunswick Day,NB,2018
+2018-08-06,Civic Holiday,NT,2018
+2018-08-06,Civic Holiday,NU,2018
+2018-08-06,Saskatchewan Day,SK,2018
+2018-08-20,Discovery Day,YT,2018
+2018-09-03,Labor Day,AB,2018
+2018-09-03,Labor Day,BC,2018
+2018-09-03,Labor Day,MB,2018
+2018-09-03,Labor Day,NB,2018
+2018-09-03,Labor Day,NL,2018
+2018-09-03,Labor Day,NS,2018
+2018-09-03,Labor Day,NT,2018
+2018-09-03,Labor Day,NU,2018
+2018-09-03,Labor Day,ON,2018
+2018-09-03,Labor Day,PE,2018
+2018-09-03,Labor Day,QC,2018
+2018-09-03,Labor Day,SK,2018
+2018-09-03,Labor Day,YT,2018
+2018-10-08,Thanksgiving Day,AB,2018
+2018-10-08,Thanksgiving Day,BC,2018
+2018-10-08,Thanksgiving Day,MB,2018
+2018-10-08,Thanksgiving Day,NT,2018
+2018-10-08,Thanksgiving Day,NU,2018
+2018-10-08,Thanksgiving Day,ON,2018
+2018-10-08,Thanksgiving Day,QC,2018
+2018-10-08,Thanksgiving Day,SK,2018
+2018-10-08,Thanksgiving Day,YT,2018
+2018-11-11,Remembrance Day,AB,2018
+2018-11-11,Remembrance Day,BC,2018
+2018-11-11,Remembrance Day,NB,2018
+2018-11-11,Remembrance Day,NL,2018
+2018-11-11,Remembrance Day,NS,2018
+2018-11-11,Remembrance Day,NT,2018
+2018-11-11,Remembrance Day,NU,2018
+2018-11-11,Remembrance Day,PE,2018
+2018-11-11,Remembrance Day,SK,2018
+2018-11-11,Remembrance Day,YT,2018
+2018-11-12,Remembrance Day (observed),AB,2018
+2018-11-12,Remembrance Day (observed),NL,2018
+2018-11-12,Remembrance Day (observed),NS,2018
+2018-11-12,Remembrance Day (observed),PE,2018
+2018-11-12,Remembrance Day (observed),SK,2018
+2018-11-12,Remembrance Day (observed),YT,2018
+2018-12-25,Christmas Day,AB,2018
+2018-12-25,Christmas Day,BC,2018
+2018-12-25,Christmas Day,MB,2018
+2018-12-25,Christmas Day,NB,2018
+2018-12-25,Christmas Day,NL,2018
+2018-12-25,Christmas Day,NS,2018
+2018-12-25,Christmas Day,NT,2018
+2018-12-25,Christmas Day,NU,2018
+2018-12-25,Christmas Day,ON,2018
+2018-12-25,Christmas Day,PE,2018
+2018-12-25,Christmas Day,QC,2018
+2018-12-25,Christmas Day,SK,2018
+2018-12-25,Christmas Day,YT,2018
+2018-12-26,Boxing Day,ON,2018
+2019-01-01,New Year's Day,AB,2019
+2019-01-01,New Year's Day,BC,2019
+2019-01-01,New Year's Day,MB,2019
+2019-01-01,New Year's Day,NB,2019
+2019-01-01,New Year's Day,NL,2019
+2019-01-01,New Year's Day,NS,2019
+2019-01-01,New Year's Day,NT,2019
+2019-01-01,New Year's Day,NU,2019
+2019-01-01,New Year's Day,ON,2019
+2019-01-01,New Year's Day,PE,2019
+2019-01-01,New Year's Day,QC,2019
+2019-01-01,New Year's Day,SK,2019
+2019-01-01,New Year's Day,YT,2019
+2019-02-18,Family Day,AB,2019
+2019-02-18,Family Day,BC,2019
+2019-02-18,Louis Riel Day,MB,2019
+2019-02-18,Family Day,NB,2019
+2019-02-18,Heritage Day,NS,2019
+2019-02-18,Family Day,ON,2019
+2019-02-18,Islander Day,PE,2019
+2019-02-18,Family Day,SK,2019
+2019-04-19,Good Friday,AB,2019
+2019-04-19,Good Friday,BC,2019
+2019-04-19,Good Friday,MB,2019
+2019-04-19,Good Friday,NB,2019
+2019-04-19,Good Friday,NL,2019
+2019-04-19,Good Friday,NS,2019
+2019-04-19,Good Friday,NT,2019
+2019-04-19,Good Friday,NU,2019
+2019-04-19,Good Friday,ON,2019
+2019-04-19,Good Friday,PE,2019
+2019-04-19,Good Friday,QC,2019
+2019-04-19,Good Friday,SK,2019
+2019-04-19,Good Friday,YT,2019
+2019-05-20,Victoria Day,AB,2019
+2019-05-20,Victoria Day,BC,2019
+2019-05-20,Victoria Day,MB,2019
+2019-05-20,Victoria Day,NT,2019
+2019-05-20,Victoria Day,NU,2019
+2019-05-20,Victoria Day,ON,2019
+2019-05-20,National Patriots' Day,QC,2019
+2019-05-20,Victoria Day,SK,2019
+2019-05-20,Victoria Day,YT,2019
+2019-06-21,National Aboriginal Day,NT,2019
+2019-06-21,National Aboriginal Day,YT,2019
+2019-06-24,Saint John the Baptist Day,QC,2019
+2019-07-01,Canada Day,AB,2019
+2019-07-01,Canada Day,BC,2019
+2019-07-01,Canada Day,MB,2019
+2019-07-01,Canada Day,NB,2019
+2019-07-01,Canada Day; Memorial Day,NL,2019
+2019-07-01,Canada Day,NS,2019
+2019-07-01,Canada Day,NT,2019
+2019-07-01,Canada Day,NU,2019
+2019-07-01,Canada Day,ON,2019
+2019-07-01,Canada Day,PE,2019
+2019-07-01,Canada Day,QC,2019
+2019-07-01,Canada Day,SK,2019
+2019-07-01,Canada Day,YT,2019
+2019-08-05,British Columbia Day,BC,2019
+2019-08-05,New Brunswick Day,NB,2019
+2019-08-05,Civic Holiday,NT,2019
+2019-08-05,Civic Holiday,NU,2019
+2019-08-05,Saskatchewan Day,SK,2019
+2019-08-19,Discovery Day,YT,2019
+2019-09-02,Labor Day,AB,2019
+2019-09-02,Labor Day,BC,2019
+2019-09-02,Labor Day,MB,2019
+2019-09-02,Labor Day,NB,2019
+2019-09-02,Labor Day,NL,2019
+2019-09-02,Labor Day,NS,2019
+2019-09-02,Labor Day,NT,2019
+2019-09-02,Labor Day,NU,2019
+2019-09-02,Labor Day,ON,2019
+2019-09-02,Labor Day,PE,2019
+2019-09-02,Labor Day,QC,2019
+2019-09-02,Labor Day,SK,2019
+2019-09-02,Labor Day,YT,2019
+2019-10-14,Thanksgiving Day,AB,2019
+2019-10-14,Thanksgiving Day,BC,2019
+2019-10-14,Thanksgiving Day,MB,2019
+2019-10-14,Thanksgiving Day,NT,2019
+2019-10-14,Thanksgiving Day,NU,2019
+2019-10-14,Thanksgiving Day,ON,2019
+2019-10-14,Thanksgiving Day,QC,2019
+2019-10-14,Thanksgiving Day,SK,2019
+2019-10-14,Thanksgiving Day,YT,2019
+2019-11-11,Remembrance Day,AB,2019
+2019-11-11,Remembrance Day,BC,2019
+2019-11-11,Remembrance Day,NB,2019
+2019-11-11,Remembrance Day,NL,2019
+2019-11-11,Remembrance Day,NS,2019
+2019-11-11,Remembrance Day,NT,2019
+2019-11-11,Remembrance Day,NU,2019
+2019-11-11,Remembrance Day,PE,2019
+2019-11-11,Remembrance Day,SK,2019
+2019-11-11,Remembrance Day,YT,2019
+2019-12-25,Christmas Day,AB,2019
+2019-12-25,Christmas Day,BC,2019
+2019-12-25,Christmas Day,MB,2019
+2019-12-25,Christmas Day,NB,2019
+2019-12-25,Christmas Day,NL,2019
+2019-12-25,Christmas Day,NS,2019
+2019-12-25,Christmas Day,NT,2019
+2019-12-25,Christmas Day,NU,2019
+2019-12-25,Christmas Day,ON,2019
+2019-12-25,Christmas Day,PE,2019
+2019-12-25,Christmas Day,QC,2019
+2019-12-25,Christmas Day,SK,2019
+2019-12-25,Christmas Day,YT,2019
+2019-12-26,Boxing Day,ON,2019
+2020-01-01,New Year's Day,AB,2020
+2020-01-01,New Year's Day,BC,2020
+2020-01-01,New Year's Day,MB,2020
+2020-01-01,New Year's Day,NB,2020
+2020-01-01,New Year's Day,NL,2020
+2020-01-01,New Year's Day,NS,2020
+2020-01-01,New Year's Day,NT,2020
+2020-01-01,New Year's Day,NU,2020
+2020-01-01,New Year's Day,ON,2020
+2020-01-01,New Year's Day,PE,2020
+2020-01-01,New Year's Day,QC,2020
+2020-01-01,New Year's Day,SK,2020
+2020-01-01,New Year's Day,YT,2020
+2020-02-17,Family Day,AB,2020
+2020-02-17,Family Day,BC,2020
+2020-02-17,Louis Riel Day,MB,2020
+2020-02-17,Family Day,NB,2020
+2020-02-17,Heritage Day,NS,2020
+2020-02-17,Family Day,ON,2020
+2020-02-17,Islander Day,PE,2020
+2020-02-17,Family Day,SK,2020
+2020-04-10,Good Friday,AB,2020
+2020-04-10,Good Friday,BC,2020
+2020-04-10,Good Friday,MB,2020
+2020-04-10,Good Friday,NB,2020
+2020-04-10,Good Friday,NL,2020
+2020-04-10,Good Friday,NS,2020
+2020-04-10,Good Friday,NT,2020
+2020-04-10,Good Friday,NU,2020
+2020-04-10,Good Friday,ON,2020
+2020-04-10,Good Friday,PE,2020
+2020-04-10,Good Friday,QC,2020
+2020-04-10,Good Friday,SK,2020
+2020-04-10,Good Friday,YT,2020
+2020-05-18,Victoria Day,AB,2020
+2020-05-18,Victoria Day,BC,2020
+2020-05-18,Victoria Day,MB,2020
+2020-05-18,Victoria Day,NT,2020
+2020-05-18,Victoria Day,NU,2020
+2020-05-18,Victoria Day,ON,2020
+2020-05-18,National Patriots' Day,QC,2020
+2020-05-18,Victoria Day,SK,2020
+2020-05-18,Victoria Day,YT,2020
+2020-06-21,National Aboriginal Day,NT,2020
+2020-06-21,National Aboriginal Day,YT,2020
+2020-06-24,Saint John the Baptist Day,QC,2020
+2020-07-01,Canada Day,AB,2020
+2020-07-01,Canada Day,BC,2020
+2020-07-01,Canada Day,MB,2020
+2020-07-01,Canada Day,NB,2020
+2020-07-01,Canada Day; Memorial Day,NL,2020
+2020-07-01,Canada Day,NS,2020
+2020-07-01,Canada Day,NT,2020
+2020-07-01,Canada Day,NU,2020
+2020-07-01,Canada Day,ON,2020
+2020-07-01,Canada Day,PE,2020
+2020-07-01,Canada Day,QC,2020
+2020-07-01,Canada Day,SK,2020
+2020-07-01,Canada Day,YT,2020
+2020-07-09,Nunavut Day,NU,2020
+2020-08-03,British Columbia Day,BC,2020
+2020-08-03,New Brunswick Day,NB,2020
+2020-08-03,Civic Holiday,NT,2020
+2020-08-03,Civic Holiday,NU,2020
+2020-08-03,Saskatchewan Day,SK,2020
+2020-08-17,Discovery Day,YT,2020
+2020-09-07,Labor Day,AB,2020
+2020-09-07,Labor Day,BC,2020
+2020-09-07,Labor Day,MB,2020
+2020-09-07,Labor Day,NB,2020
+2020-09-07,Labor Day,NL,2020
+2020-09-07,Labor Day,NS,2020
+2020-09-07,Labor Day,NT,2020
+2020-09-07,Labor Day,NU,2020
+2020-09-07,Labor Day,ON,2020
+2020-09-07,Labor Day,PE,2020
+2020-09-07,Labor Day,QC,2020
+2020-09-07,Labor Day,SK,2020
+2020-09-07,Labor Day,YT,2020
+2020-10-12,Thanksgiving Day,AB,2020
+2020-10-12,Thanksgiving Day,BC,2020
+2020-10-12,Thanksgiving Day,MB,2020
+2020-10-12,Thanksgiving Day,NT,2020
+2020-10-12,Thanksgiving Day,NU,2020
+2020-10-12,Thanksgiving Day,ON,2020
+2020-10-12,Thanksgiving Day,QC,2020
+2020-10-12,Thanksgiving Day,SK,2020
+2020-10-12,Thanksgiving Day,YT,2020
+2020-11-11,Remembrance Day,AB,2020
+2020-11-11,Remembrance Day,BC,2020
+2020-11-11,Remembrance Day,NB,2020
+2020-11-11,Remembrance Day,NL,2020
+2020-11-11,Remembrance Day,NS,2020
+2020-11-11,Remembrance Day,NT,2020
+2020-11-11,Remembrance Day,NU,2020
+2020-11-11,Remembrance Day,PE,2020
+2020-11-11,Remembrance Day,SK,2020
+2020-11-11,Remembrance Day,YT,2020
+2020-12-25,Christmas Day,AB,2020
+2020-12-25,Christmas Day,BC,2020
+2020-12-25,Christmas Day,MB,2020
+2020-12-25,Christmas Day,NB,2020
+2020-12-25,Christmas Day,NL,2020
+2020-12-25,Christmas Day,NS,2020
+2020-12-25,Christmas Day,NT,2020
+2020-12-25,Christmas Day,NU,2020
+2020-12-25,Christmas Day,ON,2020
+2020-12-25,Christmas Day,PE,2020
+2020-12-25,Christmas Day,QC,2020
+2020-12-25,Christmas Day,SK,2020
+2020-12-25,Christmas Day,YT,2020
+2020-12-26,Boxing Day,ON,2020
+2021-01-01,New Year's Day,AB,2021
+2021-01-01,New Year's Day,BC,2021
+2021-01-01,New Year's Day,MB,2021
+2021-01-01,New Year's Day,NB,2021
+2021-01-01,New Year's Day,NL,2021
+2021-01-01,New Year's Day,NS,2021
+2021-01-01,New Year's Day,NT,2021
+2021-01-01,New Year's Day,NU,2021
+2021-01-01,New Year's Day,ON,2021
+2021-01-01,New Year's Day,PE,2021
+2021-01-01,New Year's Day,QC,2021
+2021-01-01,New Year's Day,SK,2021
+2021-01-01,New Year's Day,YT,2021
+2021-02-15,Family Day,AB,2021
+2021-02-15,Family Day,BC,2021
+2021-02-15,Louis Riel Day,MB,2021
+2021-02-15,Family Day,NB,2021
+2021-02-15,Heritage Day,NS,2021
+2021-02-15,Family Day,ON,2021
+2021-02-15,Islander Day,PE,2021
+2021-02-15,Family Day,SK,2021
+2021-04-02,Good Friday,AB,2021
+2021-04-02,Good Friday,BC,2021
+2021-04-02,Good Friday,MB,2021
+2021-04-02,Good Friday,NB,2021
+2021-04-02,Good Friday,NL,2021
+2021-04-02,Good Friday,NS,2021
+2021-04-02,Good Friday,NT,2021
+2021-04-02,Good Friday,NU,2021
+2021-04-02,Good Friday,ON,2021
+2021-04-02,Good Friday,PE,2021
+2021-04-02,Good Friday,QC,2021
+2021-04-02,Good Friday,SK,2021
+2021-04-02,Good Friday,YT,2021
+2021-05-24,Victoria Day,AB,2021
+2021-05-24,Victoria Day,BC,2021
+2021-05-24,Victoria Day,MB,2021
+2021-05-24,Victoria Day,NT,2021
+2021-05-24,Victoria Day,NU,2021
+2021-05-24,Victoria Day,ON,2021
+2021-05-24,National Patriots' Day,QC,2021
+2021-05-24,Victoria Day,SK,2021
+2021-05-24,Victoria Day,YT,2021
+2021-06-21,National Aboriginal Day,NT,2021
+2021-06-21,National Aboriginal Day,YT,2021
+2021-06-24,Saint John the Baptist Day,QC,2021
+2021-07-01,Canada Day,AB,2021
+2021-07-01,Canada Day,BC,2021
+2021-07-01,Canada Day,MB,2021
+2021-07-01,Canada Day,NB,2021
+2021-07-01,Canada Day; Memorial Day,NL,2021
+2021-07-01,Canada Day,NS,2021
+2021-07-01,Canada Day,NT,2021
+2021-07-01,Canada Day,NU,2021
+2021-07-01,Canada Day,ON,2021
+2021-07-01,Canada Day,PE,2021
+2021-07-01,Canada Day,QC,2021
+2021-07-01,Canada Day,SK,2021
+2021-07-01,Canada Day,YT,2021
+2021-07-09,Nunavut Day,NU,2021
+2021-08-02,British Columbia Day,BC,2021
+2021-08-02,New Brunswick Day,NB,2021
+2021-08-02,Civic Holiday,NT,2021
+2021-08-02,Civic Holiday,NU,2021
+2021-08-02,Saskatchewan Day,SK,2021
+2021-08-16,Discovery Day,YT,2021
+2021-09-06,Labor Day,AB,2021
+2021-09-06,Labor Day,BC,2021
+2021-09-06,Labor Day,MB,2021
+2021-09-06,Labor Day,NB,2021
+2021-09-06,Labor Day,NL,2021
+2021-09-06,Labor Day,NS,2021
+2021-09-06,Labor Day,NT,2021
+2021-09-06,Labor Day,NU,2021
+2021-09-06,Labor Day,ON,2021
+2021-09-06,Labor Day,PE,2021
+2021-09-06,Labor Day,QC,2021
+2021-09-06,Labor Day,SK,2021
+2021-09-06,Labor Day,YT,2021
+2021-10-11,Thanksgiving Day,AB,2021
+2021-10-11,Thanksgiving Day,BC,2021
+2021-10-11,Thanksgiving Day,MB,2021
+2021-10-11,Thanksgiving Day,NT,2021
+2021-10-11,Thanksgiving Day,NU,2021
+2021-10-11,Thanksgiving Day,ON,2021
+2021-10-11,Thanksgiving Day,QC,2021
+2021-10-11,Thanksgiving Day,SK,2021
+2021-10-11,Thanksgiving Day,YT,2021
+2021-11-11,Remembrance Day,AB,2021
+2021-11-11,Remembrance Day,BC,2021
+2021-11-11,Remembrance Day,NB,2021
+2021-11-11,Remembrance Day,NL,2021
+2021-11-11,Remembrance Day,NS,2021
+2021-11-11,Remembrance Day,NT,2021
+2021-11-11,Remembrance Day,NU,2021
+2021-11-11,Remembrance Day,PE,2021
+2021-11-11,Remembrance Day,SK,2021
+2021-11-11,Remembrance Day,YT,2021
+2021-12-25,Christmas Day,AB,2021
+2021-12-25,Christmas Day,BC,2021
+2021-12-25,Christmas Day,MB,2021
+2021-12-25,Christmas Day,NB,2021
+2021-12-25,Christmas Day,NL,2021
+2021-12-25,Christmas Day,NS,2021
+2021-12-25,Christmas Day,NT,2021
+2021-12-25,Christmas Day,NU,2021
+2021-12-25,Christmas Day,ON,2021
+2021-12-25,Christmas Day,PE,2021
+2021-12-25,Christmas Day,QC,2021
+2021-12-25,Christmas Day,SK,2021
+2021-12-25,Christmas Day,YT,2021
+2021-12-26,Boxing Day,ON,2021
+2021-12-27,Christmas Day (observed),AB,2021
+2021-12-27,Christmas Day (observed),BC,2021
+2021-12-27,Christmas Day (observed),MB,2021
+2021-12-27,Christmas Day (observed),NB,2021
+2021-12-27,Christmas Day (observed),NL,2021
+2021-12-27,Christmas Day (observed),NS,2021
+2021-12-27,Christmas Day (observed),NT,2021
+2021-12-27,Christmas Day (observed),NU,2021
+2021-12-27,Christmas Day (observed),ON,2021
+2021-12-27,Christmas Day (observed),PE,2021
+2021-12-27,Christmas Day (observed),QC,2021
+2021-12-27,Christmas Day (observed),SK,2021
+2021-12-27,Christmas Day (observed),YT,2021
+2021-12-28,Boxing Day (observed),ON,2021
+2022-01-01,New Year's Day,AB,2022
+2022-01-01,New Year's Day,BC,2022
+2022-01-01,New Year's Day,MB,2022
+2022-01-01,New Year's Day,NB,2022
+2022-01-01,New Year's Day,NL,2022
+2022-01-01,New Year's Day,NS,2022
+2022-01-01,New Year's Day,NT,2022
+2022-01-01,New Year's Day,NU,2022
+2022-01-01,New Year's Day,ON,2022
+2022-01-01,New Year's Day,PE,2022
+2022-01-01,New Year's Day,QC,2022
+2022-01-01,New Year's Day,SK,2022
+2022-01-01,New Year's Day,YT,2022
+2022-01-03,New Year's Day (observed),AB,2022
+2022-01-03,New Year's Day (observed),BC,2022
+2022-01-03,New Year's Day (observed),MB,2022
+2022-01-03,New Year's Day (observed),NB,2022
+2022-01-03,New Year's Day (observed),NL,2022
+2022-01-03,New Year's Day (observed),NS,2022
+2022-01-03,New Year's Day (observed),NT,2022
+2022-01-03,New Year's Day (observed),NU,2022
+2022-01-03,New Year's Day (observed),ON,2022
+2022-01-03,New Year's Day (observed),PE,2022
+2022-01-03,New Year's Day (observed),QC,2022
+2022-01-03,New Year's Day (observed),SK,2022
+2022-01-03,New Year's Day (observed),YT,2022
+2022-02-21,Family Day,AB,2022
+2022-02-21,Family Day,BC,2022
+2022-02-21,Louis Riel Day,MB,2022
+2022-02-21,Family Day,NB,2022
+2022-02-21,Heritage Day,NS,2022
+2022-02-21,Family Day,ON,2022
+2022-02-21,Islander Day,PE,2022
+2022-02-21,Family Day,SK,2022
+2022-04-15,Good Friday,AB,2022
+2022-04-15,Good Friday,BC,2022
+2022-04-15,Good Friday,MB,2022
+2022-04-15,Good Friday,NB,2022
+2022-04-15,Good Friday,NL,2022
+2022-04-15,Good Friday,NS,2022
+2022-04-15,Good Friday,NT,2022
+2022-04-15,Good Friday,NU,2022
+2022-04-15,Good Friday,ON,2022
+2022-04-15,Good Friday,PE,2022
+2022-04-15,Good Friday,QC,2022
+2022-04-15,Good Friday,SK,2022
+2022-04-15,Good Friday,YT,2022
+2022-05-23,Victoria Day,AB,2022
+2022-05-23,Victoria Day,BC,2022
+2022-05-23,Victoria Day,MB,2022
+2022-05-23,Victoria Day,NT,2022
+2022-05-23,Victoria Day,NU,2022
+2022-05-23,Victoria Day,ON,2022
+2022-05-23,National Patriots' Day,QC,2022
+2022-05-23,Victoria Day,SK,2022
+2022-05-23,Victoria Day,YT,2022
+2022-06-21,National Aboriginal Day,NT,2022
+2022-06-21,National Aboriginal Day,YT,2022
+2022-06-24,Saint John the Baptist Day,QC,2022
+2022-07-01,Canada Day,AB,2022
+2022-07-01,Canada Day,BC,2022
+2022-07-01,Canada Day,MB,2022
+2022-07-01,Canada Day,NB,2022
+2022-07-01,Canada Day; Memorial Day,NL,2022
+2022-07-01,Canada Day,NS,2022
+2022-07-01,Canada Day,NT,2022
+2022-07-01,Canada Day,NU,2022
+2022-07-01,Canada Day,ON,2022
+2022-07-01,Canada Day,PE,2022
+2022-07-01,Canada Day,QC,2022
+2022-07-01,Canada Day,SK,2022
+2022-07-01,Canada Day,YT,2022
+2022-07-09,Nunavut Day,NU,2022
+2022-08-01,British Columbia Day,BC,2022
+2022-08-01,New Brunswick Day,NB,2022
+2022-08-01,Civic Holiday,NT,2022
+2022-08-01,Civic Holiday,NU,2022
+2022-08-01,Saskatchewan Day,SK,2022
+2022-08-15,Discovery Day,YT,2022
+2022-09-05,Labor Day,AB,2022
+2022-09-05,Labor Day,BC,2022
+2022-09-05,Labor Day,MB,2022
+2022-09-05,Labor Day,NB,2022
+2022-09-05,Labor Day,NL,2022
+2022-09-05,Labor Day,NS,2022
+2022-09-05,Labor Day,NT,2022
+2022-09-05,Labor Day,NU,2022
+2022-09-05,Labor Day,ON,2022
+2022-09-05,Labor Day,PE,2022
+2022-09-05,Labor Day,QC,2022
+2022-09-05,Labor Day,SK,2022
+2022-09-05,Labor Day,YT,2022
+2022-09-19,Funeral of Her Majesty the Queen Elizabeth II,BC,2022
+2022-09-19,Funeral of Her Majesty the Queen Elizabeth II,NB,2022
+2022-09-19,Funeral of Her Majesty the Queen Elizabeth II,NL,2022
+2022-09-19,Funeral of Her Majesty the Queen Elizabeth II,NS,2022
+2022-09-19,Funeral of Her Majesty the Queen Elizabeth II,PE,2022
+2022-09-19,Funeral of Her Majesty the Queen Elizabeth II,YT,2022
+2022-09-30,National Day for Truth and Reconciliation,NT,2022
+2022-09-30,National Day for Truth and Reconciliation,NU,2022
+2022-09-30,National Day for Truth and Reconciliation,PE,2022
+2022-10-10,Thanksgiving Day,AB,2022
+2022-10-10,Thanksgiving Day,BC,2022
+2022-10-10,Thanksgiving Day,MB,2022
+2022-10-10,Thanksgiving Day,NT,2022
+2022-10-10,Thanksgiving Day,NU,2022
+2022-10-10,Thanksgiving Day,ON,2022
+2022-10-10,Thanksgiving Day,QC,2022
+2022-10-10,Thanksgiving Day,SK,2022
+2022-10-10,Thanksgiving Day,YT,2022
+2022-11-11,Remembrance Day,AB,2022
+2022-11-11,Remembrance Day,BC,2022
+2022-11-11,Remembrance Day,NB,2022
+2022-11-11,Remembrance Day,NL,2022
+2022-11-11,Remembrance Day,NS,2022
+2022-11-11,Remembrance Day,NT,2022
+2022-11-11,Remembrance Day,NU,2022
+2022-11-11,Remembrance Day,PE,2022
+2022-11-11,Remembrance Day,SK,2022
+2022-11-11,Remembrance Day,YT,2022
+2022-12-25,Christmas Day,AB,2022
+2022-12-25,Christmas Day,BC,2022
+2022-12-25,Christmas Day,MB,2022
+2022-12-25,Christmas Day,NB,2022
+2022-12-25,Christmas Day,NL,2022
+2022-12-25,Christmas Day,NS,2022
+2022-12-25,Christmas Day,NT,2022
+2022-12-25,Christmas Day,NU,2022
+2022-12-25,Christmas Day,ON,2022
+2022-12-25,Christmas Day,PE,2022
+2022-12-25,Christmas Day,QC,2022
+2022-12-25,Christmas Day,SK,2022
+2022-12-25,Christmas Day,YT,2022
+2022-12-26,Christmas Day (observed),AB,2022
+2022-12-26,Christmas Day (observed),BC,2022
+2022-12-26,Christmas Day (observed),MB,2022
+2022-12-26,Christmas Day (observed),NB,2022
+2022-12-26,Christmas Day (observed),NL,2022
+2022-12-26,Christmas Day (observed),NS,2022
+2022-12-26,Christmas Day (observed),NT,2022
+2022-12-26,Christmas Day (observed),NU,2022
+2022-12-26,Boxing Day; Christmas Day (observed),ON,2022
+2022-12-26,Christmas Day (observed),PE,2022
+2022-12-26,Christmas Day (observed),QC,2022
+2022-12-26,Christmas Day (observed),SK,2022
+2022-12-26,Christmas Day (observed),YT,2022
+2023-01-01,New Year's Day,AB,2023
+2023-01-01,New Year's Day,BC,2023
+2023-01-01,New Year's Day,MB,2023
+2023-01-01,New Year's Day,NB,2023
+2023-01-01,New Year's Day,NL,2023
+2023-01-01,New Year's Day,NS,2023
+2023-01-01,New Year's Day,NT,2023
+2023-01-01,New Year's Day,NU,2023
+2023-01-01,New Year's Day,ON,2023
+2023-01-01,New Year's Day,PE,2023
+2023-01-01,New Year's Day,QC,2023
+2023-01-01,New Year's Day,SK,2023
+2023-01-01,New Year's Day,YT,2023
+2023-01-02,New Year's Day (observed),AB,2023
+2023-01-02,New Year's Day (observed),BC,2023
+2023-01-02,New Year's Day (observed),MB,2023
+2023-01-02,New Year's Day (observed),NB,2023
+2023-01-02,New Year's Day (observed),NL,2023
+2023-01-02,New Year's Day (observed),NS,2023
+2023-01-02,New Year's Day (observed),NT,2023
+2023-01-02,New Year's Day (observed),NU,2023
+2023-01-02,New Year's Day (observed),ON,2023
+2023-01-02,New Year's Day (observed),PE,2023
+2023-01-02,New Year's Day (observed),QC,2023
+2023-01-02,New Year's Day (observed),SK,2023
+2023-01-02,New Year's Day (observed),YT,2023
+2023-02-20,Family Day,AB,2023
+2023-02-20,Family Day,BC,2023
+2023-02-20,Louis Riel Day,MB,2023
+2023-02-20,Family Day,NB,2023
+2023-02-20,Heritage Day,NS,2023
+2023-02-20,Family Day,ON,2023
+2023-02-20,Islander Day,PE,2023
+2023-02-20,Family Day,SK,2023
+2023-04-07,Good Friday,AB,2023
+2023-04-07,Good Friday,BC,2023
+2023-04-07,Good Friday,MB,2023
+2023-04-07,Good Friday,NB,2023
+2023-04-07,Good Friday,NL,2023
+2023-04-07,Good Friday,NS,2023
+2023-04-07,Good Friday,NT,2023
+2023-04-07,Good Friday,NU,2023
+2023-04-07,Good Friday,ON,2023
+2023-04-07,Good Friday,PE,2023
+2023-04-07,Good Friday,QC,2023
+2023-04-07,Good Friday,SK,2023
+2023-04-07,Good Friday,YT,2023
+2023-05-22,Victoria Day,AB,2023
+2023-05-22,Victoria Day,BC,2023
+2023-05-22,Victoria Day,MB,2023
+2023-05-22,Victoria Day,NT,2023
+2023-05-22,Victoria Day,NU,2023
+2023-05-22,Victoria Day,ON,2023
+2023-05-22,National Patriots' Day,QC,2023
+2023-05-22,Victoria Day,SK,2023
+2023-05-22,Victoria Day,YT,2023
+2023-06-21,National Aboriginal Day,NT,2023
+2023-06-21,National Aboriginal Day,YT,2023
+2023-06-24,Saint John the Baptist Day,QC,2023
+2023-07-01,Canada Day,AB,2023
+2023-07-01,Canada Day,BC,2023
+2023-07-01,Canada Day,MB,2023
+2023-07-01,Canada Day,NB,2023
+2023-07-01,Canada Day; Memorial Day,NL,2023
+2023-07-01,Canada Day,NS,2023
+2023-07-01,Canada Day,NT,2023
+2023-07-01,Canada Day,NU,2023
+2023-07-01,Canada Day,ON,2023
+2023-07-01,Canada Day,PE,2023
+2023-07-01,Canada Day,QC,2023
+2023-07-01,Canada Day,SK,2023
+2023-07-01,Canada Day,YT,2023
+2023-07-03,Canada Day (observed); Memorial Day (observed),NL,2023
+2023-07-03,Canada Day (observed),PE,2023
+2023-07-03,Canada Day (observed),SK,2023
+2023-07-03,Canada Day (observed),YT,2023
+2023-07-09,Nunavut Day,NU,2023
+2023-08-07,British Columbia Day,BC,2023
+2023-08-07,New Brunswick Day,NB,2023
+2023-08-07,Civic Holiday,NT,2023
+2023-08-07,Civic Holiday,NU,2023
+2023-08-07,Saskatchewan Day,SK,2023
+2023-08-21,Discovery Day,YT,2023
+2023-09-04,Labor Day,AB,2023
+2023-09-04,Labor Day,BC,2023
+2023-09-04,Labor Day,MB,2023
+2023-09-04,Labor Day,NB,2023
+2023-09-04,Labor Day,NL,2023
+2023-09-04,Labor Day,NS,2023
+2023-09-04,Labor Day,NT,2023
+2023-09-04,Labor Day,NU,2023
+2023-09-04,Labor Day,ON,2023
+2023-09-04,Labor Day,PE,2023
+2023-09-04,Labor Day,QC,2023
+2023-09-04,Labor Day,SK,2023
+2023-09-04,Labor Day,YT,2023
+2023-09-30,National Day for Truth and Reconciliation,BC,2023
+2023-09-30,National Day for Truth and Reconciliation,NT,2023
+2023-09-30,National Day for Truth and Reconciliation,NU,2023
+2023-09-30,National Day for Truth and Reconciliation,PE,2023
+2023-09-30,National Day for Truth and Reconciliation,YT,2023
+2023-10-09,Thanksgiving Day,AB,2023
+2023-10-09,Thanksgiving Day,BC,2023
+2023-10-09,Thanksgiving Day,MB,2023
+2023-10-09,Thanksgiving Day,NT,2023
+2023-10-09,Thanksgiving Day,NU,2023
+2023-10-09,Thanksgiving Day,ON,2023
+2023-10-09,Thanksgiving Day,QC,2023
+2023-10-09,Thanksgiving Day,SK,2023
+2023-10-09,Thanksgiving Day,YT,2023
+2023-11-11,Remembrance Day,AB,2023
+2023-11-11,Remembrance Day,BC,2023
+2023-11-11,Remembrance Day,NB,2023
+2023-11-11,Remembrance Day,NL,2023
+2023-11-11,Remembrance Day,NS,2023
+2023-11-11,Remembrance Day,NT,2023
+2023-11-11,Remembrance Day,NU,2023
+2023-11-11,Remembrance Day,PE,2023
+2023-11-11,Remembrance Day,SK,2023
+2023-11-11,Remembrance Day,YT,2023
+2023-11-13,Remembrance Day (observed),AB,2023
+2023-11-13,Remembrance Day (observed),NL,2023
+2023-11-13,Remembrance Day (observed),NS,2023
+2023-11-13,Remembrance Day (observed),PE,2023
+2023-11-13,Remembrance Day (observed),SK,2023
+2023-11-13,Remembrance Day (observed),YT,2023
+2023-12-25,Christmas Day,AB,2023
+2023-12-25,Christmas Day,BC,2023
+2023-12-25,Christmas Day,MB,2023
+2023-12-25,Christmas Day,NB,2023
+2023-12-25,Christmas Day,NL,2023
+2023-12-25,Christmas Day,NS,2023
+2023-12-25,Christmas Day,NT,2023
+2023-12-25,Christmas Day,NU,2023
+2023-12-25,Christmas Day,ON,2023
+2023-12-25,Christmas Day,PE,2023
+2023-12-25,Christmas Day,QC,2023
+2023-12-25,Christmas Day,SK,2023
+2023-12-25,Christmas Day,YT,2023
+2023-12-26,Boxing Day,ON,2023
+2024-01-01,New Year's Day,AB,2024
+2024-01-01,New Year's Day,BC,2024
+2024-01-01,New Year's Day,MB,2024
+2024-01-01,New Year's Day,NB,2024
+2024-01-01,New Year's Day,NL,2024
+2024-01-01,New Year's Day,NS,2024
+2024-01-01,New Year's Day,NT,2024
+2024-01-01,New Year's Day,NU,2024
+2024-01-01,New Year's Day,ON,2024
+2024-01-01,New Year's Day,PE,2024
+2024-01-01,New Year's Day,QC,2024
+2024-01-01,New Year's Day,SK,2024
+2024-01-01,New Year's Day,YT,2024
+2024-02-19,Family Day,AB,2024
+2024-02-19,Family Day,BC,2024
+2024-02-19,Louis Riel Day,MB,2024
+2024-02-19,Family Day,NB,2024
+2024-02-19,Heritage Day,NS,2024
+2024-02-19,Family Day,ON,2024
+2024-02-19,Islander Day,PE,2024
+2024-02-19,Family Day,SK,2024
+2024-03-29,Good Friday,AB,2024
+2024-03-29,Good Friday,BC,2024
+2024-03-29,Good Friday,MB,2024
+2024-03-29,Good Friday,NB,2024
+2024-03-29,Good Friday,NL,2024
+2024-03-29,Good Friday,NS,2024
+2024-03-29,Good Friday,NT,2024
+2024-03-29,Good Friday,NU,2024
+2024-03-29,Good Friday,ON,2024
+2024-03-29,Good Friday,PE,2024
+2024-03-29,Good Friday,QC,2024
+2024-03-29,Good Friday,SK,2024
+2024-03-29,Good Friday,YT,2024
+2024-05-20,Victoria Day,AB,2024
+2024-05-20,Victoria Day,BC,2024
+2024-05-20,Victoria Day,MB,2024
+2024-05-20,Victoria Day,NT,2024
+2024-05-20,Victoria Day,NU,2024
+2024-05-20,Victoria Day,ON,2024
+2024-05-20,National Patriots' Day,QC,2024
+2024-05-20,Victoria Day,SK,2024
+2024-05-20,Victoria Day,YT,2024
+2024-06-21,National Aboriginal Day,NT,2024
+2024-06-21,National Aboriginal Day,YT,2024
+2024-06-24,Saint John the Baptist Day,QC,2024
+2024-07-01,Canada Day,AB,2024
+2024-07-01,Canada Day,BC,2024
+2024-07-01,Canada Day,MB,2024
+2024-07-01,Canada Day,NB,2024
+2024-07-01,Canada Day; Memorial Day,NL,2024
+2024-07-01,Canada Day,NS,2024
+2024-07-01,Canada Day,NT,2024
+2024-07-01,Canada Day,NU,2024
+2024-07-01,Canada Day,ON,2024
+2024-07-01,Canada Day,PE,2024
+2024-07-01,Canada Day,QC,2024
+2024-07-01,Canada Day,SK,2024
+2024-07-01,Canada Day,YT,2024
+2024-07-09,Nunavut Day,NU,2024
+2024-08-05,British Columbia Day,BC,2024
+2024-08-05,New Brunswick Day,NB,2024
+2024-08-05,Civic Holiday,NT,2024
+2024-08-05,Civic Holiday,NU,2024
+2024-08-05,Saskatchewan Day,SK,2024
+2024-08-19,Discovery Day,YT,2024
+2024-09-02,Labor Day,AB,2024
+2024-09-02,Labor Day,BC,2024
+2024-09-02,Labor Day,MB,2024
+2024-09-02,Labor Day,NB,2024
+2024-09-02,Labor Day,NL,2024
+2024-09-02,Labor Day,NS,2024
+2024-09-02,Labor Day,NT,2024
+2024-09-02,Labor Day,NU,2024
+2024-09-02,Labor Day,ON,2024
+2024-09-02,Labor Day,PE,2024
+2024-09-02,Labor Day,QC,2024
+2024-09-02,Labor Day,SK,2024
+2024-09-02,Labor Day,YT,2024
+2024-09-30,National Day for Truth and Reconciliation,BC,2024
+2024-09-30,National Day for Truth and Reconciliation,NT,2024
+2024-09-30,National Day for Truth and Reconciliation,NU,2024
+2024-09-30,National Day for Truth and Reconciliation,PE,2024
+2024-09-30,National Day for Truth and Reconciliation,YT,2024
+2024-10-14,Thanksgiving Day,AB,2024
+2024-10-14,Thanksgiving Day,BC,2024
+2024-10-14,Thanksgiving Day,MB,2024
+2024-10-14,Thanksgiving Day,NT,2024
+2024-10-14,Thanksgiving Day,NU,2024
+2024-10-14,Thanksgiving Day,ON,2024
+2024-10-14,Thanksgiving Day,QC,2024
+2024-10-14,Thanksgiving Day,SK,2024
+2024-10-14,Thanksgiving Day,YT,2024
+2024-11-11,Remembrance Day,AB,2024
+2024-11-11,Remembrance Day,BC,2024
+2024-11-11,Remembrance Day,NB,2024
+2024-11-11,Remembrance Day,NL,2024
+2024-11-11,Remembrance Day,NS,2024
+2024-11-11,Remembrance Day,NT,2024
+2024-11-11,Remembrance Day,NU,2024
+2024-11-11,Remembrance Day,PE,2024
+2024-11-11,Remembrance Day,SK,2024
+2024-11-11,Remembrance Day,YT,2024
+2024-12-25,Christmas Day,AB,2024
+2024-12-25,Christmas Day,BC,2024
+2024-12-25,Christmas Day,MB,2024
+2024-12-25,Christmas Day,NB,2024
+2024-12-25,Christmas Day,NL,2024
+2024-12-25,Christmas Day,NS,2024
+2024-12-25,Christmas Day,NT,2024
+2024-12-25,Christmas Day,NU,2024
+2024-12-25,Christmas Day,ON,2024
+2024-12-25,Christmas Day,PE,2024
+2024-12-25,Christmas Day,QC,2024
+2024-12-25,Christmas Day,SK,2024
+2024-12-25,Christmas Day,YT,2024
+2024-12-26,Boxing Day,ON,2024
