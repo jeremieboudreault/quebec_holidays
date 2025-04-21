@@ -81,8 +81,8 @@ hol_tbl[DATE == EASTER_DATE - 2L, HOLIDAY_CHR := "Good Friday"]
 hol_tbl[DATE == EASTER_DATE + 1L, HOLIDAY_CHR := "Easter Monday"]
 hol_tbl[, EASTER_DATE := NULL]
 
-# Patriot day (first Monday < 05/25).
-hol_tbl[DAY %in% seq.int(18L, 24L) & MONTH == 5L & WEEKDAY == 1L, HOLIDAY_CHR := "Patriot"]
+# Patriot day (first Monday < 05/25, starting in 2003).
+hol_tbl[YEAR >= 2003 & DAY %in% seq.int(18L, 24L) & MONTH == 5L & WEEKDAY == 1L, HOLIDAY_CHR := "Patriot"]
 
 # Saint-Jean Baptiste (24/06, except for week-end).
 hol_tbl[MONTH == 6L & DAY == 24L & WEEKDAY %in% 1:5, HOLIDAY_CHR := "Saint-Jean-Baptiste"]  # When it is not on week-end
