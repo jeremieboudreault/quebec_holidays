@@ -7,7 +7,7 @@
 # Project : quebec_holidays
 # Author  : Jeremie Boudreault
 # Email   : Prenom.Nom@inrs.ca
-# Depends : R (v4.2.1)
+# Depends : R (v4.4.2)
 # License : CC BY-NC-ND 4.0
 
 
@@ -40,9 +40,9 @@ weekday_list <- list(
 # Basic information for the holiday table --------------------------------------
 
 
-# Initial a data.table with <DATE> from 1980 to 2022.
+# Initial a data.table with <DATE> from 1980 to 2024.
 hol_tbl <- data.table::data.table(
-    DATE = seq.Date(as.Date("1980-01-01"), as.Date("2022-12-31"), by = 1L)
+    DATE = seq.Date(as.Date("1980-01-01"), as.Date("2024-12-31"), by = 1L)
 )
 
 # Extract <YEAR>, <MONTH>.
@@ -144,6 +144,6 @@ hol_tbl <- hol_tbl[, .(
 
 data.table::fwrite(
     x    = hol_tbl,
-    file = "out/quebec_holidays_v20230215.csv",
+    file = "out/quebec_holidays_v20250421.csv",
     sep  = ";"
 )
